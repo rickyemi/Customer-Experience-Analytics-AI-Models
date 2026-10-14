@@ -1,0 +1,63 @@
+{
+  "design": {
+    "capacity": 0.3,
+    "alpha": 0.05,
+    "power": 0.8,
+    "unit": "account",
+    "primary_metric": "60-day order conversion (ITT)",
+    "guardrail": "unsubscribe rate <= +0.3 pts"
+  },
+  "power_analysis": {
+    "baseline_rate": 0.13420523138833,
+    "n_per_arm_for_1pt_mde": 18805,
+    "n_per_arm_for_1_5pt_mde": 8481,
+    "n_per_arm_for_2pt_mde": 4838
+  },
+  "offline_policy_evaluation": {
+    "Random 30%": {
+      "ipw_incremental_per_1000": 14.400000000000023,
+      "true_incremental_per_1000": 12.36754
+    },
+    "BAU (engaged)": {
+      "ipw_incremental_per_1000": 13.00000000000001,
+      "true_incremental_per_1000": 8.274319999999998
+    },
+    "Response model": {
+      "ipw_incremental_per_1000": 31.800000000000022,
+      "true_incremental_per_1000": 26.82588
+    },
+    "Uplift model": {
+      "ipw_incremental_per_1000": 30.700000000000006,
+      "true_incremental_per_1000": 28.486534999999996
+    }
+  },
+  "arms": {
+    "A": {
+      "n": 9940,
+      "conversions": 1334,
+      "rate": 0.13420523138833,
+      "unsub_rate": 0.010663983903420523,
+      "contacted": 2982
+    },
+    "B": {
+      "n": 10060,
+      "conversions": 1627,
+      "rate": 0.16172962226640158,
+      "unsub_rate": 0.012127236580516898,
+      "contacted": 3018
+    }
+  },
+  "abs_lift_pts": 2.7524390878071596,
+  "ci95_pts": [
+    1.7691906271592173,
+    3.735687548455102
+  ],
+  "relative_lift": 0.20509178810197276,
+  "p_value": 2.1261615734363313e-08,
+  "z": 5.480038907663041,
+  "guardrail_unsub_diff_pts": 0.14632526770963755,
+  "incremental_conversions_per_1000_accounts": 27.524390878071596,
+  "value_per_conversion_assumed_usd": 3500,
+  "incremental_value_per_10k_accounts_usd": 963353.6807325059,
+  "decision": "SHIP / scale to Wave 2"
+}

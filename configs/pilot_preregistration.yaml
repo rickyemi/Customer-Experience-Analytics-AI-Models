@@ -1,0 +1,31 @@
+# Pre-registration for the Next-Best-Action MVP pilot.
+# Locked before launch; changes require sign-off from CX Analytics, Brand, Compliance.
+pilot: nba_uplift_targeting_v1
+hypothesis: >
+  Contacting the 30% of accounts with the highest predicted uplift raises 60-day
+  order conversion versus today's rule (contact the 30% most digitally engaged),
+  at equal outreach capacity, without increasing opt-outs.
+unit_of_randomization: account          # stratified by company x account_tier
+arms:
+  A_control: "BAU rule: top 30% digital engagement score"
+  B_treatment: "Uplift model (T-learner): top 30% predicted uplift; suppress negative uplift"
+allocation: 0.5
+primary_metric:
+  name: conversion_60d
+  definition: "share of ALL accounts in arm with >= 1 incremental order within 60 days (intent-to-treat)"
+  minimum_detectable_effect_pts: 1.5
+  alpha: 0.05
+  power: 0.80
+  test: one-sided two-proportion z-test
+secondary_metrics: [orders_per_account, revenue_per_account, time_to_first_order]
+guardrails:
+  unsubscribe_rate_max_increase_pts: 0.3
+  complaint_rate_max_increase_pts: 0.1
+  rep_calls_per_week_max_increase_pct: 10
+duration_weeks: 10                     # 2-week ramp + 8-week read; 60-day outcome window
+peeking_policy: "No efficacy stops before week 6; safety guardrails monitored weekly"
+decision_rule: "Ship if p < 0.05, lift > 0 and all guardrails pass; else iterate"
+compliance:
+  - "All outreach content MLR-approved; model selects WHO and WHEN, never WHAT is claimed"
+  - "Email only to consented contacts (CAN-SPAM); no PHI in features or logs"
+  - "HCP interactions logged for Sunshine Act / Open Payments where transfers of value apply"

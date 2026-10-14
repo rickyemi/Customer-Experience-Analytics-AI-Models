@@ -1,0 +1,6 @@
+region_key,region_name,territories,spend_weight
+1,Northeast,14,0.25
+2,Southeast,12,0.22
+3,Midwest,11,0.19
+4,Southwest,8,0.14
+5,West,12,0.2

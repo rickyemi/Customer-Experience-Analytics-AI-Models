@@ -1,0 +1,73 @@
+{
+  "qini_coefficient": 0.5496471874607418,
+  "corr_pred_vs_true_uplift": 0.5856848631401789,
+  "deciles": [
+    {
+      "decile": 1,
+      "observed_uplift": 0.16502585972234823,
+      "predicted_uplift": 0.24345902819350218,
+      "true_uplift": 0.1264627380952381
+    },
+    {
+      "decile": 2,
+      "observed_uplift": 0.08354358610914245,
+      "predicted_uplift": 0.1423130002377644,
+      "true_uplift": 0.08997511904761907
+    },
+    {
+      "decile": 3,
+      "observed_uplift": 0.06324592487597448,
+      "predicted_uplift": 0.09547940434014458,
+      "true_uplift": 0.06739904761904762
+    },
+    {
+      "decile": 4,
+      "observed_uplift": 0.04588779956427014,
+      "predicted_uplift": 0.06390484294228847,
+      "true_uplift": 0.05009952380952381
+    },
+    {
+      "decile": 5,
+      "observed_uplift": 0.029795010328936902,
+      "predicted_uplift": 0.03974119772437436,
+      "true_uplift": 0.03333916666666666
+    },
+    {
+      "decile": 6,
+      "observed_uplift": 0.014036601915837166,
+      "predicted_uplift": 0.019787463079063712,
+      "true_uplift": 0.02230154761904762
+    },
+    {
+      "decile": 7,
+      "observed_uplift": 0.03408233538878709,
+      "predicted_uplift": 0.0019124987019219838,
+      "true_uplift": 0.01168738095238095
+    },
+    {
+      "decile": 8,
+      "observed_uplift": -0.0009977550511349464,
+      "predicted_uplift": -0.016601280003400578,
+      "true_uplift": 0.005090357142857143
+    },
+    {
+      "decile": 9,
+      "observed_uplift": 0.010153579264248161,
+      "predicted_uplift": -0.04277530089805955,
+      "true_uplift": 0.004627380952380952
+    },
+    {
+      "decile": 10,
+      "observed_uplift": -0.0071102946179492366,
+      "predicted_uplift": -0.11109787775645556,
+      "true_uplift": -0.0006929761904761907
+    }
+  ],
+  "policy": {
+    "uplift_model_top30_true_uplift": 0.09461230158730159,
+    "random_30_true_uplift": 0.03931984126984126,
+    "response_model_note": "see pilot_design for head-to-head simulation"
+  },
+  "target_share": 0.3,
+  "ate_observed": 0.04481929836366791
+}

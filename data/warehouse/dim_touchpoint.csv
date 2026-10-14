@@ -1,0 +1,8 @@
+touchpoint_key,touchpoint_name,is_service,is_digital
+1,Tech Support Ticket,1,0
+2,Field Service Visit,1,0
+3,Customer Portal,0,1
+4,Rep Visit,0,0
+5,Peer Webinar,0,1
+6,Email Click,0,1
+7,Results / Billing Inquiry,1,0

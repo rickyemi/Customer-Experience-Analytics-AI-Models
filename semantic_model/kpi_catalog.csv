@@ -1,0 +1,13 @@
+tier,kpi,definition,formula,grain,direction,target,owner
+North Star,Incremental Marketing ROI,Incremental revenue attributed by the MMM per $1 of marketing spend,SUM(mmm_incremental_revenue) / SUM(spend_usd),brand x channel x quarter,up,>= 2.0,Performance Optimization
+North Star,Net Promoter Score (NPS),% promoters (9-10) minus % detractors (0-6) among survey responses,100 * (COUNT(nps>=9) - COUNT(nps<=6)) / COUNT(nps),brand x quarter,up,>= 40,Customer Insights
+Driver,Cost per Order (CPO),Total marketing spend divided by orders,SUM(spend_usd) / SUM(orders),brand x region x quarter,down,brand-specific,Performance Optimization
+Driver,Revenue per Marketing $,Total (not incremental) revenue per $ spend; descriptive only,SUM(revenue_usd) / SUM(spend_usd),brand x quarter,up,trend,Performance Optimization
+Driver,New Account Acquisition,Accounts placing a first order in the period,SUM(new_accounts),brand x region x quarter,up,+10% YoY,Commercial Ops
+Driver,Digital Engagement Rate,Clicks per impression across paid + owned digital,SUM(clicks) / SUM(impressions),channel x quarter,up,>= 1.2%,Digital Analytics
+Driver,Non-personal Promotion Share,Share of spend in non-personal channels,SUM(spend where promotion_type='Non-personal') / SUM(spend),brand x quarter,context,35-45%,Brand Ops
+Diagnostic,CSAT Top-2-Box,% of interactions rated 4 or 5 of 5,AVG(csat_1to5 >= 4),touchpoint x quarter,up,>= 75%,Customer Service
+Diagnostic,First Contact Resolution,% of service interactions resolved on first contact,AVG(first_contact_resolved) WHERE is_service,touchpoint x quarter,up,>= 70%,Customer Service
+Diagnostic,Avg Resolution Hours,Mean hours from case open to resolution (service touchpoints),AVG(resolution_hrs) WHERE is_service,touchpoint x quarter,down,<= 18 h,Customer Service
+Diagnostic,Customer Effort Score,"Mean effort score, 1 (low effort) to 7 (high effort)",AVG(customer_effort_1to7),touchpoint x quarter,down,<= 3.0,Customer Insights
+Diagnostic,Active Accounts,Distinct accounts with any interaction in the period,COUNT(DISTINCT account_key),brand x quarter,up,trend,Commercial Ops

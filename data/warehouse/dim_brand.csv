@@ -1,0 +1,4 @@
+brand_key,brand_code,brand_name,company,clinical_area,avg_order_value_usd
+1,BEC_IA,DxI Immunoassay,Beckman Coulter,Clinical Lab - Immunoassay,650.0
+2,BEC_HEM,DxH Hematology,Beckman Coulter,Clinical Lab - Hematology,480.0
+3,C2N_AD2,PrecivityAD2,C2N Diagnostics,Neurology - Alzheimer's Blood Test,1450.0

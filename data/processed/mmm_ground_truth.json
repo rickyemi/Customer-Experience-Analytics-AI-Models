@@ -1,0 +1,188 @@
+{
+  "BEC_IA": {
+    "aov": 650.0,
+    "channels": {
+      "REP": {
+        "decay": 0.55,
+        "hill_k": 233125.11095145522,
+        "hill_s": 1.0,
+        "beta_orders": 626.1693457671627,
+        "true_roi": 1.9,
+        "mean_weekly_spend": 105720.42998401422
+      },
+      "EML": {
+        "decay": 0.2,
+        "hill_k": 10782.731978306725,
+        "hill_s": 1.0,
+        "beta_orders": 122.74621871515636,
+        "true_roi": 4.5,
+        "mean_weekly_spend": 8637.566931691015
+      },
+      "SRCH": {
+        "decay": 0.1,
+        "hill_k": 18253.187227861654,
+        "hill_s": 1.3,
+        "beta_orders": 136.8693783090226,
+        "true_roi": 2.6,
+        "mean_weekly_spend": 16438.832241610584
+      },
+      "DISP": {
+        "decay": 0.3,
+        "hill_k": 18271.934995717085,
+        "hill_s": 1.3,
+        "beta_orders": 42.71744628667214,
+        "true_roi": 0.9,
+        "mean_weekly_spend": 12810.707147676976
+      },
+      "SOC": {
+        "decay": 0.3,
+        "hill_k": 15002.301211063224,
+        "hill_s": 1.2,
+        "beta_orders": 44.93204873796535,
+        "true_roi": 1.2,
+        "mean_weekly_spend": 10517.895033955188
+      },
+      "CONF": {
+        "decay": 0.6,
+        "hill_k": 78158.59666426961,
+        "hill_s": 1.0,
+        "beta_orders": 153.98742590996778,
+        "true_roi": 1.4,
+        "mean_weekly_spend": 31436.228216814503
+      },
+      "WEB": {
+        "decay": 0.4,
+        "hill_k": 10958.23221648619,
+        "hill_s": 1.0,
+        "beta_orders": 62.03563142914813,
+        "true_roi": 3.0,
+        "mean_weekly_spend": 6604.013772076478
+      }
+    },
+    "base_mean_weekly_orders": 1572.610212027625
+  },
+  "BEC_HEM": {
+    "aov": 480.0,
+    "channels": {
+      "REP": {
+        "decay": 0.55,
+        "hill_k": 163085.69324109599,
+        "hill_s": 1.0,
+        "beta_orders": 498.2716830837569,
+        "true_roi": 1.6,
+        "mean_weekly_spend": 74038.60742176167
+      },
+      "EML": {
+        "decay": 0.2,
+        "hill_k": 8384.540235597651,
+        "hill_s": 1.0,
+        "beta_orders": 108.84664607464984,
+        "true_roi": 3.8,
+        "mean_weekly_spend": 6719.850080028375
+      },
+      "SRCH": {
+        "decay": 0.1,
+        "hill_k": 12223.305017431016,
+        "hill_s": 1.3,
+        "beta_orders": 104.93495521682871,
+        "true_roi": 2.2,
+        "mean_weekly_spend": 11011.81986771515
+      },
+      "DISP": {
+        "decay": 0.3,
+        "hill_k": 12993.867134683736,
+        "hill_s": 1.3,
+        "beta_orders": 31.176633831449504,
+        "true_roi": 0.7,
+        "mean_weekly_spend": 9095.7296216319
+      },
+      "SOC": {
+        "decay": 0.3,
+        "hill_k": 10512.483222696477,
+        "hill_s": 1.2,
+        "beta_orders": 35.54474567940097,
+        "true_roi": 1.0,
+        "mean_weekly_spend": 7359.011074140484
+      },
+      "CONF": {
+        "decay": 0.6,
+        "hill_k": 48485.64256305269,
+        "hill_s": 1.0,
+        "beta_orders": 100.5077227165154,
+        "true_roi": 1.1,
+        "mean_weekly_spend": 19532.0319888139
+      },
+      "WEB": {
+        "decay": 0.4,
+        "hill_k": 7404.378725036267,
+        "hill_s": 1.0,
+        "beta_orders": 45.48529913769403,
+        "true_roi": 2.4,
+        "mean_weekly_spend": 4462.853309393587
+      }
+    },
+    "base_mean_weekly_orders": 1781.746313760241
+  },
+  "C2N_AD2": {
+    "aov": 1450.0,
+    "channels": {
+      "REP": {
+        "decay": 0.55,
+        "hill_k": 112416.04895578172,
+        "hill_s": 1.0,
+        "beta_orders": 170.14763078445304,
+        "true_roi": 2.4,
+        "mean_weekly_spend": 50869.72583657113
+      },
+      "EML": {
+        "decay": 0.2,
+        "hill_k": 6825.869548965117,
+        "hill_s": 1.0,
+        "beta_orders": 40.21114202601363,
+        "true_roi": 5.2,
+        "mean_weekly_spend": 5467.595506293496
+      },
+      "SRCH": {
+        "decay": 0.1,
+        "hill_k": 21959.43138316001,
+        "hill_s": 1.3,
+        "beta_orders": 96.88391269906178,
+        "true_roi": 3.4,
+        "mean_weekly_spend": 19772.61453640528
+      },
+      "DISP": {
+        "decay": 0.3,
+        "hill_k": 14342.075893998324,
+        "hill_s": 1.3,
+        "beta_orders": 16.971887104026464,
+        "true_roi": 1.1,
+        "mean_weekly_spend": 10040.52956214077
+      },
+      "SOC": {
+        "decay": 0.3,
+        "hill_k": 18862.189835975492,
+        "hill_s": 1.2,
+        "beta_orders": 36.9371242226923,
+        "true_roi": 1.8,
+        "mean_weekly_spend": 13204.624748711141
+      },
+      "CONF": {
+        "decay": 0.6,
+        "hill_k": 44034.53539096544,
+        "hill_s": 1.0,
+        "beta_orders": 25.677718328361465,
+        "true_roi": 0.9,
+        "mean_weekly_spend": 17825.065253773322
+      },
+      "WEB": {
+        "decay": 0.4,
+        "hill_k": 10285.314411184896,
+        "hill_s": 1.0,
+        "beta_orders": 31.368723951257007,
+        "true_roi": 3.6,
+        "mean_weekly_spend": 6219.867137165076
+      }
+    },
+    "base_mean_weekly_orders": 862.1645724267081
+  }
+}

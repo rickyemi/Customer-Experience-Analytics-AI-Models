@@ -1,0 +1,50 @@
+// =====================================================================
+// Power BI semantic model: governed measures (DAX)
+// Tables mirror the star schema in sql/01_ddl_star_schema.sql.
+// Relationships: single-direction, one-to-many from each dim_* to fact_*.
+// Display folders map to KPI tiers in kpi_catalog.csv.
+// =====================================================================
+
+// ---------- Base measures (hidden; building blocks) ----------
+[Spend]            = SUM ( fact_marketing_activity[spend_usd] )
+[Orders]           = SUM ( fact_orders[orders] )
+[Revenue]          = SUM ( fact_orders[revenue_usd] )
+[New Accounts]     = SUM ( fact_orders[new_accounts] )
+[Clicks]           = SUM ( fact_marketing_activity[clicks] )
+[Impressions]      = SUM ( fact_marketing_activity[impressions] )
+[Incremental Revenue (MMM)] =
+    SUMX ( mmm_channel_results,
+           mmm_channel_results[roi] * CALCULATE ( [Spend] ) )
+
+// ---------- North Star ----------
+[Incremental Marketing ROI] = DIVIDE ( [Incremental Revenue (MMM)], [Spend] )
+
+[NPS] =
+VAR Responses  = CALCULATE ( COUNTROWS ( fact_cx_interaction ), NOT ISBLANK ( fact_cx_interaction[nps_0to10] ) )
+VAR Promoters  = CALCULATE ( COUNTROWS ( fact_cx_interaction ), fact_cx_interaction[nps_0to10] >= 9 )
+VAR Detractors = CALCULATE ( COUNTROWS ( fact_cx_interaction ), fact_cx_interaction[nps_0to10] <= 6 )
+RETURN 100 * DIVIDE ( Promoters - Detractors, Responses )
+
+// ---------- Drivers ----------
+[Cost per Order]               = DIVIDE ( [Spend], [Orders] )
+[Revenue per Marketing $]      = DIVIDE ( [Revenue], [Spend] )
+[Digital Engagement Rate]      = DIVIDE ( [Clicks], [Impressions] )
+[Non-personal Promotion Share] =
+    DIVIDE ( CALCULATE ( [Spend], dim_channel[promotion_type] = "Non-personal" ), [Spend] )
+
+// ---------- Diagnostics ----------
+[CSAT Top-2-Box] =
+    DIVIDE ( CALCULATE ( COUNTROWS ( fact_cx_interaction ), fact_cx_interaction[csat_1to5] >= 4 ),
+             COUNTROWS ( fact_cx_interaction ) )
+[First Contact Resolution] =
+    CALCULATE ( AVERAGE ( fact_cx_interaction[first_contact_resolved] ), dim_touchpoint[is_service] = TRUE () )
+[Avg Resolution Hours] =
+    CALCULATE ( AVERAGE ( fact_cx_interaction[resolution_hrs] ), dim_touchpoint[is_service] = TRUE () )
+[Customer Effort Score] = AVERAGE ( fact_cx_interaction[customer_effort_1to7] )
+[Active Accounts]       = DISTINCTCOUNT ( fact_cx_interaction[account_key] )
+
+// ---------- Time intelligence (dim_date marked as date table) ----------
+[Revenue PY]     = CALCULATE ( [Revenue], SAMEPERIODLASTYEAR ( dim_date[week_start] ) )
+[Revenue YoY %]  = DIVIDE ( [Revenue] - [Revenue PY], [Revenue PY] )
+[NPS PY]         = CALCULATE ( [NPS], SAMEPERIODLASTYEAR ( dim_date[week_start] ) )
+[NPS YoY pts]    = [NPS] - [NPS PY]

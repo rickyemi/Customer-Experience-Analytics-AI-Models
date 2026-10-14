@@ -1,0 +1,8 @@
+channel_key,channel_code,channel_name,promotion_type,channel_group
+1,REP,Field Rep Detailing,Personal,Field
+2,EML,HCP / Lab Email,Non-personal,Owned
+3,SRCH,Paid Search,Non-personal,Paid
+4,DISP,Programmatic Display,Non-personal,Paid
+5,SOC,LinkedIn / Paid Social,Non-personal,Paid
+6,CONF,Congress & Trade Shows,Personal,Events
+7,WEB,Peer Webinars,Non-personal,Owned

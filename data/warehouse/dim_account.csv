@@ -1,0 +1,4001 @@
+account_key,account_id,primary_brand_key,customer_type,region_key,account_tier,value_decile,consent_email
+1,ACC-00000,3,Neurology Practice,5,B,9,1
+2,ACC-00001,3,Geriatric Psychiatry,3,A,1,1
+3,ACC-00002,1,Physician Office Lab,2,C,2,1
+4,ACC-00003,2,Reference Lab,1,A,6,1
+5,ACC-00004,3,Primary Care,2,C,1,1
+6,ACC-00005,1,Physician Office Lab,4,C,4,1
+7,ACC-00006,3,Primary Care,3,A,8,1
+8,ACC-00007,2,IDN Core Lab,1,B,1,1
+9,ACC-00008,3,Memory Clinic,1,C,7,1
+10,ACC-00009,3,Neurology Practice,5,C,1,1
+11,ACC-00010,1,Hospital Lab,2,C,8,1
+12,ACC-00011,3,Geriatric Psychiatry,1,B,8,1
+13,ACC-00012,2,Reference Lab,5,C,1,1
+14,ACC-00013,3,Primary Care,2,B,6,1
+15,ACC-00014,1,Physician Office Lab,4,B,5,1
+16,ACC-00015,1,IDN Core Lab,1,B,10,1
+17,ACC-00016,2,Physician Office Lab,2,C,1,1
+18,ACC-00017,1,Hospital Lab,2,A,7,1
+19,ACC-00018,3,Geriatric Psychiatry,5,C,6,1
+20,ACC-00019,1,Physician Office Lab,4,A,10,1
+21,ACC-00020,3,Primary Care,2,B,8,1
+22,ACC-00021,3,Geriatric Psychiatry,4,C,3,0
+23,ACC-00022,3,Neurology Practice,5,C,2,1
+24,ACC-00023,3,Neurology Practice,3,B,6,1
+25,ACC-00024,3,Neurology Practice,3,C,9,1
+26,ACC-00025,3,Neurology Practice,3,B,6,1
+27,ACC-00026,3,Neurology Practice,1,A,6,1
+28,ACC-00027,2,Physician Office Lab,5,B,6,0
+29,ACC-00028,3,Primary Care,4,C,4,1
+30,ACC-00029,3,Geriatric Psychiatry,5,B,9,1
+31,ACC-00030,2,Physician Office Lab,5,A,2,1
+32,ACC-00031,2,Reference Lab,4,C,6,1
+33,ACC-00032,1,IDN Core Lab,4,B,9,1
+34,ACC-00033,3,Memory Clinic,5,B,3,1
+35,ACC-00034,3,Primary Care,3,B,5,1
+36,ACC-00035,1,IDN Core Lab,5,C,8,1
+37,ACC-00036,1,Physician Office Lab,5,B,2,1
+38,ACC-00037,3,Neurology Practice,2,B,3,1
+39,ACC-00038,1,Physician Office Lab,3,B,8,1
+40,ACC-00039,3,Primary Care,4,B,1,1
+41,ACC-00040,2,Hospital Lab,1,A,4,1
+42,ACC-00041,2,Hospital Lab,3,C,6,1
+43,ACC-00042,1,Physician Office Lab,1,C,9,1
+44,ACC-00043,1,Physician Office Lab,1,C,2,1
+45,ACC-00044,3,Primary Care,3,B,6,1
+46,ACC-00045,2,Reference Lab,2,B,8,0
+47,ACC-00046,3,Geriatric Psychiatry,4,B,4,1
+48,ACC-00047,3,Geriatric Psychiatry,3,C,5,1
+49,ACC-00048,3,Primary Care,2,C,5,1
+50,ACC-00049,2,Hospital Lab,1,B,9,1
+51,ACC-00050,2,Physician Office Lab,2,C,7,1
+52,ACC-00051,1,Physician Office Lab,3,B,5,0
+53,ACC-00052,3,Geriatric Psychiatry,4,C,1,1
+54,ACC-00053,2,Physician Office Lab,3,C,4,1
+55,ACC-00054,3,Geriatric Psychiatry,1,A,9,0
+56,ACC-00055,3,Memory Clinic,2,A,5,1
+57,ACC-00056,1,Reference Lab,5,A,4,1
+58,ACC-00057,2,Hospital Lab,5,A,8,1
+59,ACC-00058,3,Geriatric Psychiatry,4,B,10,1
+60,ACC-00059,3,Primary Care,2,A,2,1
+61,ACC-00060,2,IDN Core Lab,1,C,10,1
+62,ACC-00061,3,Geriatric Psychiatry,2,B,4,1
+63,ACC-00062,1,IDN Core Lab,2,A,6,1
+64,ACC-00063,3,Geriatric Psychiatry,4,A,3,1
+65,ACC-00064,3,Primary Care,1,A,1,1
+66,ACC-00065,3,Neurology Practice,5,B,4,0
+67,ACC-00066,2,IDN Core Lab,4,C,9,0
+68,ACC-00067,3,Primary Care,5,B,10,1
+69,ACC-00068,3,Geriatric Psychiatry,5,A,4,1
+70,ACC-00069,1,Reference Lab,2,C,7,1
+71,ACC-00070,3,Neurology Practice,4,B,8,1
+72,ACC-00071,1,Hospital Lab,5,B,6,1
+73,ACC-00072,3,Geriatric Psychiatry,1,B,9,1
+74,ACC-00073,3,Memory Clinic,1,A,2,1
+75,ACC-00074,2,IDN Core Lab,2,C,10,1
+76,ACC-00075,2,Reference Lab,2,C,6,0
+77,ACC-00076,3,Memory Clinic,3,A,2,1
+78,ACC-00077,3,Geriatric Psychiatry,2,B,8,1
+79,ACC-00078,2,IDN Core Lab,2,B,10,1
+80,ACC-00079,3,Primary Care,3,B,4,1
+81,ACC-00080,1,IDN Core Lab,5,C,5,1
+82,ACC-00081,2,Hospital Lab,1,B,10,1
+83,ACC-00082,3,Primary Care,4,C,6,1
+84,ACC-00083,3,Primary Care,5,B,4,1
+85,ACC-00084,1,Reference Lab,2,C,7,1
+86,ACC-00085,2,Physician Office Lab,3,B,2,1
+87,ACC-00086,2,Reference Lab,1,C,4,1
+88,ACC-00087,1,Physician Office Lab,4,C,9,1
+89,ACC-00088,3,Geriatric Psychiatry,5,C,1,1
+90,ACC-00089,1,Reference Lab,1,A,6,0
+91,ACC-00090,2,Physician Office Lab,5,B,7,0
+92,ACC-00091,3,Geriatric Psychiatry,1,C,6,1
+93,ACC-00092,1,IDN Core Lab,5,B,4,1
+94,ACC-00093,2,Reference Lab,3,C,10,1
+95,ACC-00094,3,Primary Care,2,B,9,1
+96,ACC-00095,2,Hospital Lab,5,C,9,1
+97,ACC-00096,2,Hospital Lab,3,B,1,1
+98,ACC-00097,3,Primary Care,1,C,10,1
+99,ACC-00098,3,Primary Care,4,A,6,0
+100,ACC-00099,3,Memory Clinic,1,B,7,1
+101,ACC-00100,1,Physician Office Lab,5,C,4,1
+102,ACC-00101,3,Geriatric Psychiatry,1,B,6,1
+103,ACC-00102,3,Neurology Practice,3,C,8,1
+104,ACC-00103,2,Physician Office Lab,3,C,6,1
+105,ACC-00104,1,Physician Office Lab,3,B,6,1
+106,ACC-00105,3,Neurology Practice,3,A,4,1
+107,ACC-00106,2,Hospital Lab,2,C,10,1
+108,ACC-00107,3,Neurology Practice,4,C,2,1
+109,ACC-00108,1,Physician Office Lab,1,B,4,1
+110,ACC-00109,1,Hospital Lab,4,C,9,0
+111,ACC-00110,3,Memory Clinic,1,B,5,1
+112,ACC-00111,3,Memory Clinic,5,B,1,1
+113,ACC-00112,2,Hospital Lab,4,C,2,1
+114,ACC-00113,3,Geriatric Psychiatry,4,B,9,0
+115,ACC-00114,3,Geriatric Psychiatry,2,C,10,0
+116,ACC-00115,1,Reference Lab,5,A,3,0
+117,ACC-00116,3,Memory Clinic,4,B,3,1
+118,ACC-00117,3,Memory Clinic,5,C,3,0
+119,ACC-00118,2,IDN Core Lab,1,B,10,1
+120,ACC-00119,3,Geriatric Psychiatry,4,C,1,1
+121,ACC-00120,3,Geriatric Psychiatry,3,C,1,0
+122,ACC-00121,2,Hospital Lab,5,C,4,1
+123,ACC-00122,1,IDN Core Lab,2,C,10,0
+124,ACC-00123,3,Neurology Practice,2,C,1,1
+125,ACC-00124,2,Physician Office Lab,5,A,4,0
+126,ACC-00125,1,Physician Office Lab,2,C,2,1
+127,ACC-00126,3,Memory Clinic,4,B,4,1
+128,ACC-00127,3,Primary Care,2,C,7,1
+129,ACC-00128,1,IDN Core Lab,5,C,2,1
+130,ACC-00129,1,Physician Office Lab,3,B,5,1
+131,ACC-00130,3,Primary Care,2,C,2,1
+132,ACC-00131,3,Memory Clinic,5,B,1,0
+133,ACC-00132,2,Reference Lab,1,C,5,0
+134,ACC-00133,1,IDN Core Lab,1,B,4,1
+135,ACC-00134,2,Hospital Lab,5,B,8,1
+136,ACC-00135,2,Reference Lab,2,C,1,1
+137,ACC-00136,2,Reference Lab,1,B,1,1
+138,ACC-00137,3,Memory Clinic,3,C,10,1
+139,ACC-00138,1,Physician Office Lab,2,C,5,0
+140,ACC-00139,3,Memory Clinic,5,C,9,1
+141,ACC-00140,3,Memory Clinic,5,C,2,1
+142,ACC-00141,3,Memory Clinic,5,C,4,1
+143,ACC-00142,2,Hospital Lab,5,A,7,0
+144,ACC-00143,3,Memory Clinic,5,C,3,1
+145,ACC-00144,2,Hospital Lab,2,A,3,1
+146,ACC-00145,2,IDN Core Lab,4,B,2,1
+147,ACC-00146,3,Primary Care,5,C,4,1
+148,ACC-00147,3,Geriatric Psychiatry,4,C,8,1
+149,ACC-00148,3,Primary Care,5,C,3,1
+150,ACC-00149,1,Hospital Lab,5,C,2,1
+151,ACC-00150,3,Memory Clinic,1,A,7,1
+152,ACC-00151,1,Hospital Lab,3,C,7,0
+153,ACC-00152,3,Primary Care,2,B,5,1
+154,ACC-00153,2,Reference Lab,5,A,3,0
+155,ACC-00154,3,Memory Clinic,5,A,8,1
+156,ACC-00155,3,Neurology Practice,3,C,8,1
+157,ACC-00156,1,Hospital Lab,1,B,6,1
+158,ACC-00157,3,Primary Care,2,B,4,1
+159,ACC-00158,3,Neurology Practice,1,B,6,1
+160,ACC-00159,3,Geriatric Psychiatry,3,A,2,1
+161,ACC-00160,2,IDN Core Lab,5,A,1,1
+162,ACC-00161,2,IDN Core Lab,2,A,3,0
+163,ACC-00162,1,IDN Core Lab,4,B,6,0
+164,ACC-00163,1,Reference Lab,5,A,7,0
+165,ACC-00164,3,Memory Clinic,5,B,3,1
+166,ACC-00165,1,Hospital Lab,1,B,7,1
+167,ACC-00166,2,Hospital Lab,1,B,4,1
+168,ACC-00167,3,Geriatric Psychiatry,1,C,6,0
+169,ACC-00168,3,Primary Care,2,A,2,1
+170,ACC-00169,1,IDN Core Lab,1,B,4,1
+171,ACC-00170,3,Geriatric Psychiatry,3,A,2,1
+172,ACC-00171,1,IDN Core Lab,4,C,7,1
+173,ACC-00172,3,Primary Care,2,C,8,1
+174,ACC-00173,1,Reference Lab,3,A,1,1
+175,ACC-00174,1,Hospital Lab,3,A,4,1
+176,ACC-00175,3,Geriatric Psychiatry,1,A,7,0
+177,ACC-00176,1,IDN Core Lab,1,A,8,1
+178,ACC-00177,1,Hospital Lab,1,A,8,1
+179,ACC-00178,1,Physician Office Lab,3,A,8,1
+180,ACC-00179,2,Reference Lab,3,A,2,1
+181,ACC-00180,3,Memory Clinic,2,A,7,1
+182,ACC-00181,1,IDN Core Lab,1,B,9,1
+183,ACC-00182,1,Physician Office Lab,2,B,6,1
+184,ACC-00183,3,Primary Care,1,B,10,1
+185,ACC-00184,1,Reference Lab,4,C,9,0
+186,ACC-00185,1,Hospital Lab,4,B,10,1
+187,ACC-00186,1,Hospital Lab,4,B,10,0
+188,ACC-00187,3,Neurology Practice,3,C,1,1
+189,ACC-00188,2,IDN Core Lab,2,B,4,1
+190,ACC-00189,3,Geriatric Psychiatry,1,A,9,1
+191,ACC-00190,3,Memory Clinic,3,C,1,1
+192,ACC-00191,2,Physician Office Lab,4,B,1,1
+193,ACC-00192,3,Geriatric Psychiatry,5,B,3,1
+194,ACC-00193,3,Primary Care,4,C,4,1
+195,ACC-00194,3,Memory Clinic,3,C,7,1
+196,ACC-00195,3,Neurology Practice,5,C,6,1
+197,ACC-00196,1,Hospital Lab,4,B,8,0
+198,ACC-00197,2,Hospital Lab,5,A,3,1
+199,ACC-00198,3,Primary Care,1,B,5,1
+200,ACC-00199,1,IDN Core Lab,1,B,4,1
+201,ACC-00200,1,IDN Core Lab,3,C,10,1
+202,ACC-00201,1,IDN Core Lab,2,C,10,1
+203,ACC-00202,1,IDN Core Lab,2,B,9,0
+204,ACC-00203,3,Geriatric Psychiatry,4,C,2,1
+205,ACC-00204,1,Hospital Lab,3,B,1,1
+206,ACC-00205,3,Geriatric Psychiatry,3,C,6,1
+207,ACC-00206,1,Hospital Lab,1,A,8,1
+208,ACC-00207,3,Memory Clinic,2,C,9,1
+209,ACC-00208,1,Reference Lab,3,C,8,1
+210,ACC-00209,1,Reference Lab,2,C,3,1
+211,ACC-00210,2,Hospital Lab,1,C,4,0
+212,ACC-00211,1,IDN Core Lab,3,C,10,0
+213,ACC-00212,2,Physician Office Lab,5,C,8,1
+214,ACC-00213,3,Primary Care,1,C,10,1
+215,ACC-00214,3,Memory Clinic,2,A,3,1
+216,ACC-00215,3,Neurology Practice,1,B,3,0
+217,ACC-00216,2,Physician Office Lab,2,C,7,1
+218,ACC-00217,3,Geriatric Psychiatry,4,B,5,1
+219,ACC-00218,2,Physician Office Lab,2,B,10,0
+220,ACC-00219,3,Neurology Practice,2,A,1,1
+221,ACC-00220,3,Geriatric Psychiatry,5,B,7,0
+222,ACC-00221,2,Hospital Lab,2,C,10,1
+223,ACC-00222,3,Memory Clinic,3,C,6,1
+224,ACC-00223,2,Hospital Lab,5,A,2,1
+225,ACC-00224,1,Hospital Lab,3,B,1,1
+226,ACC-00225,3,Neurology Practice,1,B,5,1
+227,ACC-00226,3,Memory Clinic,1,C,8,1
+228,ACC-00227,3,Geriatric Psychiatry,5,C,7,1
+229,ACC-00228,1,Reference Lab,5,A,2,0
+230,ACC-00229,3,Memory Clinic,2,B,7,1
+231,ACC-00230,3,Geriatric Psychiatry,3,C,10,0
+232,ACC-00231,1,IDN Core Lab,1,C,7,1
+233,ACC-00232,2,Reference Lab,1,B,3,0
+234,ACC-00233,2,Reference Lab,5,C,1,1
+235,ACC-00234,3,Neurology Practice,2,B,6,1
+236,ACC-00235,2,Hospital Lab,1,C,8,1
+237,ACC-00236,3,Neurology Practice,3,C,9,1
+238,ACC-00237,1,Reference Lab,5,A,8,0
+239,ACC-00238,1,Hospital Lab,5,C,5,1
+240,ACC-00239,1,Hospital Lab,4,C,6,1
+241,ACC-00240,1,Hospital Lab,5,B,2,1
+242,ACC-00241,3,Primary Care,4,C,8,0
+243,ACC-00242,1,Physician Office Lab,5,B,7,1
+244,ACC-00243,1,IDN Core Lab,3,B,1,0
+245,ACC-00244,3,Memory Clinic,3,C,4,1
+246,ACC-00245,2,Physician Office Lab,5,C,2,1
+247,ACC-00246,3,Neurology Practice,2,B,10,1
+248,ACC-00247,1,Physician Office Lab,3,B,1,0
+249,ACC-00248,3,Primary Care,5,C,6,1
+250,ACC-00249,2,Hospital Lab,5,C,4,1
+251,ACC-00250,1,Physician Office Lab,2,B,10,1
+252,ACC-00251,3,Geriatric Psychiatry,3,C,3,1
+253,ACC-00252,2,Physician Office Lab,5,C,10,1
+254,ACC-00253,2,Reference Lab,3,C,2,1
+255,ACC-00254,2,IDN Core Lab,2,B,1,1
+256,ACC-00255,2,Physician Office Lab,1,C,5,1
+257,ACC-00256,3,Neurology Practice,1,A,5,1
+258,ACC-00257,1,Physician Office Lab,2,C,7,1
+259,ACC-00258,3,Primary Care,2,B,6,0
+260,ACC-00259,1,Reference Lab,4,C,6,1
+261,ACC-00260,3,Neurology Practice,1,C,4,1
+262,ACC-00261,1,IDN Core Lab,1,C,9,1
+263,ACC-00262,2,Hospital Lab,3,B,6,1
+264,ACC-00263,3,Neurology Practice,1,C,4,1
+265,ACC-00264,3,Primary Care,5,B,1,1
+266,ACC-00265,3,Geriatric Psychiatry,2,B,5,1
+267,ACC-00266,2,Hospital Lab,5,C,5,1
+268,ACC-00267,3,Memory Clinic,2,C,1,1
+269,ACC-00268,3,Neurology Practice,5,C,9,1
+270,ACC-00269,3,Primary Care,3,A,8,1
+271,ACC-00270,2,IDN Core Lab,5,B,3,1
+272,ACC-00271,1,Physician Office Lab,2,A,7,1
+273,ACC-00272,3,Neurology Practice,4,A,2,1
+274,ACC-00273,1,Hospital Lab,1,C,2,1
+275,ACC-00274,3,Neurology Practice,2,C,7,1
+276,ACC-00275,1,Reference Lab,2,A,2,1
+277,ACC-00276,3,Neurology Practice,4,B,10,1
+278,ACC-00277,1,IDN Core Lab,3,B,2,1
+279,ACC-00278,3,Memory Clinic,3,A,7,1
+280,ACC-00279,3,Geriatric Psychiatry,2,C,5,1
+281,ACC-00280,1,Reference Lab,1,A,1,1
+282,ACC-00281,2,Hospital Lab,4,A,1,1
+283,ACC-00282,2,Physician Office Lab,2,B,2,0
+284,ACC-00283,3,Neurology Practice,2,C,8,1
+285,ACC-00284,2,Reference Lab,5,A,10,1
+286,ACC-00285,3,Geriatric Psychiatry,1,B,4,1
+287,ACC-00286,2,Physician Office Lab,3,C,3,1
+288,ACC-00287,3,Neurology Practice,1,C,10,1
+289,ACC-00288,1,Reference Lab,4,A,5,0
+290,ACC-00289,3,Primary Care,3,C,3,0
+291,ACC-00290,3,Geriatric Psychiatry,4,B,6,1
+292,ACC-00291,3,Neurology Practice,4,C,4,1
+293,ACC-00292,3,Neurology Practice,1,A,4,1
+294,ACC-00293,1,IDN Core Lab,2,A,10,1
+295,ACC-00294,1,IDN Core Lab,2,A,8,1
+296,ACC-00295,1,Hospital Lab,3,B,2,1
+297,ACC-00296,1,Physician Office Lab,2,B,6,1
+298,ACC-00297,1,Physician Office Lab,3,B,9,1
+299,ACC-00298,3,Memory Clinic,2,B,5,1
+300,ACC-00299,2,Hospital Lab,3,B,2,1
+301,ACC-00300,3,Primary Care,2,B,5,0
+302,ACC-00301,2,Physician Office Lab,5,A,5,1
+303,ACC-00302,1,Reference Lab,5,C,3,0
+304,ACC-00303,2,Physician Office Lab,2,C,9,1
+305,ACC-00304,1,Reference Lab,5,C,1,1
+306,ACC-00305,3,Geriatric Psychiatry,4,A,2,0
+307,ACC-00306,3,Geriatric Psychiatry,1,B,2,1
+308,ACC-00307,1,Reference Lab,3,B,1,1
+309,ACC-00308,3,Neurology Practice,2,C,3,1
+310,ACC-00309,2,Hospital Lab,5,B,3,1
+311,ACC-00310,1,Hospital Lab,5,C,9,0
+312,ACC-00311,1,IDN Core Lab,3,C,3,1
+313,ACC-00312,1,Physician Office Lab,3,B,3,1
+314,ACC-00313,3,Neurology Practice,4,B,5,1
+315,ACC-00314,3,Primary Care,3,B,1,1
+316,ACC-00315,3,Memory Clinic,3,C,8,1
+317,ACC-00316,1,Reference Lab,3,C,9,1
+318,ACC-00317,2,IDN Core Lab,5,A,1,1
+319,ACC-00318,2,Reference Lab,3,A,7,1
+320,ACC-00319,1,IDN Core Lab,1,C,6,1
+321,ACC-00320,3,Geriatric Psychiatry,1,B,10,1
+322,ACC-00321,1,Reference Lab,2,C,8,1
+323,ACC-00322,1,Reference Lab,3,B,10,0
+324,ACC-00323,3,Memory Clinic,2,A,9,1
+325,ACC-00324,1,IDN Core Lab,2,A,7,1
+326,ACC-00325,3,Memory Clinic,5,C,10,1
+327,ACC-00326,3,Primary Care,5,B,7,1
+328,ACC-00327,3,Memory Clinic,3,A,9,1
+329,ACC-00328,3,Neurology Practice,4,B,5,1
+330,ACC-00329,3,Geriatric Psychiatry,2,C,2,1
+331,ACC-00330,3,Neurology Practice,3,B,7,1
+332,ACC-00331,3,Primary Care,2,C,2,1
+333,ACC-00332,3,Neurology Practice,3,C,6,1
+334,ACC-00333,2,Physician Office Lab,3,A,8,1
+335,ACC-00334,2,Hospital Lab,2,C,9,1
+336,ACC-00335,2,Physician Office Lab,4,B,3,1
+337,ACC-00336,3,Geriatric Psychiatry,2,C,9,1
+338,ACC-00337,2,IDN Core Lab,1,B,3,1
+339,ACC-00338,3,Memory Clinic,5,C,8,1
+340,ACC-00339,3,Memory Clinic,2,C,9,1
+341,ACC-00340,2,IDN Core Lab,2,A,7,1
+342,ACC-00341,2,Reference Lab,3,B,5,1
+343,ACC-00342,3,Neurology Practice,1,B,6,1
+344,ACC-00343,3,Neurology Practice,4,A,4,1
+345,ACC-00344,3,Primary Care,2,C,2,1
+346,ACC-00345,1,Hospital Lab,5,C,5,1
+347,ACC-00346,3,Primary Care,2,B,1,1
+348,ACC-00347,3,Primary Care,2,A,3,1
+349,ACC-00348,3,Geriatric Psychiatry,3,C,10,0
+350,ACC-00349,3,Neurology Practice,1,B,1,1
+351,ACC-00350,1,Hospital Lab,1,C,1,1
+352,ACC-00351,3,Neurology Practice,1,A,10,1
+353,ACC-00352,1,Reference Lab,1,C,8,1
+354,ACC-00353,1,IDN Core Lab,4,C,3,1
+355,ACC-00354,3,Primary Care,5,A,2,1
+356,ACC-00355,2,Hospital Lab,2,B,6,1
+357,ACC-00356,3,Geriatric Psychiatry,3,A,10,0
+358,ACC-00357,3,Primary Care,3,A,1,1
+359,ACC-00358,1,Reference Lab,1,C,10,1
+360,ACC-00359,3,Memory Clinic,2,C,2,1
+361,ACC-00360,3,Neurology Practice,5,C,10,1
+362,ACC-00361,3,Memory Clinic,1,B,2,1
+363,ACC-00362,1,Hospital Lab,1,B,3,1
+364,ACC-00363,2,IDN Core Lab,2,B,1,1
+365,ACC-00364,1,IDN Core Lab,3,B,5,1
+366,ACC-00365,3,Primary Care,5,B,7,1
+367,ACC-00366,3,Geriatric Psychiatry,2,B,2,1
+368,ACC-00367,2,Reference Lab,2,C,1,0
+369,ACC-00368,1,Reference Lab,2,B,2,1
+370,ACC-00369,3,Memory Clinic,5,B,5,1
+371,ACC-00370,3,Geriatric Psychiatry,2,B,6,0
+372,ACC-00371,2,Hospital Lab,2,C,7,1
+373,ACC-00372,1,Physician Office Lab,1,C,10,1
+374,ACC-00373,2,Hospital Lab,1,C,4,1
+375,ACC-00374,3,Geriatric Psychiatry,5,B,6,1
+376,ACC-00375,3,Geriatric Psychiatry,3,A,2,1
+377,ACC-00376,3,Neurology Practice,1,C,4,0
+378,ACC-00377,1,Physician Office Lab,5,C,3,1
+379,ACC-00378,2,Physician Office Lab,5,C,2,1
+380,ACC-00379,1,Hospital Lab,1,C,2,1
+381,ACC-00380,2,Hospital Lab,2,B,1,1
+382,ACC-00381,1,Reference Lab,5,A,3,1
+383,ACC-00382,2,IDN Core Lab,1,C,1,1
+384,ACC-00383,2,IDN Core Lab,2,C,4,1
+385,ACC-00384,3,Primary Care,2,B,1,1
+386,ACC-00385,2,Physician Office Lab,4,C,4,1
+387,ACC-00386,1,Hospital Lab,2,C,9,1
+388,ACC-00387,1,Physician Office Lab,2,A,3,0
+389,ACC-00388,1,IDN Core Lab,4,B,1,1
+390,ACC-00389,3,Neurology Practice,5,B,3,1
+391,ACC-00390,3,Geriatric Psychiatry,1,B,5,0
+392,ACC-00391,3,Memory Clinic,1,C,7,1
+393,ACC-00392,3,Primary Care,3,C,7,0
+394,ACC-00393,1,IDN Core Lab,2,B,1,1
+395,ACC-00394,2,Reference Lab,4,C,10,1
+396,ACC-00395,1,Physician Office Lab,1,B,5,1
+397,ACC-00396,1,Hospital Lab,5,C,4,1
+398,ACC-00397,2,Hospital Lab,2,C,10,0
+399,ACC-00398,3,Memory Clinic,2,C,2,1
+400,ACC-00399,3,Geriatric Psychiatry,1,B,8,1
+401,ACC-00400,2,Reference Lab,1,C,10,1
+402,ACC-00401,2,Hospital Lab,3,C,4,1
+403,ACC-00402,3,Memory Clinic,3,C,5,1
+404,ACC-00403,3,Geriatric Psychiatry,5,C,6,1
+405,ACC-00404,3,Neurology Practice,3,C,9,1
+406,ACC-00405,2,Reference Lab,2,A,10,1
+407,ACC-00406,2,Physician Office Lab,5,B,6,1
+408,ACC-00407,3,Primary Care,1,B,8,1
+409,ACC-00408,1,Reference Lab,4,B,9,1
+410,ACC-00409,2,IDN Core Lab,3,C,6,1
+411,ACC-00410,1,Reference Lab,1,B,8,1
+412,ACC-00411,3,Memory Clinic,3,A,6,1
+413,ACC-00412,3,Neurology Practice,5,C,6,0
+414,ACC-00413,1,IDN Core Lab,2,A,9,1
+415,ACC-00414,2,Hospital Lab,3,A,4,1
+416,ACC-00415,1,Reference Lab,2,C,2,1
+417,ACC-00416,3,Primary Care,2,C,8,1
+418,ACC-00417,3,Memory Clinic,2,B,6,1
+419,ACC-00418,2,IDN Core Lab,1,C,6,1
+420,ACC-00419,1,Physician Office Lab,1,B,4,1
+421,ACC-00420,3,Memory Clinic,4,A,8,1
+422,ACC-00421,3,Memory Clinic,2,B,5,1
+423,ACC-00422,3,Primary Care,3,A,7,1
+424,ACC-00423,2,Physician Office Lab,1,C,1,0
+425,ACC-00424,1,IDN Core Lab,1,C,10,1
+426,ACC-00425,3,Primary Care,3,B,8,1
+427,ACC-00426,2,Hospital Lab,3,B,5,1
+428,ACC-00427,2,IDN Core Lab,3,A,2,1
+429,ACC-00428,3,Memory Clinic,4,C,10,1
+430,ACC-00429,3,Primary Care,3,C,6,0
+431,ACC-00430,1,IDN Core Lab,1,C,5,1
+432,ACC-00431,3,Memory Clinic,1,B,10,1
+433,ACC-00432,3,Memory Clinic,2,C,10,1
+434,ACC-00433,1,Hospital Lab,2,C,3,1
+435,ACC-00434,1,Hospital Lab,1,B,7,1
+436,ACC-00435,3,Neurology Practice,3,B,4,1
+437,ACC-00436,3,Memory Clinic,1,B,1,0
+438,ACC-00437,1,Reference Lab,3,B,5,1
+439,ACC-00438,2,Hospital Lab,2,B,3,1
+440,ACC-00439,2,IDN Core Lab,5,B,6,0
+441,ACC-00440,2,Reference Lab,5,C,5,1
+442,ACC-00441,3,Primary Care,5,A,3,1
+443,ACC-00442,1,IDN Core Lab,3,A,5,1
+444,ACC-00443,3,Memory Clinic,5,C,8,1
+445,ACC-00444,2,Physician Office Lab,1,B,7,1
+446,ACC-00445,1,Hospital Lab,3,B,7,1
+447,ACC-00446,1,Reference Lab,4,C,2,1
+448,ACC-00447,3,Geriatric Psychiatry,3,B,1,1
+449,ACC-00448,1,Physician Office Lab,1,B,7,1
+450,ACC-00449,1,Physician Office Lab,3,B,6,0
+451,ACC-00450,2,IDN Core Lab,5,B,7,0
+452,ACC-00451,3,Geriatric Psychiatry,3,B,4,1
+453,ACC-00452,2,IDN Core Lab,1,C,2,1
+454,ACC-00453,1,Reference Lab,1,C,4,0
+455,ACC-00454,2,IDN Core Lab,1,B,7,0
+456,ACC-00455,3,Primary Care,4,B,10,1
+457,ACC-00456,3,Geriatric Psychiatry,3,A,6,1
+458,ACC-00457,3,Neurology Practice,1,C,5,1
+459,ACC-00458,2,IDN Core Lab,5,C,4,0
+460,ACC-00459,1,IDN Core Lab,2,B,1,1
+461,ACC-00460,1,Physician Office Lab,4,C,2,1
+462,ACC-00461,3,Primary Care,5,B,4,1
+463,ACC-00462,3,Geriatric Psychiatry,4,C,7,1
+464,ACC-00463,3,Geriatric Psychiatry,5,A,6,0
+465,ACC-00464,2,IDN Core Lab,5,C,4,1
+466,ACC-00465,2,Reference Lab,1,C,6,1
+467,ACC-00466,2,Physician Office Lab,2,C,3,1
+468,ACC-00467,2,Physician Office Lab,5,C,1,1
+469,ACC-00468,2,Physician Office Lab,3,A,3,1
+470,ACC-00469,1,Reference Lab,2,B,2,0
+471,ACC-00470,1,Physician Office Lab,5,C,6,1
+472,ACC-00471,1,IDN Core Lab,3,C,8,1
+473,ACC-00472,3,Memory Clinic,2,C,2,1
+474,ACC-00473,3,Primary Care,2,C,1,1
+475,ACC-00474,3,Neurology Practice,5,B,1,1
+476,ACC-00475,3,Neurology Practice,5,B,3,1
+477,ACC-00476,1,Physician Office Lab,5,C,2,0
+478,ACC-00477,1,Hospital Lab,4,A,10,1
+479,ACC-00478,1,Reference Lab,1,B,3,1
+480,ACC-00479,1,Hospital Lab,2,A,7,0
+481,ACC-00480,3,Geriatric Psychiatry,2,B,7,1
+482,ACC-00481,1,IDN Core Lab,2,C,3,1
+483,ACC-00482,3,Primary Care,4,B,2,1
+484,ACC-00483,3,Neurology Practice,1,C,2,1
+485,ACC-00484,1,Physician Office Lab,3,C,9,1
+486,ACC-00485,3,Primary Care,5,C,5,1
+487,ACC-00486,3,Primary Care,4,C,1,1
+488,ACC-00487,3,Primary Care,2,A,7,1
+489,ACC-00488,1,Reference Lab,1,B,5,1
+490,ACC-00489,2,IDN Core Lab,2,C,2,1
+491,ACC-00490,2,Hospital Lab,3,B,2,1
+492,ACC-00491,3,Primary Care,5,B,8,1
+493,ACC-00492,1,Physician Office Lab,3,C,4,1
+494,ACC-00493,3,Geriatric Psychiatry,2,C,1,1
+495,ACC-00494,1,Reference Lab,4,A,8,1
+496,ACC-00495,3,Geriatric Psychiatry,2,C,2,1
+497,ACC-00496,1,Reference Lab,5,C,10,1
+498,ACC-00497,3,Neurology Practice,1,C,6,1
+499,ACC-00498,1,Hospital Lab,2,C,6,1
+500,ACC-00499,3,Geriatric Psychiatry,2,A,8,1
+501,ACC-00500,3,Geriatric Psychiatry,3,C,3,1
+502,ACC-00501,2,Physician Office Lab,2,C,7,1
+503,ACC-00502,1,Physician Office Lab,2,B,2,0
+504,ACC-00503,3,Memory Clinic,4,C,3,1
+505,ACC-00504,3,Neurology Practice,1,B,6,1
+506,ACC-00505,3,Neurology Practice,1,C,4,1
+507,ACC-00506,2,Reference Lab,1,C,10,1
+508,ACC-00507,1,Hospital Lab,2,B,1,0
+509,ACC-00508,2,Hospital Lab,3,B,1,1
+510,ACC-00509,3,Neurology Practice,1,A,1,1
+511,ACC-00510,1,Hospital Lab,1,B,10,0
+512,ACC-00511,1,IDN Core Lab,5,B,5,1
+513,ACC-00512,3,Primary Care,2,B,9,1
+514,ACC-00513,3,Primary Care,5,A,6,0
+515,ACC-00514,3,Primary Care,4,C,9,1
+516,ACC-00515,3,Geriatric Psychiatry,1,A,9,1
+517,ACC-00516,2,Hospital Lab,3,B,1,1
+518,ACC-00517,2,Physician Office Lab,3,A,10,1
+519,ACC-00518,3,Memory Clinic,1,B,6,1
+520,ACC-00519,3,Primary Care,1,A,6,0
+521,ACC-00520,1,IDN Core Lab,2,C,3,1
+522,ACC-00521,2,Hospital Lab,2,B,9,1
+523,ACC-00522,2,Hospital Lab,2,C,1,1
+524,ACC-00523,1,IDN Core Lab,2,A,2,1
+525,ACC-00524,1,Hospital Lab,3,A,3,1
+526,ACC-00525,1,IDN Core Lab,2,C,9,1
+527,ACC-00526,3,Primary Care,4,B,9,1
+528,ACC-00527,1,IDN Core Lab,1,A,3,1
+529,ACC-00528,3,Memory Clinic,3,A,6,0
+530,ACC-00529,3,Geriatric Psychiatry,4,C,5,1
+531,ACC-00530,2,IDN Core Lab,2,B,6,1
+532,ACC-00531,3,Primary Care,2,B,1,0
+533,ACC-00532,3,Geriatric Psychiatry,2,C,5,1
+534,ACC-00533,3,Memory Clinic,2,C,5,1
+535,ACC-00534,3,Neurology Practice,1,C,1,1
+536,ACC-00535,3,Neurology Practice,3,B,7,1
+537,ACC-00536,3,Primary Care,3,C,4,1
+538,ACC-00537,3,Primary Care,2,C,3,1
+539,ACC-00538,2,Physician Office Lab,5,A,8,1
+540,ACC-00539,3,Neurology Practice,5,C,9,1
+541,ACC-00540,3,Memory Clinic,2,C,3,1
+542,ACC-00541,3,Primary Care,4,B,10,1
+543,ACC-00542,2,IDN Core Lab,1,B,1,0
+544,ACC-00543,1,Hospital Lab,4,B,6,0
+545,ACC-00544,2,Physician Office Lab,4,C,8,1
+546,ACC-00545,2,Reference Lab,2,C,3,1
+547,ACC-00546,2,Physician Office Lab,2,B,4,1
+548,ACC-00547,3,Neurology Practice,3,A,8,1
+549,ACC-00548,3,Neurology Practice,2,B,4,1
+550,ACC-00549,1,Hospital Lab,3,B,3,1
+551,ACC-00550,3,Primary Care,5,C,7,0
+552,ACC-00551,3,Primary Care,2,B,2,1
+553,ACC-00552,1,Hospital Lab,1,B,6,1
+554,ACC-00553,1,Physician Office Lab,3,B,3,1
+555,ACC-00554,3,Memory Clinic,3,B,4,1
+556,ACC-00555,3,Geriatric Psychiatry,3,C,5,0
+557,ACC-00556,1,Reference Lab,1,C,8,1
+558,ACC-00557,3,Primary Care,4,C,3,1
+559,ACC-00558,1,Hospital Lab,1,B,7,1
+560,ACC-00559,3,Geriatric Psychiatry,2,C,4,1
+561,ACC-00560,1,Physician Office Lab,2,B,9,1
+562,ACC-00561,2,Physician Office Lab,5,A,4,0
+563,ACC-00562,2,Reference Lab,5,C,5,0
+564,ACC-00563,2,Physician Office Lab,4,A,8,1
+565,ACC-00564,1,Hospital Lab,5,A,1,1
+566,ACC-00565,3,Geriatric Psychiatry,1,A,9,1
+567,ACC-00566,3,Memory Clinic,4,C,4,1
+568,ACC-00567,3,Memory Clinic,4,B,9,1
+569,ACC-00568,3,Neurology Practice,4,C,4,1
+570,ACC-00569,3,Geriatric Psychiatry,4,B,2,1
+571,ACC-00570,1,Physician Office Lab,1,B,2,1
+572,ACC-00571,1,Reference Lab,2,B,9,1
+573,ACC-00572,3,Primary Care,4,C,1,0
+574,ACC-00573,3,Geriatric Psychiatry,1,C,7,1
+575,ACC-00574,3,Neurology Practice,1,B,7,1
+576,ACC-00575,1,Hospital Lab,5,C,3,0
+577,ACC-00576,1,Hospital Lab,5,B,8,1
+578,ACC-00577,3,Neurology Practice,2,C,4,1
+579,ACC-00578,3,Memory Clinic,1,B,8,1
+580,ACC-00579,2,Hospital Lab,2,B,4,1
+581,ACC-00580,2,IDN Core Lab,1,C,8,0
+582,ACC-00581,3,Neurology Practice,1,A,5,1
+583,ACC-00582,2,Hospital Lab,1,C,5,1
+584,ACC-00583,3,Geriatric Psychiatry,5,B,9,1
+585,ACC-00584,3,Geriatric Psychiatry,2,A,1,1
+586,ACC-00585,1,IDN Core Lab,1,A,5,0
+587,ACC-00586,1,Reference Lab,3,A,1,1
+588,ACC-00587,3,Primary Care,1,A,1,1
+589,ACC-00588,2,Physician Office Lab,5,B,2,1
+590,ACC-00589,1,Reference Lab,1,C,8,0
+591,ACC-00590,2,IDN Core Lab,1,A,8,0
+592,ACC-00591,3,Geriatric Psychiatry,2,A,8,0
+593,ACC-00592,1,IDN Core Lab,1,C,10,0
+594,ACC-00593,3,Geriatric Psychiatry,1,B,6,1
+595,ACC-00594,1,Reference Lab,5,C,2,1
+596,ACC-00595,1,Physician Office Lab,5,A,5,1
+597,ACC-00596,1,Hospital Lab,5,C,6,1
+598,ACC-00597,2,IDN Core Lab,4,C,8,1
+599,ACC-00598,3,Memory Clinic,1,A,5,1
+600,ACC-00599,2,Physician Office Lab,5,B,1,1
+601,ACC-00600,3,Geriatric Psychiatry,4,B,9,1
+602,ACC-00601,1,IDN Core Lab,2,A,6,1
+603,ACC-00602,2,IDN Core Lab,4,B,2,1
+604,ACC-00603,2,Hospital Lab,3,C,10,0
+605,ACC-00604,3,Primary Care,4,C,5,1
+606,ACC-00605,3,Memory Clinic,5,B,8,1
+607,ACC-00606,3,Neurology Practice,5,C,8,1
+608,ACC-00607,2,Physician Office Lab,4,B,3,0
+609,ACC-00608,3,Primary Care,5,A,9,1
+610,ACC-00609,3,Neurology Practice,3,A,10,0
+611,ACC-00610,3,Geriatric Psychiatry,2,B,10,1
+612,ACC-00611,1,Physician Office Lab,4,A,3,1
+613,ACC-00612,1,Physician Office Lab,3,A,2,1
+614,ACC-00613,3,Primary Care,1,B,6,1
+615,ACC-00614,2,Reference Lab,3,C,3,1
+616,ACC-00615,3,Geriatric Psychiatry,2,C,7,1
+617,ACC-00616,1,Hospital Lab,2,C,7,0
+618,ACC-00617,3,Geriatric Psychiatry,4,A,1,1
+619,ACC-00618,1,Reference Lab,5,C,8,1
+620,ACC-00619,2,Physician Office Lab,1,A,2,1
+621,ACC-00620,1,IDN Core Lab,4,B,6,1
+622,ACC-00621,3,Neurology Practice,1,A,6,1
+623,ACC-00622,1,IDN Core Lab,3,B,1,1
+624,ACC-00623,3,Memory Clinic,5,B,2,1
+625,ACC-00624,1,Physician Office Lab,5,C,6,1
+626,ACC-00625,1,IDN Core Lab,2,C,5,1
+627,ACC-00626,2,IDN Core Lab,5,B,5,1
+628,ACC-00627,1,Reference Lab,5,C,8,1
+629,ACC-00628,2,IDN Core Lab,1,A,7,1
+630,ACC-00629,1,Physician Office Lab,2,A,7,1
+631,ACC-00630,3,Memory Clinic,4,A,8,1
+632,ACC-00631,3,Memory Clinic,1,B,9,0
+633,ACC-00632,3,Geriatric Psychiatry,3,A,3,1
+634,ACC-00633,1,Hospital Lab,2,A,10,1
+635,ACC-00634,2,Physician Office Lab,3,B,5,1
+636,ACC-00635,1,Reference Lab,2,C,10,1
+637,ACC-00636,2,Hospital Lab,1,C,7,1
+638,ACC-00637,3,Memory Clinic,2,C,4,0
+639,ACC-00638,1,Hospital Lab,5,A,1,1
+640,ACC-00639,1,Reference Lab,3,A,2,1
+641,ACC-00640,3,Primary Care,3,C,7,1
+642,ACC-00641,2,Hospital Lab,4,C,7,1
+643,ACC-00642,1,Reference Lab,1,B,2,1
+644,ACC-00643,3,Neurology Practice,1,C,10,1
+645,ACC-00644,1,Physician Office Lab,3,C,4,1
+646,ACC-00645,3,Primary Care,1,B,8,1
+647,ACC-00646,1,IDN Core Lab,1,C,8,1
+648,ACC-00647,3,Primary Care,4,A,7,1
+649,ACC-00648,3,Primary Care,5,B,10,1
+650,ACC-00649,1,Hospital Lab,2,A,9,1
+651,ACC-00650,3,Geriatric Psychiatry,2,C,2,1
+652,ACC-00651,1,Reference Lab,4,A,5,1
+653,ACC-00652,3,Neurology Practice,5,B,6,1
+654,ACC-00653,3,Neurology Practice,2,A,6,1
+655,ACC-00654,1,IDN Core Lab,5,B,6,1
+656,ACC-00655,2,IDN Core Lab,5,C,2,1
+657,ACC-00656,1,Physician Office Lab,1,B,10,1
+658,ACC-00657,3,Neurology Practice,1,B,7,1
+659,ACC-00658,3,Geriatric Psychiatry,4,C,9,1
+660,ACC-00659,2,Physician Office Lab,1,C,4,1
+661,ACC-00660,3,Neurology Practice,2,C,7,1
+662,ACC-00661,3,Geriatric Psychiatry,5,A,3,1
+663,ACC-00662,2,IDN Core Lab,4,B,6,1
+664,ACC-00663,3,Neurology Practice,3,C,3,0
+665,ACC-00664,1,Physician Office Lab,3,C,10,1
+666,ACC-00665,3,Neurology Practice,3,B,6,1
+667,ACC-00666,3,Neurology Practice,4,C,5,1
+668,ACC-00667,3,Geriatric Psychiatry,5,B,6,1
+669,ACC-00668,3,Neurology Practice,4,C,3,1
+670,ACC-00669,2,IDN Core Lab,3,B,9,1
+671,ACC-00670,1,Hospital Lab,4,B,3,1
+672,ACC-00671,2,Hospital Lab,4,A,10,1
+673,ACC-00672,1,Physician Office Lab,2,A,9,1
+674,ACC-00673,3,Neurology Practice,2,C,4,0
+675,ACC-00674,2,IDN Core Lab,2,C,6,0
+676,ACC-00675,3,Neurology Practice,3,B,4,1
+677,ACC-00676,3,Memory Clinic,1,C,2,0
+678,ACC-00677,1,Reference Lab,1,B,3,1
+679,ACC-00678,3,Neurology Practice,1,A,9,1
+680,ACC-00679,2,Hospital Lab,1,B,4,1
+681,ACC-00680,1,Reference Lab,3,B,10,0
+682,ACC-00681,2,IDN Core Lab,4,B,8,1
+683,ACC-00682,1,IDN Core Lab,3,C,5,0
+684,ACC-00683,2,Physician Office Lab,4,C,7,1
+685,ACC-00684,1,IDN Core Lab,2,B,9,1
+686,ACC-00685,1,Physician Office Lab,4,B,1,0
+687,ACC-00686,2,IDN Core Lab,4,C,9,1
+688,ACC-00687,2,Physician Office Lab,4,A,6,0
+689,ACC-00688,3,Geriatric Psychiatry,4,B,10,1
+690,ACC-00689,1,Hospital Lab,1,C,9,1
+691,ACC-00690,2,IDN Core Lab,3,C,9,0
+692,ACC-00691,1,IDN Core Lab,4,C,1,1
+693,ACC-00692,1,Reference Lab,1,A,5,0
+694,ACC-00693,2,Physician Office Lab,1,B,10,1
+695,ACC-00694,2,Reference Lab,3,C,3,1
+696,ACC-00695,3,Primary Care,2,A,3,1
+697,ACC-00696,3,Memory Clinic,5,C,7,1
+698,ACC-00697,3,Neurology Practice,4,B,4,0
+699,ACC-00698,3,Primary Care,1,C,6,1
+700,ACC-00699,1,Reference Lab,2,B,4,0
+701,ACC-00700,1,Hospital Lab,4,B,5,0
+702,ACC-00701,2,IDN Core Lab,4,C,2,1
+703,ACC-00702,3,Primary Care,3,C,9,0
+704,ACC-00703,3,Geriatric Psychiatry,1,B,1,1
+705,ACC-00704,2,Hospital Lab,5,C,2,0
+706,ACC-00705,3,Memory Clinic,2,C,3,1
+707,ACC-00706,2,Physician Office Lab,1,C,3,1
+708,ACC-00707,3,Neurology Practice,1,B,1,0
+709,ACC-00708,3,Memory Clinic,4,C,10,1
+710,ACC-00709,2,IDN Core Lab,3,C,6,1
+711,ACC-00710,1,Reference Lab,2,C,5,0
+712,ACC-00711,2,Physician Office Lab,3,C,2,1
+713,ACC-00712,2,IDN Core Lab,5,B,7,1
+714,ACC-00713,3,Memory Clinic,3,C,1,1
+715,ACC-00714,3,Geriatric Psychiatry,2,C,3,1
+716,ACC-00715,1,IDN Core Lab,2,A,6,1
+717,ACC-00716,1,Physician Office Lab,1,C,10,1
+718,ACC-00717,3,Primary Care,5,C,6,1
+719,ACC-00718,3,Neurology Practice,1,B,5,1
+720,ACC-00719,3,Geriatric Psychiatry,1,A,7,0
+721,ACC-00720,2,Physician Office Lab,1,A,8,1
+722,ACC-00721,1,Reference Lab,1,A,6,0
+723,ACC-00722,1,Physician Office Lab,2,B,4,1
+724,ACC-00723,1,Hospital Lab,5,C,9,0
+725,ACC-00724,2,Physician Office Lab,1,C,4,1
+726,ACC-00725,1,Physician Office Lab,1,B,2,1
+727,ACC-00726,2,IDN Core Lab,2,B,3,1
+728,ACC-00727,3,Memory Clinic,5,C,8,0
+729,ACC-00728,1,Hospital Lab,5,C,1,1
+730,ACC-00729,3,Geriatric Psychiatry,5,C,5,1
+731,ACC-00730,1,Reference Lab,1,C,1,0
+732,ACC-00731,3,Primary Care,4,B,10,1
+733,ACC-00732,1,Hospital Lab,3,C,4,1
+734,ACC-00733,3,Primary Care,1,C,3,1
+735,ACC-00734,1,Reference Lab,4,C,7,0
+736,ACC-00735,2,IDN Core Lab,4,C,10,1
+737,ACC-00736,3,Geriatric Psychiatry,3,B,1,1
+738,ACC-00737,1,Reference Lab,1,B,9,1
+739,ACC-00738,3,Primary Care,2,B,4,1
+740,ACC-00739,3,Primary Care,3,B,2,1
+741,ACC-00740,2,Reference Lab,1,B,1,0
+742,ACC-00741,1,Physician Office Lab,1,C,5,1
+743,ACC-00742,3,Neurology Practice,4,B,3,0
+744,ACC-00743,3,Primary Care,1,B,3,1
+745,ACC-00744,1,Physician Office Lab,1,C,2,0
+746,ACC-00745,3,Neurology Practice,1,B,2,1
+747,ACC-00746,3,Neurology Practice,1,A,8,1
+748,ACC-00747,3,Memory Clinic,2,C,4,1
+749,ACC-00748,3,Primary Care,4,B,9,1
+750,ACC-00749,1,Reference Lab,4,B,6,0
+751,ACC-00750,2,Physician Office Lab,1,B,1,1
+752,ACC-00751,3,Neurology Practice,3,A,5,0
+753,ACC-00752,3,Primary Care,1,B,1,1
+754,ACC-00753,1,Hospital Lab,1,B,4,1
+755,ACC-00754,3,Neurology Practice,4,C,9,1
+756,ACC-00755,1,Hospital Lab,5,B,4,0
+757,ACC-00756,1,Hospital Lab,2,B,3,0
+758,ACC-00757,1,Reference Lab,4,B,2,0
+759,ACC-00758,1,Reference Lab,2,C,2,1
+760,ACC-00759,2,IDN Core Lab,4,B,3,1
+761,ACC-00760,2,Physician Office Lab,3,C,10,0
+762,ACC-00761,3,Memory Clinic,3,C,6,1
+763,ACC-00762,3,Primary Care,5,B,8,1
+764,ACC-00763,2,Physician Office Lab,4,C,2,1
+765,ACC-00764,1,IDN Core Lab,5,B,7,1
+766,ACC-00765,3,Memory Clinic,2,C,9,1
+767,ACC-00766,1,Physician Office Lab,5,C,8,1
+768,ACC-00767,2,Hospital Lab,5,C,8,1
+769,ACC-00768,1,Physician Office Lab,3,B,8,1
+770,ACC-00769,3,Memory Clinic,3,B,10,1
+771,ACC-00770,2,Reference Lab,5,B,4,1
+772,ACC-00771,3,Neurology Practice,3,B,4,1
+773,ACC-00772,3,Geriatric Psychiatry,2,C,1,1
+774,ACC-00773,3,Neurology Practice,1,B,2,0
+775,ACC-00774,3,Neurology Practice,2,B,5,1
+776,ACC-00775,3,Memory Clinic,1,B,1,0
+777,ACC-00776,3,Memory Clinic,1,C,8,1
+778,ACC-00777,1,Reference Lab,4,B,4,0
+779,ACC-00778,3,Memory Clinic,2,C,4,1
+780,ACC-00779,1,Hospital Lab,1,C,10,1
+781,ACC-00780,2,IDN Core Lab,2,A,1,1
+782,ACC-00781,2,Physician Office Lab,1,B,6,0
+783,ACC-00782,3,Memory Clinic,3,C,6,1
+784,ACC-00783,2,Hospital Lab,2,C,10,1
+785,ACC-00784,3,Geriatric Psychiatry,5,B,5,0
+786,ACC-00785,3,Primary Care,3,A,10,1
+787,ACC-00786,3,Geriatric Psychiatry,4,B,7,0
+788,ACC-00787,1,Hospital Lab,2,C,4,1
+789,ACC-00788,3,Primary Care,4,B,6,1
+790,ACC-00789,3,Memory Clinic,4,C,5,1
+791,ACC-00790,3,Geriatric Psychiatry,5,B,7,1
+792,ACC-00791,3,Geriatric Psychiatry,4,B,3,1
+793,ACC-00792,1,IDN Core Lab,5,A,4,0
+794,ACC-00793,1,IDN Core Lab,5,B,8,1
+795,ACC-00794,3,Primary Care,5,C,10,1
+796,ACC-00795,2,Hospital Lab,3,A,6,1
+797,ACC-00796,3,Primary Care,1,C,4,1
+798,ACC-00797,3,Geriatric Psychiatry,3,B,1,1
+799,ACC-00798,1,Hospital Lab,5,B,10,0
+800,ACC-00799,3,Geriatric Psychiatry,5,A,10,0
+801,ACC-00800,1,IDN Core Lab,5,B,3,1
+802,ACC-00801,3,Geriatric Psychiatry,2,C,8,1
+803,ACC-00802,2,Physician Office Lab,5,A,7,1
+804,ACC-00803,3,Primary Care,3,B,10,1
+805,ACC-00804,1,Physician Office Lab,4,B,6,1
+806,ACC-00805,2,Hospital Lab,2,C,3,0
+807,ACC-00806,1,Hospital Lab,2,A,4,1
+808,ACC-00807,3,Neurology Practice,2,C,8,1
+809,ACC-00808,3,Geriatric Psychiatry,2,C,3,1
+810,ACC-00809,3,Geriatric Psychiatry,2,C,7,1
+811,ACC-00810,3,Geriatric Psychiatry,4,A,9,0
+812,ACC-00811,1,Hospital Lab,1,B,2,1
+813,ACC-00812,3,Geriatric Psychiatry,4,C,6,1
+814,ACC-00813,2,Physician Office Lab,1,B,3,0
+815,ACC-00814,3,Neurology Practice,1,C,5,1
+816,ACC-00815,1,Reference Lab,1,C,2,1
+817,ACC-00816,3,Neurology Practice,1,C,4,1
+818,ACC-00817,2,IDN Core Lab,5,B,2,0
+819,ACC-00818,2,Physician Office Lab,4,C,4,0
+820,ACC-00819,1,IDN Core Lab,4,B,7,0
+821,ACC-00820,3,Geriatric Psychiatry,4,C,4,1
+822,ACC-00821,1,Physician Office Lab,4,C,9,0
+823,ACC-00822,3,Neurology Practice,5,B,7,1
+824,ACC-00823,3,Geriatric Psychiatry,3,A,10,1
+825,ACC-00824,3,Primary Care,1,B,7,1
+826,ACC-00825,2,Hospital Lab,5,A,3,1
+827,ACC-00826,3,Geriatric Psychiatry,3,B,6,1
+828,ACC-00827,2,Hospital Lab,5,A,7,0
+829,ACC-00828,3,Geriatric Psychiatry,5,B,5,0
+830,ACC-00829,2,Reference Lab,2,B,1,1
+831,ACC-00830,2,Hospital Lab,5,A,2,1
+832,ACC-00831,2,Hospital Lab,1,C,3,1
+833,ACC-00832,2,Reference Lab,4,B,5,1
+834,ACC-00833,3,Memory Clinic,4,C,9,0
+835,ACC-00834,1,Hospital Lab,5,C,1,1
+836,ACC-00835,3,Neurology Practice,3,C,10,1
+837,ACC-00836,2,Hospital Lab,1,B,6,0
+838,ACC-00837,1,Hospital Lab,1,B,10,1
+839,ACC-00838,3,Memory Clinic,2,B,7,1
+840,ACC-00839,3,Memory Clinic,2,B,5,1
+841,ACC-00840,3,Primary Care,2,B,2,1
+842,ACC-00841,2,Reference Lab,3,A,8,1
+843,ACC-00842,3,Neurology Practice,3,C,7,1
+844,ACC-00843,3,Neurology Practice,1,A,4,1
+845,ACC-00844,3,Geriatric Psychiatry,1,B,9,1
+846,ACC-00845,1,Hospital Lab,5,A,8,1
+847,ACC-00846,1,Hospital Lab,4,A,3,1
+848,ACC-00847,1,Hospital Lab,2,A,2,1
+849,ACC-00848,3,Memory Clinic,3,B,7,1
+850,ACC-00849,3,Neurology Practice,1,C,2,1
+851,ACC-00850,3,Neurology Practice,2,C,6,1
+852,ACC-00851,1,Physician Office Lab,5,C,10,1
+853,ACC-00852,3,Primary Care,1,C,8,1
+854,ACC-00853,1,IDN Core Lab,1,C,4,1
+855,ACC-00854,3,Neurology Practice,3,B,10,1
+856,ACC-00855,2,Hospital Lab,5,C,9,1
+857,ACC-00856,3,Neurology Practice,2,B,5,1
+858,ACC-00857,1,Hospital Lab,3,C,1,1
+859,ACC-00858,2,Hospital Lab,5,A,9,1
+860,ACC-00859,2,Physician Office Lab,5,B,9,0
+861,ACC-00860,2,Reference Lab,2,B,10,0
+862,ACC-00861,1,Hospital Lab,2,B,10,1
+863,ACC-00862,2,Physician Office Lab,3,C,5,1
+864,ACC-00863,1,Reference Lab,5,C,1,0
+865,ACC-00864,3,Memory Clinic,4,C,4,0
+866,ACC-00865,2,Physician Office Lab,5,C,4,1
+867,ACC-00866,2,Physician Office Lab,3,C,4,1
+868,ACC-00867,3,Geriatric Psychiatry,1,C,9,1
+869,ACC-00868,3,Neurology Practice,2,C,9,1
+870,ACC-00869,1,Hospital Lab,5,C,1,0
+871,ACC-00870,3,Geriatric Psychiatry,1,B,10,1
+872,ACC-00871,3,Neurology Practice,3,C,4,1
+873,ACC-00872,2,IDN Core Lab,2,B,2,1
+874,ACC-00873,1,Reference Lab,2,B,3,0
+875,ACC-00874,1,Hospital Lab,3,B,1,0
+876,ACC-00875,3,Geriatric Psychiatry,2,C,2,1
+877,ACC-00876,1,Physician Office Lab,5,C,3,0
+878,ACC-00877,1,Hospital Lab,2,A,1,1
+879,ACC-00878,3,Geriatric Psychiatry,4,B,2,0
+880,ACC-00879,3,Geriatric Psychiatry,1,C,3,1
+881,ACC-00880,2,Physician Office Lab,2,C,8,1
+882,ACC-00881,1,IDN Core Lab,1,A,2,1
+883,ACC-00882,3,Neurology Practice,1,C,10,1
+884,ACC-00883,3,Geriatric Psychiatry,3,C,10,1
+885,ACC-00884,1,Physician Office Lab,2,B,4,1
+886,ACC-00885,1,IDN Core Lab,1,B,1,0
+887,ACC-00886,3,Memory Clinic,5,B,3,1
+888,ACC-00887,3,Neurology Practice,4,C,2,0
+889,ACC-00888,2,Physician Office Lab,5,C,1,1
+890,ACC-00889,3,Primary Care,5,C,9,1
+891,ACC-00890,3,Neurology Practice,3,C,2,1
+892,ACC-00891,3,Neurology Practice,2,B,8,1
+893,ACC-00892,1,Hospital Lab,5,A,7,1
+894,ACC-00893,2,Reference Lab,2,C,5,1
+895,ACC-00894,3,Neurology Practice,3,B,4,1
+896,ACC-00895,2,Physician Office Lab,2,C,4,1
+897,ACC-00896,2,IDN Core Lab,2,C,4,1
+898,ACC-00897,3,Neurology Practice,5,A,4,1
+899,ACC-00898,3,Neurology Practice,1,B,3,1
+900,ACC-00899,1,Reference Lab,1,C,10,1
+901,ACC-00900,2,IDN Core Lab,4,B,10,1
+902,ACC-00901,3,Primary Care,5,A,9,0
+903,ACC-00902,3,Geriatric Psychiatry,5,C,9,1
+904,ACC-00903,2,IDN Core Lab,4,A,3,1
+905,ACC-00904,1,Reference Lab,2,B,9,1
+906,ACC-00905,1,Reference Lab,3,C,5,0
+907,ACC-00906,3,Geriatric Psychiatry,1,B,2,0
+908,ACC-00907,3,Primary Care,1,A,8,1
+909,ACC-00908,3,Neurology Practice,5,C,10,1
+910,ACC-00909,3,Neurology Practice,5,A,9,1
+911,ACC-00910,1,Physician Office Lab,2,B,1,1
+912,ACC-00911,2,Physician Office Lab,2,C,2,1
+913,ACC-00912,2,Physician Office Lab,5,C,2,1
+914,ACC-00913,2,IDN Core Lab,2,B,10,1
+915,ACC-00914,1,Physician Office Lab,2,C,6,1
+916,ACC-00915,1,IDN Core Lab,1,B,9,1
+917,ACC-00916,3,Memory Clinic,2,C,2,1
+918,ACC-00917,3,Geriatric Psychiatry,2,C,6,1
+919,ACC-00918,3,Primary Care,4,C,4,0
+920,ACC-00919,3,Geriatric Psychiatry,2,A,6,0
+921,ACC-00920,3,Neurology Practice,2,B,7,1
+922,ACC-00921,1,Reference Lab,2,A,6,1
+923,ACC-00922,1,Hospital Lab,2,C,1,1
+924,ACC-00923,3,Geriatric Psychiatry,2,C,9,1
+925,ACC-00924,2,Hospital Lab,3,B,10,1
+926,ACC-00925,1,Reference Lab,2,B,6,1
+927,ACC-00926,3,Neurology Practice,1,B,2,1
+928,ACC-00927,1,Reference Lab,5,A,9,1
+929,ACC-00928,1,Hospital Lab,2,C,6,1
+930,ACC-00929,3,Neurology Practice,4,C,9,1
+931,ACC-00930,3,Memory Clinic,5,C,7,1
+932,ACC-00931,2,IDN Core Lab,1,C,8,1
+933,ACC-00932,1,Physician Office Lab,1,C,8,0
+934,ACC-00933,3,Memory Clinic,1,B,1,0
+935,ACC-00934,3,Geriatric Psychiatry,5,C,3,1
+936,ACC-00935,1,Physician Office Lab,3,A,5,1
+937,ACC-00936,2,Hospital Lab,2,B,8,1
+938,ACC-00937,3,Primary Care,1,C,3,0
+939,ACC-00938,1,Physician Office Lab,1,A,5,1
+940,ACC-00939,2,Physician Office Lab,3,C,1,1
+941,ACC-00940,1,IDN Core Lab,4,A,7,1
+942,ACC-00941,1,Hospital Lab,2,B,7,0
+943,ACC-00942,3,Primary Care,2,B,6,1
+944,ACC-00943,2,IDN Core Lab,5,A,6,1
+945,ACC-00944,3,Primary Care,5,B,10,1
+946,ACC-00945,1,IDN Core Lab,2,B,1,0
+947,ACC-00946,2,Physician Office Lab,4,A,8,1
+948,ACC-00947,3,Neurology Practice,5,A,7,1
+949,ACC-00948,2,Reference Lab,2,A,5,1
+950,ACC-00949,2,Physician Office Lab,1,B,2,1
+951,ACC-00950,2,Physician Office Lab,2,C,10,1
+952,ACC-00951,3,Primary Care,1,C,10,1
+953,ACC-00952,3,Memory Clinic,1,B,4,1
+954,ACC-00953,1,Hospital Lab,5,C,7,1
+955,ACC-00954,1,Hospital Lab,5,C,2,1
+956,ACC-00955,3,Neurology Practice,3,B,1,1
+957,ACC-00956,3,Geriatric Psychiatry,5,C,10,0
+958,ACC-00957,1,IDN Core Lab,5,C,9,1
+959,ACC-00958,2,Physician Office Lab,4,A,1,1
+960,ACC-00959,3,Neurology Practice,5,B,1,1
+961,ACC-00960,2,Hospital Lab,5,C,2,0
+962,ACC-00961,3,Geriatric Psychiatry,2,A,1,1
+963,ACC-00962,2,IDN Core Lab,5,A,4,1
+964,ACC-00963,3,Memory Clinic,5,B,4,1
+965,ACC-00964,3,Memory Clinic,2,A,7,0
+966,ACC-00965,3,Primary Care,3,A,2,0
+967,ACC-00966,3,Primary Care,1,B,9,1
+968,ACC-00967,2,IDN Core Lab,2,C,9,0
+969,ACC-00968,3,Geriatric Psychiatry,3,B,8,0
+970,ACC-00969,3,Primary Care,1,C,10,1
+971,ACC-00970,2,IDN Core Lab,3,C,2,1
+972,ACC-00971,2,Physician Office Lab,3,B,8,1
+973,ACC-00972,1,Reference Lab,1,C,5,1
+974,ACC-00973,3,Memory Clinic,4,C,4,1
+975,ACC-00974,2,Reference Lab,5,A,7,1
+976,ACC-00975,1,IDN Core Lab,1,A,3,1
+977,ACC-00976,3,Primary Care,2,B,1,0
+978,ACC-00977,3,Primary Care,1,C,4,1
+979,ACC-00978,1,IDN Core Lab,1,A,8,1
+980,ACC-00979,2,Reference Lab,3,C,1,1
+981,ACC-00980,3,Geriatric Psychiatry,2,C,9,1
+982,ACC-00981,3,Neurology Practice,3,C,10,1
+983,ACC-00982,2,Physician Office Lab,2,C,5,1
+984,ACC-00983,1,Physician Office Lab,4,A,3,1
+985,ACC-00984,2,IDN Core Lab,1,A,9,1
+986,ACC-00985,2,Hospital Lab,5,B,3,1
+987,ACC-00986,2,Hospital Lab,2,B,3,1
+988,ACC-00987,3,Neurology Practice,1,C,8,1
+989,ACC-00988,3,Neurology Practice,1,C,4,0
+990,ACC-00989,3,Neurology Practice,3,C,7,1
+991,ACC-00990,3,Primary Care,5,B,3,1
+992,ACC-00991,3,Neurology Practice,3,B,10,1
+993,ACC-00992,2,Reference Lab,2,B,3,0
+994,ACC-00993,1,Physician Office Lab,4,B,10,1
+995,ACC-00994,3,Memory Clinic,1,C,8,1
+996,ACC-00995,3,Neurology Practice,4,C,5,0
+997,ACC-00996,2,IDN Core Lab,1,C,7,1
+998,ACC-00997,1,Physician Office Lab,5,C,10,1
+999,ACC-00998,3,Primary Care,5,A,7,1
+1000,ACC-00999,1,Reference Lab,1,B,10,1
+1001,ACC-01000,3,Neurology Practice,1,C,10,1
+1002,ACC-01001,1,Hospital Lab,4,B,9,1
+1003,ACC-01002,3,Neurology Practice,3,A,10,1
+1004,ACC-01003,2,Hospital Lab,3,A,10,1
+1005,ACC-01004,2,Reference Lab,3,C,1,1
+1006,ACC-01005,3,Neurology Practice,1,C,6,1
+1007,ACC-01006,1,Reference Lab,4,B,7,1
+1008,ACC-01007,1,Reference Lab,1,C,2,1
+1009,ACC-01008,1,Physician Office Lab,3,A,7,0
+1010,ACC-01009,1,Reference Lab,2,A,9,1
+1011,ACC-01010,2,Reference Lab,2,B,8,1
+1012,ACC-01011,1,Hospital Lab,5,B,4,1
+1013,ACC-01012,2,Hospital Lab,2,C,5,1
+1014,ACC-01013,3,Geriatric Psychiatry,3,A,10,0
+1015,ACC-01014,3,Memory Clinic,5,B,3,1
+1016,ACC-01015,1,Reference Lab,3,C,6,1
+1017,ACC-01016,3,Geriatric Psychiatry,5,A,9,0
+1018,ACC-01017,3,Geriatric Psychiatry,5,C,5,1
+1019,ACC-01018,3,Memory Clinic,4,B,2,1
+1020,ACC-01019,3,Neurology Practice,1,B,9,1
+1021,ACC-01020,2,IDN Core Lab,1,B,4,1
+1022,ACC-01021,1,Hospital Lab,2,C,4,1
+1023,ACC-01022,3,Memory Clinic,1,B,9,1
+1024,ACC-01023,3,Neurology Practice,2,A,2,0
+1025,ACC-01024,2,IDN Core Lab,1,B,8,1
+1026,ACC-01025,1,Hospital Lab,1,C,8,1
+1027,ACC-01026,1,Hospital Lab,2,C,9,1
+1028,ACC-01027,2,Physician Office Lab,1,C,3,1
+1029,ACC-01028,3,Geriatric Psychiatry,1,C,1,1
+1030,ACC-01029,1,Physician Office Lab,4,A,9,1
+1031,ACC-01030,3,Geriatric Psychiatry,5,A,2,1
+1032,ACC-01031,3,Memory Clinic,3,B,10,1
+1033,ACC-01032,2,Physician Office Lab,5,B,8,1
+1034,ACC-01033,3,Geriatric Psychiatry,1,B,4,1
+1035,ACC-01034,2,IDN Core Lab,4,C,4,0
+1036,ACC-01035,1,Physician Office Lab,2,B,7,1
+1037,ACC-01036,2,Hospital Lab,3,C,9,0
+1038,ACC-01037,1,Hospital Lab,4,B,1,0
+1039,ACC-01038,3,Neurology Practice,4,C,1,1
+1040,ACC-01039,2,Hospital Lab,1,B,8,1
+1041,ACC-01040,3,Memory Clinic,2,C,5,1
+1042,ACC-01041,3,Memory Clinic,4,C,5,1
+1043,ACC-01042,3,Memory Clinic,3,A,1,1
+1044,ACC-01043,3,Geriatric Psychiatry,2,B,3,1
+1045,ACC-01044,3,Neurology Practice,1,C,7,1
+1046,ACC-01045,2,Physician Office Lab,1,C,9,1
+1047,ACC-01046,2,IDN Core Lab,2,C,2,1
+1048,ACC-01047,3,Primary Care,3,B,5,1
+1049,ACC-01048,3,Primary Care,1,C,8,0
+1050,ACC-01049,3,Primary Care,4,C,9,1
+1051,ACC-01050,1,Physician Office Lab,4,A,5,1
+1052,ACC-01051,1,Physician Office Lab,1,C,5,1
+1053,ACC-01052,1,Reference Lab,1,B,9,0
+1054,ACC-01053,1,IDN Core Lab,5,B,10,1
+1055,ACC-01054,3,Memory Clinic,5,B,8,0
+1056,ACC-01055,2,Physician Office Lab,5,C,7,1
+1057,ACC-01056,2,IDN Core Lab,4,A,7,1
+1058,ACC-01057,1,IDN Core Lab,5,B,7,1
+1059,ACC-01058,3,Primary Care,1,C,6,0
+1060,ACC-01059,1,Hospital Lab,1,B,2,1
+1061,ACC-01060,1,Physician Office Lab,1,A,9,1
+1062,ACC-01061,3,Geriatric Psychiatry,3,C,8,1
+1063,ACC-01062,3,Primary Care,1,C,4,1
+1064,ACC-01063,1,Reference Lab,3,B,6,1
+1065,ACC-01064,1,IDN Core Lab,1,A,1,1
+1066,ACC-01065,2,Reference Lab,3,A,8,1
+1067,ACC-01066,3,Memory Clinic,5,C,5,1
+1068,ACC-01067,1,IDN Core Lab,4,B,9,1
+1069,ACC-01068,3,Memory Clinic,2,A,3,1
+1070,ACC-01069,2,Physician Office Lab,1,C,8,1
+1071,ACC-01070,3,Primary Care,1,C,4,1
+1072,ACC-01071,3,Geriatric Psychiatry,3,C,5,1
+1073,ACC-01072,3,Neurology Practice,2,C,4,0
+1074,ACC-01073,1,Hospital Lab,4,C,9,1
+1075,ACC-01074,1,Physician Office Lab,5,B,3,1
+1076,ACC-01075,1,Hospital Lab,1,A,8,1
+1077,ACC-01076,1,Physician Office Lab,1,A,1,1
+1078,ACC-01077,2,Reference Lab,1,A,8,0
+1079,ACC-01078,1,Hospital Lab,5,C,5,1
+1080,ACC-01079,3,Neurology Practice,1,C,10,1
+1081,ACC-01080,3,Geriatric Psychiatry,4,A,5,1
+1082,ACC-01081,3,Primary Care,2,A,2,1
+1083,ACC-01082,2,Physician Office Lab,2,C,7,1
+1084,ACC-01083,3,Geriatric Psychiatry,4,B,5,1
+1085,ACC-01084,3,Neurology Practice,2,C,1,1
+1086,ACC-01085,3,Primary Care,5,C,2,0
+1087,ACC-01086,1,IDN Core Lab,1,C,5,0
+1088,ACC-01087,3,Geriatric Psychiatry,4,A,8,1
+1089,ACC-01088,2,Reference Lab,5,C,10,1
+1090,ACC-01089,1,Hospital Lab,1,C,5,1
+1091,ACC-01090,2,Reference Lab,3,C,10,0
+1092,ACC-01091,1,IDN Core Lab,3,B,8,1
+1093,ACC-01092,3,Primary Care,1,C,6,1
+1094,ACC-01093,3,Geriatric Psychiatry,3,C,2,1
+1095,ACC-01094,3,Neurology Practice,2,B,9,0
+1096,ACC-01095,3,Primary Care,4,B,7,1
+1097,ACC-01096,3,Geriatric Psychiatry,3,A,8,1
+1098,ACC-01097,3,Geriatric Psychiatry,2,C,2,0
+1099,ACC-01098,3,Primary Care,4,A,10,1
+1100,ACC-01099,1,IDN Core Lab,4,B,4,1
+1101,ACC-01100,1,Reference Lab,1,B,5,1
+1102,ACC-01101,2,Hospital Lab,1,B,6,1
+1103,ACC-01102,3,Primary Care,1,C,1,1
+1104,ACC-01103,3,Memory Clinic,5,B,7,1
+1105,ACC-01104,2,IDN Core Lab,2,B,3,0
+1106,ACC-01105,3,Primary Care,1,A,6,1
+1107,ACC-01106,3,Primary Care,2,B,6,1
+1108,ACC-01107,2,Hospital Lab,2,C,8,1
+1109,ACC-01108,3,Neurology Practice,2,C,9,1
+1110,ACC-01109,3,Geriatric Psychiatry,2,A,2,1
+1111,ACC-01110,2,Reference Lab,2,B,9,1
+1112,ACC-01111,2,Hospital Lab,2,B,7,0
+1113,ACC-01112,3,Neurology Practice,4,A,10,1
+1114,ACC-01113,2,Reference Lab,4,B,4,1
+1115,ACC-01114,1,Hospital Lab,4,C,6,1
+1116,ACC-01115,3,Primary Care,1,B,2,1
+1117,ACC-01116,1,Hospital Lab,5,B,4,1
+1118,ACC-01117,1,IDN Core Lab,1,C,9,1
+1119,ACC-01118,3,Memory Clinic,4,C,8,0
+1120,ACC-01119,3,Primary Care,4,B,10,0
+1121,ACC-01120,2,Reference Lab,2,C,9,1
+1122,ACC-01121,2,Reference Lab,1,C,3,1
+1123,ACC-01122,1,Reference Lab,4,C,4,1
+1124,ACC-01123,1,Physician Office Lab,3,A,2,1
+1125,ACC-01124,3,Neurology Practice,5,B,6,1
+1126,ACC-01125,1,IDN Core Lab,4,C,8,1
+1127,ACC-01126,1,Physician Office Lab,5,C,9,1
+1128,ACC-01127,3,Primary Care,3,C,10,1
+1129,ACC-01128,3,Neurology Practice,3,A,4,1
+1130,ACC-01129,3,Neurology Practice,5,C,5,1
+1131,ACC-01130,1,Physician Office Lab,5,B,6,1
+1132,ACC-01131,1,IDN Core Lab,1,B,8,1
+1133,ACC-01132,3,Memory Clinic,3,B,10,0
+1134,ACC-01133,3,Geriatric Psychiatry,1,C,2,1
+1135,ACC-01134,3,Memory Clinic,5,B,4,1
+1136,ACC-01135,2,IDN Core Lab,4,C,3,1
+1137,ACC-01136,3,Primary Care,2,B,3,1
+1138,ACC-01137,3,Geriatric Psychiatry,5,A,2,1
+1139,ACC-01138,2,IDN Core Lab,2,C,6,1
+1140,ACC-01139,2,Reference Lab,2,A,7,0
+1141,ACC-01140,1,IDN Core Lab,2,B,5,0
+1142,ACC-01141,3,Memory Clinic,1,C,6,1
+1143,ACC-01142,1,Physician Office Lab,1,C,7,1
+1144,ACC-01143,1,IDN Core Lab,3,C,7,1
+1145,ACC-01144,3,Primary Care,1,B,10,1
+1146,ACC-01145,3,Primary Care,5,C,2,1
+1147,ACC-01146,2,Hospital Lab,2,C,10,0
+1148,ACC-01147,3,Memory Clinic,2,B,1,1
+1149,ACC-01148,1,Reference Lab,1,B,1,0
+1150,ACC-01149,2,Physician Office Lab,2,B,6,0
+1151,ACC-01150,3,Neurology Practice,4,B,5,0
+1152,ACC-01151,3,Primary Care,5,B,6,1
+1153,ACC-01152,3,Neurology Practice,1,A,10,1
+1154,ACC-01153,3,Neurology Practice,1,C,5,1
+1155,ACC-01154,3,Geriatric Psychiatry,1,C,9,1
+1156,ACC-01155,3,Neurology Practice,3,B,7,1
+1157,ACC-01156,3,Neurology Practice,1,C,1,1
+1158,ACC-01157,3,Memory Clinic,1,C,5,1
+1159,ACC-01158,2,Reference Lab,4,C,2,1
+1160,ACC-01159,3,Geriatric Psychiatry,4,C,9,1
+1161,ACC-01160,2,IDN Core Lab,2,B,4,0
+1162,ACC-01161,3,Memory Clinic,3,C,8,1
+1163,ACC-01162,1,Reference Lab,4,A,1,1
+1164,ACC-01163,2,Reference Lab,1,C,4,1
+1165,ACC-01164,3,Neurology Practice,3,C,9,1
+1166,ACC-01165,3,Memory Clinic,2,C,9,1
+1167,ACC-01166,1,Hospital Lab,2,B,1,1
+1168,ACC-01167,2,Reference Lab,2,A,5,1
+1169,ACC-01168,2,Reference Lab,4,A,9,1
+1170,ACC-01169,3,Neurology Practice,2,A,5,1
+1171,ACC-01170,1,Physician Office Lab,4,B,3,0
+1172,ACC-01171,3,Neurology Practice,2,B,8,0
+1173,ACC-01172,3,Geriatric Psychiatry,3,C,8,1
+1174,ACC-01173,3,Memory Clinic,5,C,10,1
+1175,ACC-01174,1,IDN Core Lab,2,B,10,0
+1176,ACC-01175,3,Memory Clinic,3,C,1,1
+1177,ACC-01176,3,Memory Clinic,4,C,9,1
+1178,ACC-01177,2,Reference Lab,5,C,2,1
+1179,ACC-01178,1,IDN Core Lab,3,C,9,1
+1180,ACC-01179,3,Neurology Practice,3,C,9,1
+1181,ACC-01180,2,Physician Office Lab,5,B,3,1
+1182,ACC-01181,2,Physician Office Lab,5,C,5,1
+1183,ACC-01182,2,Hospital Lab,5,C,8,1
+1184,ACC-01183,2,Hospital Lab,1,A,9,1
+1185,ACC-01184,3,Neurology Practice,4,A,9,1
+1186,ACC-01185,3,Geriatric Psychiatry,2,C,4,1
+1187,ACC-01186,3,Memory Clinic,2,C,1,1
+1188,ACC-01187,1,Hospital Lab,3,C,10,1
+1189,ACC-01188,2,Physician Office Lab,1,A,9,1
+1190,ACC-01189,1,Reference Lab,4,B,3,1
+1191,ACC-01190,3,Neurology Practice,2,A,6,0
+1192,ACC-01191,3,Primary Care,5,C,10,1
+1193,ACC-01192,3,Primary Care,2,A,4,1
+1194,ACC-01193,2,IDN Core Lab,1,B,8,1
+1195,ACC-01194,1,IDN Core Lab,3,C,5,1
+1196,ACC-01195,3,Neurology Practice,4,C,10,1
+1197,ACC-01196,2,Physician Office Lab,3,C,5,1
+1198,ACC-01197,1,IDN Core Lab,4,B,2,1
+1199,ACC-01198,2,IDN Core Lab,5,A,10,1
+1200,ACC-01199,1,IDN Core Lab,1,A,4,1
+1201,ACC-01200,1,IDN Core Lab,1,C,3,1
+1202,ACC-01201,2,IDN Core Lab,1,A,2,1
+1203,ACC-01202,3,Neurology Practice,1,C,5,1
+1204,ACC-01203,3,Memory Clinic,3,B,9,1
+1205,ACC-01204,1,Hospital Lab,1,B,4,1
+1206,ACC-01205,2,Hospital Lab,2,B,3,0
+1207,ACC-01206,3,Primary Care,2,C,5,1
+1208,ACC-01207,3,Memory Clinic,3,C,6,1
+1209,ACC-01208,3,Geriatric Psychiatry,5,B,9,1
+1210,ACC-01209,2,Reference Lab,4,B,2,1
+1211,ACC-01210,3,Neurology Practice,2,B,4,1
+1212,ACC-01211,3,Geriatric Psychiatry,2,B,8,1
+1213,ACC-01212,1,Reference Lab,1,C,5,1
+1214,ACC-01213,1,Hospital Lab,2,B,8,1
+1215,ACC-01214,3,Geriatric Psychiatry,3,A,5,1
+1216,ACC-01215,3,Neurology Practice,5,C,2,1
+1217,ACC-01216,2,Hospital Lab,2,C,9,1
+1218,ACC-01217,3,Neurology Practice,1,A,7,1
+1219,ACC-01218,2,Reference Lab,1,A,2,1
+1220,ACC-01219,3,Geriatric Psychiatry,3,B,2,1
+1221,ACC-01220,2,Hospital Lab,5,C,4,1
+1222,ACC-01221,2,Reference Lab,2,C,10,1
+1223,ACC-01222,2,IDN Core Lab,3,A,3,1
+1224,ACC-01223,2,IDN Core Lab,1,B,9,1
+1225,ACC-01224,3,Neurology Practice,3,B,5,1
+1226,ACC-01225,3,Memory Clinic,1,B,3,1
+1227,ACC-01226,1,Reference Lab,1,C,2,1
+1228,ACC-01227,1,Reference Lab,4,A,4,1
+1229,ACC-01228,1,Reference Lab,1,C,3,1
+1230,ACC-01229,1,Reference Lab,1,B,6,1
+1231,ACC-01230,2,Physician Office Lab,1,C,10,1
+1232,ACC-01231,2,Hospital Lab,1,C,9,1
+1233,ACC-01232,1,IDN Core Lab,3,B,4,1
+1234,ACC-01233,3,Primary Care,2,C,10,1
+1235,ACC-01234,3,Memory Clinic,4,C,10,1
+1236,ACC-01235,1,Reference Lab,3,C,5,1
+1237,ACC-01236,3,Geriatric Psychiatry,2,C,5,1
+1238,ACC-01237,2,IDN Core Lab,1,C,5,1
+1239,ACC-01238,3,Primary Care,4,A,5,1
+1240,ACC-01239,2,Reference Lab,3,C,2,0
+1241,ACC-01240,1,Hospital Lab,4,C,9,1
+1242,ACC-01241,2,Hospital Lab,3,C,4,1
+1243,ACC-01242,3,Memory Clinic,5,C,1,1
+1244,ACC-01243,3,Neurology Practice,3,C,10,0
+1245,ACC-01244,3,Memory Clinic,5,A,2,1
+1246,ACC-01245,3,Primary Care,3,C,10,1
+1247,ACC-01246,3,Primary Care,5,C,2,1
+1248,ACC-01247,3,Primary Care,5,A,5,1
+1249,ACC-01248,1,Physician Office Lab,2,A,6,0
+1250,ACC-01249,1,Physician Office Lab,4,B,3,1
+1251,ACC-01250,3,Neurology Practice,1,C,6,1
+1252,ACC-01251,3,Neurology Practice,5,C,6,1
+1253,ACC-01252,3,Geriatric Psychiatry,2,C,9,1
+1254,ACC-01253,3,Geriatric Psychiatry,3,B,5,1
+1255,ACC-01254,3,Neurology Practice,1,C,9,1
+1256,ACC-01255,1,IDN Core Lab,5,A,8,1
+1257,ACC-01256,3,Geriatric Psychiatry,5,C,9,1
+1258,ACC-01257,3,Neurology Practice,3,C,7,1
+1259,ACC-01258,2,Reference Lab,1,C,2,1
+1260,ACC-01259,3,Neurology Practice,4,A,7,0
+1261,ACC-01260,2,Hospital Lab,2,C,8,1
+1262,ACC-01261,3,Primary Care,5,C,4,1
+1263,ACC-01262,2,Reference Lab,2,C,7,1
+1264,ACC-01263,2,IDN Core Lab,3,B,7,1
+1265,ACC-01264,3,Memory Clinic,1,B,7,1
+1266,ACC-01265,1,IDN Core Lab,5,B,7,1
+1267,ACC-01266,1,IDN Core Lab,3,B,7,1
+1268,ACC-01267,1,Reference Lab,5,C,7,1
+1269,ACC-01268,3,Neurology Practice,2,A,4,0
+1270,ACC-01269,2,Physician Office Lab,3,C,7,1
+1271,ACC-01270,2,Physician Office Lab,1,C,2,1
+1272,ACC-01271,2,Reference Lab,4,B,9,0
+1273,ACC-01272,1,IDN Core Lab,1,B,8,1
+1274,ACC-01273,3,Neurology Practice,2,C,3,1
+1275,ACC-01274,3,Geriatric Psychiatry,4,B,1,1
+1276,ACC-01275,3,Neurology Practice,1,B,2,1
+1277,ACC-01276,1,Physician Office Lab,4,C,7,0
+1278,ACC-01277,3,Geriatric Psychiatry,5,A,1,0
+1279,ACC-01278,2,Hospital Lab,3,C,1,1
+1280,ACC-01279,3,Primary Care,3,C,8,1
+1281,ACC-01280,1,Physician Office Lab,1,A,5,1
+1282,ACC-01281,3,Geriatric Psychiatry,2,A,4,1
+1283,ACC-01282,3,Primary Care,5,A,3,1
+1284,ACC-01283,3,Primary Care,1,C,6,0
+1285,ACC-01284,3,Memory Clinic,5,B,3,1
+1286,ACC-01285,1,IDN Core Lab,3,B,1,1
+1287,ACC-01286,2,IDN Core Lab,1,C,5,1
+1288,ACC-01287,1,Reference Lab,2,B,10,1
+1289,ACC-01288,2,IDN Core Lab,3,C,6,1
+1290,ACC-01289,3,Neurology Practice,5,C,6,1
+1291,ACC-01290,3,Primary Care,4,B,4,1
+1292,ACC-01291,3,Geriatric Psychiatry,3,C,2,1
+1293,ACC-01292,3,Geriatric Psychiatry,5,B,8,1
+1294,ACC-01293,1,IDN Core Lab,2,B,5,1
+1295,ACC-01294,3,Geriatric Psychiatry,2,B,1,1
+1296,ACC-01295,3,Geriatric Psychiatry,4,C,4,1
+1297,ACC-01296,3,Memory Clinic,3,C,1,1
+1298,ACC-01297,1,Hospital Lab,1,C,9,1
+1299,ACC-01298,1,Physician Office Lab,4,B,10,0
+1300,ACC-01299,2,Reference Lab,2,C,9,1
+1301,ACC-01300,1,Hospital Lab,3,B,9,1
+1302,ACC-01301,1,Reference Lab,5,C,8,1
+1303,ACC-01302,1,Reference Lab,2,B,5,1
+1304,ACC-01303,2,Physician Office Lab,4,A,4,1
+1305,ACC-01304,3,Memory Clinic,5,B,1,1
+1306,ACC-01305,1,Hospital Lab,2,B,10,1
+1307,ACC-01306,3,Primary Care,1,A,1,0
+1308,ACC-01307,1,Physician Office Lab,5,B,3,1
+1309,ACC-01308,2,Hospital Lab,2,C,5,1
+1310,ACC-01309,2,Reference Lab,2,C,7,0
+1311,ACC-01310,3,Primary Care,1,C,10,1
+1312,ACC-01311,2,Reference Lab,1,A,6,1
+1313,ACC-01312,3,Neurology Practice,3,A,9,0
+1314,ACC-01313,2,IDN Core Lab,5,B,5,1
+1315,ACC-01314,1,Hospital Lab,3,C,10,1
+1316,ACC-01315,2,Hospital Lab,2,C,2,1
+1317,ACC-01316,1,IDN Core Lab,5,B,5,1
+1318,ACC-01317,3,Geriatric Psychiatry,2,C,3,1
+1319,ACC-01318,3,Neurology Practice,1,A,3,1
+1320,ACC-01319,1,Reference Lab,5,C,9,1
+1321,ACC-01320,3,Memory Clinic,2,C,8,1
+1322,ACC-01321,3,Memory Clinic,3,C,7,0
+1323,ACC-01322,2,Hospital Lab,5,C,1,1
+1324,ACC-01323,3,Memory Clinic,2,B,10,1
+1325,ACC-01324,2,Physician Office Lab,3,B,10,1
+1326,ACC-01325,1,Physician Office Lab,5,B,7,1
+1327,ACC-01326,3,Neurology Practice,2,C,5,0
+1328,ACC-01327,3,Geriatric Psychiatry,5,C,1,1
+1329,ACC-01328,1,IDN Core Lab,1,B,5,1
+1330,ACC-01329,1,Physician Office Lab,5,B,2,1
+1331,ACC-01330,3,Memory Clinic,2,A,7,1
+1332,ACC-01331,3,Memory Clinic,3,A,8,1
+1333,ACC-01332,1,Reference Lab,3,A,1,1
+1334,ACC-01333,3,Geriatric Psychiatry,1,C,3,1
+1335,ACC-01334,1,IDN Core Lab,1,B,7,1
+1336,ACC-01335,3,Neurology Practice,4,C,3,0
+1337,ACC-01336,3,Primary Care,5,B,9,0
+1338,ACC-01337,1,Physician Office Lab,1,B,5,1
+1339,ACC-01338,2,IDN Core Lab,4,C,7,0
+1340,ACC-01339,1,IDN Core Lab,2,B,8,1
+1341,ACC-01340,3,Memory Clinic,3,C,7,0
+1342,ACC-01341,2,Reference Lab,3,C,7,1
+1343,ACC-01342,3,Memory Clinic,4,A,6,1
+1344,ACC-01343,2,Reference Lab,3,C,2,0
+1345,ACC-01344,2,Reference Lab,1,B,3,0
+1346,ACC-01345,1,Reference Lab,2,B,9,1
+1347,ACC-01346,1,Hospital Lab,2,C,4,1
+1348,ACC-01347,2,Hospital Lab,3,B,10,1
+1349,ACC-01348,3,Memory Clinic,1,C,6,1
+1350,ACC-01349,3,Primary Care,2,A,8,0
+1351,ACC-01350,2,Reference Lab,1,C,3,0
+1352,ACC-01351,3,Neurology Practice,2,B,2,1
+1353,ACC-01352,1,Reference Lab,3,A,4,1
+1354,ACC-01353,3,Neurology Practice,5,C,8,1
+1355,ACC-01354,1,Physician Office Lab,1,C,7,0
+1356,ACC-01355,1,Hospital Lab,1,C,6,1
+1357,ACC-01356,3,Neurology Practice,2,B,2,1
+1358,ACC-01357,2,Reference Lab,3,C,1,0
+1359,ACC-01358,3,Geriatric Psychiatry,3,B,2,0
+1360,ACC-01359,3,Neurology Practice,2,B,7,0
+1361,ACC-01360,1,Reference Lab,1,B,10,1
+1362,ACC-01361,1,Hospital Lab,5,B,10,0
+1363,ACC-01362,2,Hospital Lab,3,A,8,1
+1364,ACC-01363,3,Primary Care,4,C,5,1
+1365,ACC-01364,2,IDN Core Lab,2,B,8,1
+1366,ACC-01365,1,Hospital Lab,5,B,1,1
+1367,ACC-01366,1,IDN Core Lab,4,C,4,1
+1368,ACC-01367,2,Reference Lab,1,A,3,1
+1369,ACC-01368,1,IDN Core Lab,1,B,10,1
+1370,ACC-01369,2,IDN Core Lab,1,B,6,1
+1371,ACC-01370,1,Hospital Lab,5,A,10,0
+1372,ACC-01371,3,Memory Clinic,2,C,8,1
+1373,ACC-01372,3,Neurology Practice,2,B,8,1
+1374,ACC-01373,1,Reference Lab,3,B,2,1
+1375,ACC-01374,3,Memory Clinic,3,A,1,1
+1376,ACC-01375,2,Reference Lab,2,B,3,1
+1377,ACC-01376,2,Hospital Lab,2,B,9,1
+1378,ACC-01377,1,IDN Core Lab,2,A,10,0
+1379,ACC-01378,2,Reference Lab,1,B,7,0
+1380,ACC-01379,3,Memory Clinic,1,C,9,1
+1381,ACC-01380,1,Reference Lab,5,A,1,1
+1382,ACC-01381,3,Memory Clinic,5,A,10,1
+1383,ACC-01382,1,Reference Lab,5,C,2,1
+1384,ACC-01383,2,IDN Core Lab,2,B,2,1
+1385,ACC-01384,2,Physician Office Lab,1,A,9,1
+1386,ACC-01385,1,IDN Core Lab,3,C,10,1
+1387,ACC-01386,1,Physician Office Lab,1,A,2,1
+1388,ACC-01387,2,Reference Lab,5,C,4,1
+1389,ACC-01388,2,Hospital Lab,4,C,9,1
+1390,ACC-01389,3,Memory Clinic,5,B,6,0
+1391,ACC-01390,3,Geriatric Psychiatry,5,B,5,1
+1392,ACC-01391,3,Primary Care,2,C,5,1
+1393,ACC-01392,3,Neurology Practice,2,B,3,1
+1394,ACC-01393,1,Hospital Lab,5,B,10,1
+1395,ACC-01394,3,Neurology Practice,3,C,6,1
+1396,ACC-01395,3,Memory Clinic,5,B,3,0
+1397,ACC-01396,2,Physician Office Lab,2,C,9,1
+1398,ACC-01397,3,Geriatric Psychiatry,3,B,10,1
+1399,ACC-01398,2,Hospital Lab,2,C,1,1
+1400,ACC-01399,1,Physician Office Lab,1,B,10,1
+1401,ACC-01400,1,Reference Lab,3,C,10,1
+1402,ACC-01401,1,Reference Lab,1,B,10,1
+1403,ACC-01402,2,Hospital Lab,2,B,2,1
+1404,ACC-01403,3,Geriatric Psychiatry,3,C,4,1
+1405,ACC-01404,1,Physician Office Lab,1,C,9,1
+1406,ACC-01405,1,IDN Core Lab,4,B,4,1
+1407,ACC-01406,1,Hospital Lab,1,A,5,1
+1408,ACC-01407,3,Primary Care,4,C,3,1
+1409,ACC-01408,3,Primary Care,1,B,5,1
+1410,ACC-01409,1,Physician Office Lab,4,C,5,1
+1411,ACC-01410,3,Geriatric Psychiatry,2,A,5,1
+1412,ACC-01411,3,Primary Care,4,A,3,1
+1413,ACC-01412,3,Geriatric Psychiatry,3,A,1,1
+1414,ACC-01413,3,Memory Clinic,2,A,7,0
+1415,ACC-01414,2,Reference Lab,4,C,1,1
+1416,ACC-01415,1,Physician Office Lab,2,B,9,0
+1417,ACC-01416,3,Neurology Practice,2,C,1,1
+1418,ACC-01417,3,Geriatric Psychiatry,2,B,10,1
+1419,ACC-01418,1,Physician Office Lab,4,C,6,1
+1420,ACC-01419,3,Neurology Practice,3,C,5,1
+1421,ACC-01420,3,Memory Clinic,5,B,9,0
+1422,ACC-01421,2,Reference Lab,1,C,5,0
+1423,ACC-01422,3,Primary Care,1,B,2,0
+1424,ACC-01423,1,Hospital Lab,3,C,6,1
+1425,ACC-01424,2,Hospital Lab,4,B,5,1
+1426,ACC-01425,1,Physician Office Lab,1,B,10,0
+1427,ACC-01426,1,Hospital Lab,2,A,6,0
+1428,ACC-01427,2,Hospital Lab,5,B,1,1
+1429,ACC-01428,2,Physician Office Lab,2,C,4,1
+1430,ACC-01429,2,Hospital Lab,2,C,4,1
+1431,ACC-01430,1,Reference Lab,1,C,3,1
+1432,ACC-01431,2,Reference Lab,1,C,2,1
+1433,ACC-01432,1,Reference Lab,2,C,1,0
+1434,ACC-01433,1,Reference Lab,1,C,8,1
+1435,ACC-01434,3,Geriatric Psychiatry,2,B,4,1
+1436,ACC-01435,3,Primary Care,1,C,4,1
+1437,ACC-01436,2,IDN Core Lab,2,B,5,1
+1438,ACC-01437,3,Memory Clinic,2,C,10,1
+1439,ACC-01438,2,Reference Lab,5,B,8,1
+1440,ACC-01439,1,Physician Office Lab,2,A,10,0
+1441,ACC-01440,2,IDN Core Lab,1,A,6,1
+1442,ACC-01441,3,Geriatric Psychiatry,4,C,9,1
+1443,ACC-01442,3,Memory Clinic,5,C,10,1
+1444,ACC-01443,3,Neurology Practice,3,A,6,1
+1445,ACC-01444,3,Neurology Practice,2,C,5,1
+1446,ACC-01445,1,Physician Office Lab,5,C,10,1
+1447,ACC-01446,3,Geriatric Psychiatry,4,C,8,1
+1448,ACC-01447,3,Primary Care,2,B,4,1
+1449,ACC-01448,3,Memory Clinic,2,B,4,1
+1450,ACC-01449,2,Reference Lab,1,C,4,1
+1451,ACC-01450,2,IDN Core Lab,1,A,3,1
+1452,ACC-01451,1,Reference Lab,1,B,5,1
+1453,ACC-01452,1,Reference Lab,1,A,7,1
+1454,ACC-01453,2,Physician Office Lab,5,C,7,1
+1455,ACC-01454,1,Physician Office Lab,5,B,1,0
+1456,ACC-01455,1,IDN Core Lab,1,C,1,1
+1457,ACC-01456,1,Reference Lab,1,C,7,1
+1458,ACC-01457,3,Primary Care,3,C,6,1
+1459,ACC-01458,1,Physician Office Lab,2,B,1,1
+1460,ACC-01459,3,Geriatric Psychiatry,5,B,10,1
+1461,ACC-01460,2,IDN Core Lab,5,C,10,1
+1462,ACC-01461,1,Hospital Lab,3,C,1,1
+1463,ACC-01462,1,Reference Lab,1,B,1,0
+1464,ACC-01463,1,Physician Office Lab,5,B,1,1
+1465,ACC-01464,2,Hospital Lab,2,C,7,1
+1466,ACC-01465,1,Physician Office Lab,2,C,10,1
+1467,ACC-01466,3,Geriatric Psychiatry,4,A,5,1
+1468,ACC-01467,2,Reference Lab,2,B,9,1
+1469,ACC-01468,2,Hospital Lab,1,B,3,1
+1470,ACC-01469,2,Physician Office Lab,4,B,1,0
+1471,ACC-01470,3,Primary Care,1,A,5,1
+1472,ACC-01471,3,Neurology Practice,1,C,5,0
+1473,ACC-01472,2,IDN Core Lab,3,A,10,1
+1474,ACC-01473,2,Reference Lab,1,A,4,1
+1475,ACC-01474,3,Primary Care,4,B,5,1
+1476,ACC-01475,3,Geriatric Psychiatry,5,A,2,1
+1477,ACC-01476,3,Neurology Practice,5,C,5,1
+1478,ACC-01477,3,Geriatric Psychiatry,1,C,1,1
+1479,ACC-01478,2,Hospital Lab,5,C,4,1
+1480,ACC-01479,2,Physician Office Lab,1,A,3,1
+1481,ACC-01480,2,IDN Core Lab,2,A,4,0
+1482,ACC-01481,3,Neurology Practice,1,C,7,1
+1483,ACC-01482,3,Primary Care,5,A,8,0
+1484,ACC-01483,2,Reference Lab,1,A,4,1
+1485,ACC-01484,2,IDN Core Lab,4,C,9,1
+1486,ACC-01485,3,Primary Care,4,A,4,1
+1487,ACC-01486,1,Physician Office Lab,2,B,1,1
+1488,ACC-01487,3,Primary Care,4,A,3,1
+1489,ACC-01488,3,Geriatric Psychiatry,2,B,3,1
+1490,ACC-01489,1,IDN Core Lab,1,C,1,0
+1491,ACC-01490,1,Reference Lab,2,C,7,1
+1492,ACC-01491,1,Physician Office Lab,4,A,6,0
+1493,ACC-01492,1,Reference Lab,1,B,4,1
+1494,ACC-01493,2,Hospital Lab,5,B,8,1
+1495,ACC-01494,3,Memory Clinic,2,C,3,0
+1496,ACC-01495,2,Hospital Lab,4,C,10,1
+1497,ACC-01496,3,Neurology Practice,1,B,4,1
+1498,ACC-01497,1,Hospital Lab,2,C,3,1
+1499,ACC-01498,3,Memory Clinic,2,C,8,1
+1500,ACC-01499,2,Physician Office Lab,2,C,2,1
+1501,ACC-01500,3,Geriatric Psychiatry,2,C,10,1
+1502,ACC-01501,1,IDN Core Lab,3,B,8,0
+1503,ACC-01502,3,Memory Clinic,2,B,3,1
+1504,ACC-01503,2,Hospital Lab,1,B,4,1
+1505,ACC-01504,3,Neurology Practice,1,A,10,1
+1506,ACC-01505,2,Hospital Lab,5,A,6,0
+1507,ACC-01506,3,Memory Clinic,1,C,6,0
+1508,ACC-01507,2,Hospital Lab,2,C,8,1
+1509,ACC-01508,1,Physician Office Lab,2,B,3,1
+1510,ACC-01509,3,Geriatric Psychiatry,3,C,5,0
+1511,ACC-01510,1,Reference Lab,2,B,5,1
+1512,ACC-01511,3,Memory Clinic,2,A,4,0
+1513,ACC-01512,2,IDN Core Lab,5,B,4,0
+1514,ACC-01513,3,Neurology Practice,5,C,5,1
+1515,ACC-01514,2,Reference Lab,1,C,8,1
+1516,ACC-01515,2,Reference Lab,4,C,5,1
+1517,ACC-01516,3,Primary Care,5,C,1,1
+1518,ACC-01517,3,Geriatric Psychiatry,5,B,1,0
+1519,ACC-01518,3,Primary Care,2,B,1,1
+1520,ACC-01519,3,Geriatric Psychiatry,4,A,2,1
+1521,ACC-01520,3,Memory Clinic,2,C,8,0
+1522,ACC-01521,3,Primary Care,3,B,7,1
+1523,ACC-01522,2,Hospital Lab,3,B,4,1
+1524,ACC-01523,1,Reference Lab,4,C,1,1
+1525,ACC-01524,3,Memory Clinic,5,B,4,1
+1526,ACC-01525,2,Hospital Lab,1,B,3,1
+1527,ACC-01526,3,Primary Care,1,B,5,1
+1528,ACC-01527,3,Geriatric Psychiatry,3,B,5,1
+1529,ACC-01528,3,Neurology Practice,2,C,2,1
+1530,ACC-01529,2,IDN Core Lab,3,C,5,0
+1531,ACC-01530,3,Neurology Practice,4,A,2,0
+1532,ACC-01531,2,Reference Lab,4,C,1,1
+1533,ACC-01532,1,Physician Office Lab,4,A,10,1
+1534,ACC-01533,3,Memory Clinic,1,C,9,1
+1535,ACC-01534,3,Neurology Practice,1,B,10,1
+1536,ACC-01535,1,Hospital Lab,5,A,1,0
+1537,ACC-01536,3,Geriatric Psychiatry,2,B,7,1
+1538,ACC-01537,3,Neurology Practice,3,C,9,0
+1539,ACC-01538,2,Hospital Lab,1,B,5,1
+1540,ACC-01539,1,Physician Office Lab,4,B,10,1
+1541,ACC-01540,3,Geriatric Psychiatry,1,A,10,0
+1542,ACC-01541,1,Hospital Lab,4,C,2,1
+1543,ACC-01542,1,IDN Core Lab,1,B,9,1
+1544,ACC-01543,2,Physician Office Lab,1,C,1,1
+1545,ACC-01544,3,Primary Care,2,A,2,1
+1546,ACC-01545,3,Primary Care,1,B,2,1
+1547,ACC-01546,3,Neurology Practice,5,B,10,1
+1548,ACC-01547,3,Neurology Practice,2,B,9,1
+1549,ACC-01548,3,Memory Clinic,2,B,3,1
+1550,ACC-01549,3,Geriatric Psychiatry,1,B,10,1
+1551,ACC-01550,1,Reference Lab,3,B,2,1
+1552,ACC-01551,2,Physician Office Lab,1,B,6,1
+1553,ACC-01552,2,IDN Core Lab,3,C,9,1
+1554,ACC-01553,1,Hospital Lab,5,B,10,1
+1555,ACC-01554,2,Physician Office Lab,2,B,3,0
+1556,ACC-01555,1,Reference Lab,5,C,8,1
+1557,ACC-01556,1,IDN Core Lab,5,C,7,1
+1558,ACC-01557,2,Physician Office Lab,5,C,6,0
+1559,ACC-01558,1,IDN Core Lab,4,B,9,1
+1560,ACC-01559,1,Physician Office Lab,5,C,10,0
+1561,ACC-01560,3,Neurology Practice,2,A,2,1
+1562,ACC-01561,3,Neurology Practice,3,B,5,1
+1563,ACC-01562,3,Geriatric Psychiatry,4,B,3,1
+1564,ACC-01563,1,Hospital Lab,1,C,5,1
+1565,ACC-01564,3,Geriatric Psychiatry,2,A,4,1
+1566,ACC-01565,3,Memory Clinic,2,B,8,1
+1567,ACC-01566,1,Hospital Lab,1,A,7,1
+1568,ACC-01567,1,Reference Lab,2,B,8,1
+1569,ACC-01568,2,Reference Lab,4,B,8,1
+1570,ACC-01569,2,Hospital Lab,3,A,4,0
+1571,ACC-01570,1,Physician Office Lab,3,C,7,1
+1572,ACC-01571,1,Hospital Lab,3,A,5,0
+1573,ACC-01572,2,Reference Lab,1,C,6,1
+1574,ACC-01573,2,Physician Office Lab,1,A,3,0
+1575,ACC-01574,2,Hospital Lab,1,A,3,0
+1576,ACC-01575,3,Memory Clinic,5,B,2,0
+1577,ACC-01576,1,Physician Office Lab,5,B,2,0
+1578,ACC-01577,3,Memory Clinic,3,A,4,0
+1579,ACC-01578,2,Physician Office Lab,2,A,2,1
+1580,ACC-01579,3,Primary Care,5,B,5,0
+1581,ACC-01580,3,Memory Clinic,1,C,8,1
+1582,ACC-01581,3,Neurology Practice,1,C,2,0
+1583,ACC-01582,3,Memory Clinic,3,A,3,1
+1584,ACC-01583,3,Neurology Practice,3,A,2,1
+1585,ACC-01584,3,Primary Care,5,B,9,1
+1586,ACC-01585,1,Reference Lab,5,C,2,1
+1587,ACC-01586,2,Hospital Lab,5,B,10,1
+1588,ACC-01587,3,Memory Clinic,4,B,9,1
+1589,ACC-01588,2,Hospital Lab,5,C,4,1
+1590,ACC-01589,1,Hospital Lab,4,C,7,1
+1591,ACC-01590,3,Neurology Practice,3,B,2,1
+1592,ACC-01591,3,Memory Clinic,3,C,2,1
+1593,ACC-01592,2,Physician Office Lab,5,A,7,1
+1594,ACC-01593,2,Hospital Lab,1,B,7,1
+1595,ACC-01594,1,IDN Core Lab,3,C,4,1
+1596,ACC-01595,2,Reference Lab,2,C,5,1
+1597,ACC-01596,3,Neurology Practice,4,A,6,0
+1598,ACC-01597,1,Physician Office Lab,3,B,6,1
+1599,ACC-01598,2,Physician Office Lab,2,B,3,1
+1600,ACC-01599,3,Memory Clinic,4,C,9,0
+1601,ACC-01600,2,Reference Lab,3,B,7,1
+1602,ACC-01601,3,Neurology Practice,1,C,5,1
+1603,ACC-01602,2,IDN Core Lab,3,C,6,1
+1604,ACC-01603,1,Physician Office Lab,1,B,3,1
+1605,ACC-01604,3,Neurology Practice,5,C,4,0
+1606,ACC-01605,1,IDN Core Lab,5,A,8,1
+1607,ACC-01606,3,Primary Care,1,A,2,1
+1608,ACC-01607,1,Reference Lab,2,B,2,1
+1609,ACC-01608,3,Memory Clinic,1,C,2,1
+1610,ACC-01609,1,Physician Office Lab,4,C,10,0
+1611,ACC-01610,3,Primary Care,1,B,9,1
+1612,ACC-01611,3,Memory Clinic,3,A,10,1
+1613,ACC-01612,1,Reference Lab,2,A,4,0
+1614,ACC-01613,2,IDN Core Lab,4,B,4,1
+1615,ACC-01614,3,Geriatric Psychiatry,3,C,3,1
+1616,ACC-01615,3,Geriatric Psychiatry,3,C,8,0
+1617,ACC-01616,2,Hospital Lab,3,C,8,1
+1618,ACC-01617,3,Geriatric Psychiatry,4,B,10,1
+1619,ACC-01618,3,Primary Care,3,B,3,1
+1620,ACC-01619,3,Primary Care,2,A,10,1
+1621,ACC-01620,2,Hospital Lab,1,C,10,0
+1622,ACC-01621,2,IDN Core Lab,2,C,2,1
+1623,ACC-01622,3,Primary Care,2,B,4,1
+1624,ACC-01623,3,Neurology Practice,3,B,2,1
+1625,ACC-01624,1,IDN Core Lab,4,A,10,1
+1626,ACC-01625,3,Primary Care,5,C,5,0
+1627,ACC-01626,3,Memory Clinic,2,C,1,1
+1628,ACC-01627,2,Physician Office Lab,3,C,6,1
+1629,ACC-01628,3,Geriatric Psychiatry,4,A,2,1
+1630,ACC-01629,2,Reference Lab,2,B,4,1
+1631,ACC-01630,1,Physician Office Lab,3,B,6,0
+1632,ACC-01631,1,Reference Lab,2,B,1,1
+1633,ACC-01632,2,IDN Core Lab,2,B,10,1
+1634,ACC-01633,3,Memory Clinic,1,B,5,0
+1635,ACC-01634,3,Primary Care,1,B,7,1
+1636,ACC-01635,1,Hospital Lab,2,B,3,1
+1637,ACC-01636,2,Physician Office Lab,5,A,8,1
+1638,ACC-01637,3,Memory Clinic,1,C,5,1
+1639,ACC-01638,1,Physician Office Lab,1,C,6,1
+1640,ACC-01639,3,Neurology Practice,3,B,3,0
+1641,ACC-01640,3,Primary Care,5,C,2,1
+1642,ACC-01641,3,Primary Care,1,C,5,1
+1643,ACC-01642,3,Primary Care,4,C,4,1
+1644,ACC-01643,3,Primary Care,1,C,6,1
+1645,ACC-01644,3,Primary Care,1,B,6,1
+1646,ACC-01645,1,Reference Lab,5,B,4,1
+1647,ACC-01646,3,Primary Care,4,A,2,1
+1648,ACC-01647,1,Reference Lab,3,B,3,1
+1649,ACC-01648,3,Neurology Practice,1,A,3,1
+1650,ACC-01649,2,IDN Core Lab,3,C,4,1
+1651,ACC-01650,3,Memory Clinic,1,C,8,1
+1652,ACC-01651,3,Memory Clinic,2,B,3,1
+1653,ACC-01652,3,Neurology Practice,4,C,8,1
+1654,ACC-01653,1,IDN Core Lab,3,C,1,1
+1655,ACC-01654,3,Primary Care,4,C,7,1
+1656,ACC-01655,3,Geriatric Psychiatry,1,A,7,1
+1657,ACC-01656,2,Reference Lab,4,C,8,1
+1658,ACC-01657,1,Reference Lab,5,C,7,1
+1659,ACC-01658,2,Physician Office Lab,5,A,4,1
+1660,ACC-01659,1,Reference Lab,1,A,4,1
+1661,ACC-01660,3,Geriatric Psychiatry,1,C,9,1
+1662,ACC-01661,1,Hospital Lab,3,A,10,1
+1663,ACC-01662,2,Reference Lab,3,C,6,1
+1664,ACC-01663,3,Memory Clinic,5,C,8,1
+1665,ACC-01664,2,IDN Core Lab,2,A,10,0
+1666,ACC-01665,3,Memory Clinic,3,B,10,1
+1667,ACC-01666,1,Physician Office Lab,1,B,1,1
+1668,ACC-01667,2,Hospital Lab,5,A,5,1
+1669,ACC-01668,3,Memory Clinic,1,C,7,0
+1670,ACC-01669,2,Reference Lab,5,C,6,1
+1671,ACC-01670,2,Physician Office Lab,5,C,6,1
+1672,ACC-01671,3,Geriatric Psychiatry,1,B,7,1
+1673,ACC-01672,2,IDN Core Lab,4,C,3,1
+1674,ACC-01673,3,Primary Care,2,C,6,1
+1675,ACC-01674,3,Memory Clinic,1,C,7,1
+1676,ACC-01675,1,Reference Lab,2,A,7,0
+1677,ACC-01676,3,Neurology Practice,5,A,6,1
+1678,ACC-01677,3,Primary Care,2,C,5,1
+1679,ACC-01678,3,Neurology Practice,1,B,4,1
+1680,ACC-01679,3,Memory Clinic,3,B,2,0
+1681,ACC-01680,3,Memory Clinic,2,C,8,1
+1682,ACC-01681,2,Hospital Lab,1,C,9,1
+1683,ACC-01682,3,Primary Care,1,B,10,1
+1684,ACC-01683,3,Primary Care,1,C,4,1
+1685,ACC-01684,3,Primary Care,3,B,3,1
+1686,ACC-01685,1,Physician Office Lab,3,C,7,1
+1687,ACC-01686,1,Reference Lab,4,A,7,0
+1688,ACC-01687,3,Neurology Practice,1,A,4,1
+1689,ACC-01688,3,Geriatric Psychiatry,5,C,4,1
+1690,ACC-01689,1,Physician Office Lab,2,C,5,1
+1691,ACC-01690,2,Reference Lab,1,C,5,1
+1692,ACC-01691,3,Memory Clinic,5,A,7,1
+1693,ACC-01692,3,Geriatric Psychiatry,4,A,8,1
+1694,ACC-01693,2,IDN Core Lab,3,A,6,1
+1695,ACC-01694,3,Memory Clinic,1,C,7,0
+1696,ACC-01695,2,IDN Core Lab,1,C,2,1
+1697,ACC-01696,2,Hospital Lab,3,B,4,0
+1698,ACC-01697,3,Geriatric Psychiatry,5,A,3,0
+1699,ACC-01698,1,Physician Office Lab,3,A,8,1
+1700,ACC-01699,2,IDN Core Lab,1,B,2,1
+1701,ACC-01700,1,Physician Office Lab,3,A,9,1
+1702,ACC-01701,1,Hospital Lab,2,C,6,1
+1703,ACC-01702,2,IDN Core Lab,1,A,2,0
+1704,ACC-01703,3,Neurology Practice,5,B,4,1
+1705,ACC-01704,2,IDN Core Lab,3,C,1,1
+1706,ACC-01705,3,Memory Clinic,4,C,3,1
+1707,ACC-01706,1,Reference Lab,1,C,7,1
+1708,ACC-01707,3,Neurology Practice,1,B,1,1
+1709,ACC-01708,3,Memory Clinic,3,B,6,1
+1710,ACC-01709,3,Neurology Practice,3,A,8,1
+1711,ACC-01710,2,IDN Core Lab,3,A,3,1
+1712,ACC-01711,2,Physician Office Lab,4,C,1,1
+1713,ACC-01712,1,Reference Lab,4,C,7,1
+1714,ACC-01713,1,Reference Lab,4,B,4,1
+1715,ACC-01714,3,Geriatric Psychiatry,1,C,5,1
+1716,ACC-01715,3,Neurology Practice,2,C,5,1
+1717,ACC-01716,1,Physician Office Lab,3,B,6,0
+1718,ACC-01717,3,Neurology Practice,3,B,5,1
+1719,ACC-01718,3,Neurology Practice,2,C,4,1
+1720,ACC-01719,2,Reference Lab,5,B,2,1
+1721,ACC-01720,3,Geriatric Psychiatry,1,B,10,1
+1722,ACC-01721,3,Geriatric Psychiatry,5,A,8,0
+1723,ACC-01722,3,Neurology Practice,4,C,7,1
+1724,ACC-01723,3,Geriatric Psychiatry,3,C,3,1
+1725,ACC-01724,3,Memory Clinic,1,A,1,1
+1726,ACC-01725,2,Hospital Lab,3,A,7,0
+1727,ACC-01726,3,Memory Clinic,1,C,10,1
+1728,ACC-01727,3,Neurology Practice,5,C,4,1
+1729,ACC-01728,1,IDN Core Lab,2,C,2,1
+1730,ACC-01729,2,Physician Office Lab,2,C,6,0
+1731,ACC-01730,3,Neurology Practice,3,C,10,1
+1732,ACC-01731,2,Physician Office Lab,1,B,5,0
+1733,ACC-01732,2,IDN Core Lab,3,B,4,0
+1734,ACC-01733,3,Primary Care,4,C,10,1
+1735,ACC-01734,3,Neurology Practice,1,B,3,1
+1736,ACC-01735,1,IDN Core Lab,1,B,4,0
+1737,ACC-01736,2,Physician Office Lab,3,B,3,1
+1738,ACC-01737,2,IDN Core Lab,3,A,2,1
+1739,ACC-01738,1,Reference Lab,2,C,9,1
+1740,ACC-01739,1,Reference Lab,2,B,4,1
+1741,ACC-01740,3,Primary Care,2,C,8,0
+1742,ACC-01741,3,Geriatric Psychiatry,2,A,5,0
+1743,ACC-01742,3,Primary Care,1,C,8,1
+1744,ACC-01743,3,Neurology Practice,3,B,1,1
+1745,ACC-01744,3,Primary Care,2,A,6,0
+1746,ACC-01745,1,Hospital Lab,2,B,10,1
+1747,ACC-01746,2,Hospital Lab,1,B,10,1
+1748,ACC-01747,1,Physician Office Lab,4,C,2,1
+1749,ACC-01748,3,Geriatric Psychiatry,1,A,8,1
+1750,ACC-01749,3,Neurology Practice,1,C,10,1
+1751,ACC-01750,1,Physician Office Lab,5,A,8,1
+1752,ACC-01751,2,IDN Core Lab,5,B,5,0
+1753,ACC-01752,2,Hospital Lab,5,C,2,0
+1754,ACC-01753,1,Physician Office Lab,3,A,6,1
+1755,ACC-01754,3,Primary Care,2,A,1,1
+1756,ACC-01755,2,IDN Core Lab,5,B,7,1
+1757,ACC-01756,2,Physician Office Lab,3,B,5,1
+1758,ACC-01757,3,Geriatric Psychiatry,5,B,1,1
+1759,ACC-01758,1,Hospital Lab,3,C,8,0
+1760,ACC-01759,2,Physician Office Lab,3,A,5,1
+1761,ACC-01760,3,Geriatric Psychiatry,1,C,6,1
+1762,ACC-01761,2,Hospital Lab,1,C,3,1
+1763,ACC-01762,3,Memory Clinic,4,A,5,1
+1764,ACC-01763,2,Hospital Lab,5,C,2,1
+1765,ACC-01764,1,Hospital Lab,3,C,2,1
+1766,ACC-01765,1,IDN Core Lab,1,B,7,1
+1767,ACC-01766,3,Geriatric Psychiatry,2,B,9,1
+1768,ACC-01767,1,Hospital Lab,1,C,2,1
+1769,ACC-01768,3,Neurology Practice,5,C,2,1
+1770,ACC-01769,1,IDN Core Lab,1,C,6,1
+1771,ACC-01770,3,Neurology Practice,1,B,6,1
+1772,ACC-01771,3,Geriatric Psychiatry,2,A,4,1
+1773,ACC-01772,1,Reference Lab,3,C,10,0
+1774,ACC-01773,3,Memory Clinic,4,B,10,0
+1775,ACC-01774,3,Geriatric Psychiatry,2,C,7,1
+1776,ACC-01775,3,Geriatric Psychiatry,5,B,10,1
+1777,ACC-01776,3,Geriatric Psychiatry,3,B,5,1
+1778,ACC-01777,1,Hospital Lab,1,C,1,1
+1779,ACC-01778,3,Geriatric Psychiatry,1,C,2,1
+1780,ACC-01779,3,Memory Clinic,2,C,9,1
+1781,ACC-01780,2,Physician Office Lab,2,C,2,1
+1782,ACC-01781,2,Physician Office Lab,2,B,2,1
+1783,ACC-01782,2,Hospital Lab,1,C,7,1
+1784,ACC-01783,2,Reference Lab,1,B,5,0
+1785,ACC-01784,1,Hospital Lab,1,C,3,0
+1786,ACC-01785,3,Primary Care,4,C,9,1
+1787,ACC-01786,2,Physician Office Lab,3,C,8,1
+1788,ACC-01787,2,Physician Office Lab,1,B,3,1
+1789,ACC-01788,3,Primary Care,2,C,3,1
+1790,ACC-01789,3,Primary Care,5,B,8,1
+1791,ACC-01790,3,Primary Care,1,C,3,0
+1792,ACC-01791,1,Reference Lab,1,C,3,1
+1793,ACC-01792,3,Memory Clinic,2,C,9,1
+1794,ACC-01793,1,Physician Office Lab,1,C,9,1
+1795,ACC-01794,2,IDN Core Lab,1,C,10,1
+1796,ACC-01795,3,Neurology Practice,5,B,5,0
+1797,ACC-01796,1,Physician Office Lab,4,C,8,1
+1798,ACC-01797,1,IDN Core Lab,4,C,2,0
+1799,ACC-01798,3,Neurology Practice,5,B,10,1
+1800,ACC-01799,2,Physician Office Lab,1,C,1,1
+1801,ACC-01800,2,Reference Lab,5,B,9,1
+1802,ACC-01801,3,Primary Care,5,B,7,1
+1803,ACC-01802,3,Geriatric Psychiatry,3,C,10,1
+1804,ACC-01803,3,Geriatric Psychiatry,5,A,7,1
+1805,ACC-01804,1,Reference Lab,5,C,2,1
+1806,ACC-01805,3,Neurology Practice,2,C,7,1
+1807,ACC-01806,3,Memory Clinic,2,C,8,1
+1808,ACC-01807,1,Physician Office Lab,4,C,5,1
+1809,ACC-01808,2,Hospital Lab,3,C,6,1
+1810,ACC-01809,1,Hospital Lab,2,B,5,0
+1811,ACC-01810,1,IDN Core Lab,1,A,3,0
+1812,ACC-01811,1,Hospital Lab,1,C,7,1
+1813,ACC-01812,3,Neurology Practice,1,C,6,1
+1814,ACC-01813,3,Neurology Practice,2,C,1,1
+1815,ACC-01814,1,Physician Office Lab,1,B,8,1
+1816,ACC-01815,3,Geriatric Psychiatry,1,A,3,1
+1817,ACC-01816,1,Reference Lab,5,A,1,1
+1818,ACC-01817,1,Hospital Lab,2,B,3,1
+1819,ACC-01818,3,Neurology Practice,5,C,9,1
+1820,ACC-01819,2,Hospital Lab,1,B,8,1
+1821,ACC-01820,3,Geriatric Psychiatry,2,A,5,1
+1822,ACC-01821,2,Physician Office Lab,4,B,5,0
+1823,ACC-01822,1,Hospital Lab,5,B,5,1
+1824,ACC-01823,3,Neurology Practice,4,B,1,1
+1825,ACC-01824,1,Reference Lab,5,C,4,1
+1826,ACC-01825,2,Hospital Lab,1,C,9,1
+1827,ACC-01826,3,Memory Clinic,2,C,7,1
+1828,ACC-01827,3,Neurology Practice,5,B,4,1
+1829,ACC-01828,3,Geriatric Psychiatry,3,A,10,1
+1830,ACC-01829,3,Memory Clinic,1,B,1,0
+1831,ACC-01830,1,Reference Lab,1,C,9,1
+1832,ACC-01831,1,Reference Lab,4,B,5,1
+1833,ACC-01832,3,Primary Care,1,B,6,1
+1834,ACC-01833,1,IDN Core Lab,3,C,10,1
+1835,ACC-01834,2,Physician Office Lab,1,C,10,1
+1836,ACC-01835,2,Reference Lab,1,B,9,0
+1837,ACC-01836,3,Memory Clinic,2,C,6,1
+1838,ACC-01837,3,Primary Care,1,B,6,1
+1839,ACC-01838,1,IDN Core Lab,3,A,10,1
+1840,ACC-01839,1,Physician Office Lab,1,C,8,1
+1841,ACC-01840,3,Primary Care,4,A,4,1
+1842,ACC-01841,1,IDN Core Lab,3,B,6,1
+1843,ACC-01842,1,Reference Lab,2,C,9,0
+1844,ACC-01843,1,IDN Core Lab,3,B,9,1
+1845,ACC-01844,2,Reference Lab,2,C,3,1
+1846,ACC-01845,1,Reference Lab,1,C,9,0
+1847,ACC-01846,2,Reference Lab,2,B,6,1
+1848,ACC-01847,1,IDN Core Lab,3,A,4,1
+1849,ACC-01848,3,Primary Care,1,A,5,1
+1850,ACC-01849,1,Reference Lab,4,A,5,1
+1851,ACC-01850,3,Geriatric Psychiatry,2,C,1,0
+1852,ACC-01851,3,Memory Clinic,1,B,3,1
+1853,ACC-01852,2,IDN Core Lab,1,B,2,1
+1854,ACC-01853,3,Memory Clinic,1,C,7,1
+1855,ACC-01854,2,Hospital Lab,1,C,5,1
+1856,ACC-01855,1,Physician Office Lab,2,C,2,1
+1857,ACC-01856,3,Memory Clinic,1,B,6,1
+1858,ACC-01857,1,Physician Office Lab,3,C,5,0
+1859,ACC-01858,1,Physician Office Lab,1,B,7,1
+1860,ACC-01859,3,Geriatric Psychiatry,5,C,10,1
+1861,ACC-01860,3,Primary Care,3,C,10,1
+1862,ACC-01861,2,IDN Core Lab,4,C,5,1
+1863,ACC-01862,2,Physician Office Lab,2,C,1,1
+1864,ACC-01863,3,Neurology Practice,1,C,1,0
+1865,ACC-01864,1,IDN Core Lab,2,C,2,1
+1866,ACC-01865,1,IDN Core Lab,2,B,1,1
+1867,ACC-01866,3,Neurology Practice,3,C,7,1
+1868,ACC-01867,2,Physician Office Lab,5,C,10,1
+1869,ACC-01868,1,IDN Core Lab,1,C,8,1
+1870,ACC-01869,3,Neurology Practice,1,B,8,0
+1871,ACC-01870,3,Neurology Practice,4,B,4,1
+1872,ACC-01871,2,Reference Lab,1,C,8,1
+1873,ACC-01872,3,Primary Care,4,A,6,1
+1874,ACC-01873,3,Memory Clinic,4,B,4,1
+1875,ACC-01874,3,Memory Clinic,5,A,1,1
+1876,ACC-01875,1,Hospital Lab,1,B,6,0
+1877,ACC-01876,3,Geriatric Psychiatry,1,A,5,0
+1878,ACC-01877,3,Neurology Practice,3,B,6,1
+1879,ACC-01878,3,Geriatric Psychiatry,2,C,5,0
+1880,ACC-01879,3,Neurology Practice,5,A,8,1
+1881,ACC-01880,1,Physician Office Lab,2,B,10,0
+1882,ACC-01881,2,Reference Lab,2,B,6,1
+1883,ACC-01882,3,Primary Care,1,C,4,1
+1884,ACC-01883,1,IDN Core Lab,3,C,4,1
+1885,ACC-01884,3,Primary Care,2,C,9,0
+1886,ACC-01885,3,Neurology Practice,2,C,6,1
+1887,ACC-01886,1,IDN Core Lab,2,A,10,1
+1888,ACC-01887,3,Geriatric Psychiatry,3,B,7,1
+1889,ACC-01888,3,Primary Care,5,C,6,1
+1890,ACC-01889,3,Primary Care,1,A,1,1
+1891,ACC-01890,3,Neurology Practice,1,B,8,1
+1892,ACC-01891,3,Memory Clinic,4,B,5,1
+1893,ACC-01892,1,Physician Office Lab,4,C,2,1
+1894,ACC-01893,3,Primary Care,2,B,4,1
+1895,ACC-01894,2,Hospital Lab,2,C,5,1
+1896,ACC-01895,3,Geriatric Psychiatry,4,C,9,0
+1897,ACC-01896,2,Hospital Lab,3,B,7,1
+1898,ACC-01897,3,Neurology Practice,2,A,4,1
+1899,ACC-01898,1,IDN Core Lab,1,B,10,1
+1900,ACC-01899,1,Hospital Lab,3,A,7,1
+1901,ACC-01900,3,Neurology Practice,2,B,10,0
+1902,ACC-01901,2,Reference Lab,3,B,5,1
+1903,ACC-01902,2,IDN Core Lab,4,C,9,1
+1904,ACC-01903,3,Memory Clinic,2,B,9,1
+1905,ACC-01904,1,Reference Lab,2,C,8,1
+1906,ACC-01905,2,Reference Lab,1,A,10,1
+1907,ACC-01906,2,Physician Office Lab,4,C,6,0
+1908,ACC-01907,3,Primary Care,5,C,1,1
+1909,ACC-01908,1,Physician Office Lab,5,C,4,1
+1910,ACC-01909,2,Hospital Lab,5,C,1,1
+1911,ACC-01910,3,Geriatric Psychiatry,3,B,3,1
+1912,ACC-01911,3,Primary Care,5,C,8,1
+1913,ACC-01912,3,Memory Clinic,2,C,2,0
+1914,ACC-01913,2,Hospital Lab,5,C,7,1
+1915,ACC-01914,3,Neurology Practice,2,C,7,0
+1916,ACC-01915,3,Geriatric Psychiatry,3,A,6,1
+1917,ACC-01916,3,Geriatric Psychiatry,1,C,7,1
+1918,ACC-01917,3,Geriatric Psychiatry,3,C,5,1
+1919,ACC-01918,3,Geriatric Psychiatry,2,C,7,1
+1920,ACC-01919,3,Neurology Practice,2,C,8,1
+1921,ACC-01920,3,Primary Care,3,C,6,0
+1922,ACC-01921,3,Memory Clinic,5,C,8,1
+1923,ACC-01922,1,IDN Core Lab,5,B,8,1
+1924,ACC-01923,3,Primary Care,2,C,5,1
+1925,ACC-01924,2,Reference Lab,4,B,10,1
+1926,ACC-01925,1,Reference Lab,3,C,4,1
+1927,ACC-01926,1,IDN Core Lab,2,B,1,1
+1928,ACC-01927,1,Hospital Lab,5,B,10,1
+1929,ACC-01928,2,Hospital Lab,1,B,9,1
+1930,ACC-01929,1,Hospital Lab,5,C,5,1
+1931,ACC-01930,3,Geriatric Psychiatry,1,A,3,1
+1932,ACC-01931,3,Primary Care,5,C,3,1
+1933,ACC-01932,1,Physician Office Lab,4,B,6,1
+1934,ACC-01933,1,Reference Lab,2,C,10,1
+1935,ACC-01934,1,Hospital Lab,1,A,4,1
+1936,ACC-01935,3,Memory Clinic,1,A,8,1
+1937,ACC-01936,1,Reference Lab,1,A,4,1
+1938,ACC-01937,1,Reference Lab,4,A,6,1
+1939,ACC-01938,1,Physician Office Lab,3,C,7,0
+1940,ACC-01939,1,IDN Core Lab,1,B,8,1
+1941,ACC-01940,3,Memory Clinic,2,C,8,1
+1942,ACC-01941,3,Neurology Practice,2,C,3,1
+1943,ACC-01942,2,Physician Office Lab,3,B,2,1
+1944,ACC-01943,2,IDN Core Lab,2,C,6,1
+1945,ACC-01944,3,Geriatric Psychiatry,4,C,5,1
+1946,ACC-01945,3,Memory Clinic,4,A,3,1
+1947,ACC-01946,3,Geriatric Psychiatry,1,C,2,0
+1948,ACC-01947,3,Primary Care,2,B,9,1
+1949,ACC-01948,3,Primary Care,3,B,1,1
+1950,ACC-01949,2,Physician Office Lab,5,B,2,1
+1951,ACC-01950,1,Physician Office Lab,1,B,4,1
+1952,ACC-01951,3,Geriatric Psychiatry,2,B,3,0
+1953,ACC-01952,1,IDN Core Lab,3,B,1,1
+1954,ACC-01953,2,Reference Lab,2,B,3,0
+1955,ACC-01954,3,Memory Clinic,2,C,4,1
+1956,ACC-01955,3,Neurology Practice,2,A,5,0
+1957,ACC-01956,2,Hospital Lab,1,A,6,1
+1958,ACC-01957,2,IDN Core Lab,3,B,2,0
+1959,ACC-01958,1,Hospital Lab,5,B,10,1
+1960,ACC-01959,1,IDN Core Lab,5,C,6,1
+1961,ACC-01960,2,Reference Lab,3,C,5,1
+1962,ACC-01961,1,Reference Lab,2,B,8,1
+1963,ACC-01962,3,Primary Care,2,C,10,1
+1964,ACC-01963,2,IDN Core Lab,1,B,1,1
+1965,ACC-01964,3,Geriatric Psychiatry,3,B,6,1
+1966,ACC-01965,3,Memory Clinic,1,C,9,1
+1967,ACC-01966,2,Physician Office Lab,2,C,3,1
+1968,ACC-01967,2,Physician Office Lab,1,C,9,0
+1969,ACC-01968,3,Neurology Practice,1,C,6,1
+1970,ACC-01969,1,Physician Office Lab,4,B,1,1
+1971,ACC-01970,2,Hospital Lab,5,C,9,1
+1972,ACC-01971,1,Hospital Lab,4,C,1,1
+1973,ACC-01972,3,Geriatric Psychiatry,1,B,8,1
+1974,ACC-01973,3,Primary Care,2,C,6,0
+1975,ACC-01974,3,Memory Clinic,3,B,8,1
+1976,ACC-01975,2,IDN Core Lab,5,C,4,1
+1977,ACC-01976,3,Primary Care,4,C,2,1
+1978,ACC-01977,3,Geriatric Psychiatry,1,B,5,1
+1979,ACC-01978,3,Primary Care,3,B,8,1
+1980,ACC-01979,3,Geriatric Psychiatry,1,C,6,1
+1981,ACC-01980,1,Physician Office Lab,2,B,1,1
+1982,ACC-01981,1,Physician Office Lab,5,C,7,1
+1983,ACC-01982,1,Hospital Lab,5,B,5,1
+1984,ACC-01983,3,Geriatric Psychiatry,2,B,8,0
+1985,ACC-01984,3,Neurology Practice,4,B,10,1
+1986,ACC-01985,2,Hospital Lab,2,C,9,1
+1987,ACC-01986,2,IDN Core Lab,1,C,10,1
+1988,ACC-01987,3,Primary Care,5,C,7,0
+1989,ACC-01988,1,Hospital Lab,5,C,8,1
+1990,ACC-01989,3,Neurology Practice,2,C,2,1
+1991,ACC-01990,3,Primary Care,4,B,2,1
+1992,ACC-01991,3,Geriatric Psychiatry,1,B,2,1
+1993,ACC-01992,2,Hospital Lab,3,B,8,1
+1994,ACC-01993,3,Geriatric Psychiatry,5,C,7,1
+1995,ACC-01994,1,Reference Lab,4,B,10,1
+1996,ACC-01995,1,Hospital Lab,3,C,8,0
+1997,ACC-01996,1,IDN Core Lab,2,B,9,1
+1998,ACC-01997,1,Hospital Lab,4,B,8,1
+1999,ACC-01998,3,Geriatric Psychiatry,5,C,7,0
+2000,ACC-01999,3,Neurology Practice,1,C,6,0
+2001,ACC-02000,2,Reference Lab,1,B,2,1
+2002,ACC-02001,3,Neurology Practice,2,C,7,1
+2003,ACC-02002,3,Neurology Practice,3,C,6,1
+2004,ACC-02003,1,Hospital Lab,1,A,10,1
+2005,ACC-02004,1,Hospital Lab,3,C,10,0
+2006,ACC-02005,2,Physician Office Lab,2,B,4,1
+2007,ACC-02006,3,Neurology Practice,5,B,2,1
+2008,ACC-02007,1,Hospital Lab,2,C,3,1
+2009,ACC-02008,3,Memory Clinic,5,C,5,1
+2010,ACC-02009,3,Memory Clinic,5,C,10,0
+2011,ACC-02010,2,Physician Office Lab,3,B,9,1
+2012,ACC-02011,1,Physician Office Lab,1,B,10,1
+2013,ACC-02012,2,Hospital Lab,5,B,3,1
+2014,ACC-02013,2,Hospital Lab,2,C,1,1
+2015,ACC-02014,1,Physician Office Lab,3,C,7,1
+2016,ACC-02015,3,Geriatric Psychiatry,1,C,5,1
+2017,ACC-02016,2,Hospital Lab,2,B,5,1
+2018,ACC-02017,1,IDN Core Lab,3,C,8,1
+2019,ACC-02018,2,IDN Core Lab,4,C,10,1
+2020,ACC-02019,1,Physician Office Lab,5,C,2,1
+2021,ACC-02020,3,Neurology Practice,3,C,7,1
+2022,ACC-02021,1,Reference Lab,2,C,1,1
+2023,ACC-02022,2,IDN Core Lab,3,A,6,1
+2024,ACC-02023,3,Geriatric Psychiatry,1,C,1,1
+2025,ACC-02024,1,Physician Office Lab,1,C,9,1
+2026,ACC-02025,2,Reference Lab,2,A,6,0
+2027,ACC-02026,3,Primary Care,1,C,3,1
+2028,ACC-02027,3,Memory Clinic,1,C,3,0
+2029,ACC-02028,3,Geriatric Psychiatry,1,B,7,0
+2030,ACC-02029,1,Physician Office Lab,1,C,3,1
+2031,ACC-02030,2,Hospital Lab,5,C,4,0
+2032,ACC-02031,2,Physician Office Lab,2,A,1,1
+2033,ACC-02032,2,Reference Lab,5,A,4,1
+2034,ACC-02033,3,Geriatric Psychiatry,5,A,8,1
+2035,ACC-02034,1,IDN Core Lab,5,C,1,1
+2036,ACC-02035,2,Reference Lab,1,A,9,1
+2037,ACC-02036,2,IDN Core Lab,2,C,3,1
+2038,ACC-02037,1,Physician Office Lab,2,C,8,0
+2039,ACC-02038,2,Hospital Lab,2,B,2,0
+2040,ACC-02039,1,IDN Core Lab,1,B,2,1
+2041,ACC-02040,3,Geriatric Psychiatry,1,C,9,1
+2042,ACC-02041,1,Reference Lab,3,B,10,1
+2043,ACC-02042,2,Reference Lab,4,B,3,0
+2044,ACC-02043,3,Primary Care,2,B,10,1
+2045,ACC-02044,2,IDN Core Lab,2,A,9,1
+2046,ACC-02045,2,Reference Lab,3,B,3,1
+2047,ACC-02046,2,Physician Office Lab,4,B,9,1
+2048,ACC-02047,3,Neurology Practice,4,B,10,1
+2049,ACC-02048,2,IDN Core Lab,5,B,4,1
+2050,ACC-02049,2,IDN Core Lab,3,C,5,1
+2051,ACC-02050,3,Geriatric Psychiatry,2,B,3,1
+2052,ACC-02051,2,Reference Lab,2,A,1,1
+2053,ACC-02052,3,Geriatric Psychiatry,1,C,10,1
+2054,ACC-02053,1,IDN Core Lab,2,C,6,1
+2055,ACC-02054,2,Hospital Lab,5,C,2,1
+2056,ACC-02055,3,Primary Care,3,C,6,1
+2057,ACC-02056,3,Neurology Practice,3,B,8,1
+2058,ACC-02057,2,Physician Office Lab,1,C,9,1
+2059,ACC-02058,3,Geriatric Psychiatry,3,C,8,1
+2060,ACC-02059,2,Hospital Lab,1,B,4,1
+2061,ACC-02060,2,Reference Lab,2,B,10,1
+2062,ACC-02061,1,IDN Core Lab,3,A,8,0
+2063,ACC-02062,1,IDN Core Lab,1,C,5,0
+2064,ACC-02063,1,Physician Office Lab,2,B,8,1
+2065,ACC-02064,3,Neurology Practice,1,C,10,1
+2066,ACC-02065,2,Physician Office Lab,1,C,1,1
+2067,ACC-02066,3,Geriatric Psychiatry,2,C,7,1
+2068,ACC-02067,1,Hospital Lab,4,B,7,0
+2069,ACC-02068,1,Reference Lab,2,B,9,1
+2070,ACC-02069,3,Primary Care,1,B,5,1
+2071,ACC-02070,1,Physician Office Lab,2,C,4,1
+2072,ACC-02071,2,Hospital Lab,1,C,3,1
+2073,ACC-02072,1,Hospital Lab,4,B,5,1
+2074,ACC-02073,1,Hospital Lab,5,B,5,1
+2075,ACC-02074,2,Physician Office Lab,4,C,9,1
+2076,ACC-02075,3,Geriatric Psychiatry,3,B,9,1
+2077,ACC-02076,1,Physician Office Lab,4,C,6,1
+2078,ACC-02077,1,Hospital Lab,2,A,7,1
+2079,ACC-02078,1,IDN Core Lab,3,C,8,1
+2080,ACC-02079,1,Reference Lab,2,B,7,1
+2081,ACC-02080,3,Geriatric Psychiatry,2,B,8,0
+2082,ACC-02081,3,Memory Clinic,4,B,1,1
+2083,ACC-02082,1,Physician Office Lab,4,B,5,1
+2084,ACC-02083,2,Hospital Lab,2,B,7,0
+2085,ACC-02084,1,Reference Lab,5,B,6,1
+2086,ACC-02085,1,Physician Office Lab,3,B,8,0
+2087,ACC-02086,3,Geriatric Psychiatry,3,B,4,1
+2088,ACC-02087,1,IDN Core Lab,3,B,10,1
+2089,ACC-02088,3,Memory Clinic,4,C,2,1
+2090,ACC-02089,3,Memory Clinic,5,C,8,1
+2091,ACC-02090,3,Neurology Practice,4,B,8,1
+2092,ACC-02091,2,Reference Lab,2,B,1,0
+2093,ACC-02092,1,Physician Office Lab,3,B,3,0
+2094,ACC-02093,3,Memory Clinic,2,C,10,1
+2095,ACC-02094,3,Neurology Practice,3,C,7,1
+2096,ACC-02095,2,Physician Office Lab,5,C,8,1
+2097,ACC-02096,1,IDN Core Lab,5,C,9,1
+2098,ACC-02097,1,Physician Office Lab,3,C,1,1
+2099,ACC-02098,1,Hospital Lab,2,A,9,1
+2100,ACC-02099,1,Reference Lab,2,B,8,1
+2101,ACC-02100,2,Hospital Lab,2,C,3,0
+2102,ACC-02101,3,Memory Clinic,5,A,4,1
+2103,ACC-02102,3,Geriatric Psychiatry,1,A,4,1
+2104,ACC-02103,3,Memory Clinic,5,C,7,1
+2105,ACC-02104,3,Neurology Practice,2,C,3,1
+2106,ACC-02105,3,Primary Care,3,A,3,1
+2107,ACC-02106,2,IDN Core Lab,5,B,6,1
+2108,ACC-02107,3,Primary Care,3,A,8,0
+2109,ACC-02108,2,IDN Core Lab,3,A,5,1
+2110,ACC-02109,3,Memory Clinic,1,B,2,1
+2111,ACC-02110,1,Physician Office Lab,1,C,2,1
+2112,ACC-02111,3,Geriatric Psychiatry,3,B,9,1
+2113,ACC-02112,2,IDN Core Lab,2,C,5,1
+2114,ACC-02113,2,IDN Core Lab,3,A,1,1
+2115,ACC-02114,2,Reference Lab,2,A,4,1
+2116,ACC-02115,1,Hospital Lab,1,B,1,1
+2117,ACC-02116,3,Geriatric Psychiatry,4,C,3,1
+2118,ACC-02117,2,IDN Core Lab,5,C,2,1
+2119,ACC-02118,2,Physician Office Lab,5,B,10,1
+2120,ACC-02119,3,Memory Clinic,1,C,4,1
+2121,ACC-02120,3,Memory Clinic,2,A,2,1
+2122,ACC-02121,3,Neurology Practice,2,A,7,1
+2123,ACC-02122,1,Hospital Lab,5,A,10,1
+2124,ACC-02123,1,IDN Core Lab,3,A,5,1
+2125,ACC-02124,1,Reference Lab,5,C,2,1
+2126,ACC-02125,3,Neurology Practice,5,C,5,1
+2127,ACC-02126,3,Memory Clinic,1,C,7,1
+2128,ACC-02127,3,Primary Care,2,C,9,0
+2129,ACC-02128,3,Neurology Practice,2,C,2,1
+2130,ACC-02129,1,Hospital Lab,3,B,6,1
+2131,ACC-02130,2,Reference Lab,5,A,1,0
+2132,ACC-02131,3,Memory Clinic,1,A,6,1
+2133,ACC-02132,1,Physician Office Lab,4,A,1,0
+2134,ACC-02133,3,Memory Clinic,1,A,5,1
+2135,ACC-02134,3,Primary Care,4,A,5,0
+2136,ACC-02135,2,Physician Office Lab,1,C,10,1
+2137,ACC-02136,3,Memory Clinic,3,B,2,1
+2138,ACC-02137,2,Hospital Lab,4,B,3,1
+2139,ACC-02138,1,Hospital Lab,2,B,6,1
+2140,ACC-02139,1,Physician Office Lab,5,B,2,1
+2141,ACC-02140,2,Hospital Lab,4,A,1,1
+2142,ACC-02141,3,Neurology Practice,1,B,5,1
+2143,ACC-02142,2,Physician Office Lab,2,C,3,1
+2144,ACC-02143,1,Hospital Lab,2,C,7,1
+2145,ACC-02144,1,Reference Lab,2,C,1,1
+2146,ACC-02145,3,Memory Clinic,1,B,1,1
+2147,ACC-02146,2,Physician Office Lab,1,C,3,1
+2148,ACC-02147,3,Primary Care,5,C,9,1
+2149,ACC-02148,1,Hospital Lab,5,C,6,0
+2150,ACC-02149,3,Memory Clinic,1,B,3,1
+2151,ACC-02150,2,Reference Lab,4,C,6,1
+2152,ACC-02151,1,IDN Core Lab,1,B,7,1
+2153,ACC-02152,2,IDN Core Lab,3,B,5,1
+2154,ACC-02153,3,Neurology Practice,1,B,2,1
+2155,ACC-02154,3,Geriatric Psychiatry,2,B,4,1
+2156,ACC-02155,3,Geriatric Psychiatry,2,C,9,1
+2157,ACC-02156,2,IDN Core Lab,4,C,8,1
+2158,ACC-02157,3,Primary Care,3,C,4,0
+2159,ACC-02158,3,Geriatric Psychiatry,5,A,9,1
+2160,ACC-02159,2,IDN Core Lab,1,B,2,1
+2161,ACC-02160,1,IDN Core Lab,3,B,2,1
+2162,ACC-02161,3,Geriatric Psychiatry,1,C,1,1
+2163,ACC-02162,3,Primary Care,1,A,1,1
+2164,ACC-02163,1,Physician Office Lab,2,C,4,1
+2165,ACC-02164,2,Hospital Lab,1,B,1,1
+2166,ACC-02165,1,Physician Office Lab,4,B,4,1
+2167,ACC-02166,2,Hospital Lab,3,A,1,0
+2168,ACC-02167,2,IDN Core Lab,3,A,1,1
+2169,ACC-02168,2,Hospital Lab,1,C,6,0
+2170,ACC-02169,2,Hospital Lab,1,C,6,1
+2171,ACC-02170,3,Memory Clinic,3,C,8,1
+2172,ACC-02171,1,Physician Office Lab,1,A,5,1
+2173,ACC-02172,3,Geriatric Psychiatry,1,C,9,1
+2174,ACC-02173,3,Geriatric Psychiatry,1,B,5,1
+2175,ACC-02174,3,Primary Care,5,B,3,0
+2176,ACC-02175,2,IDN Core Lab,2,C,2,1
+2177,ACC-02176,3,Memory Clinic,1,A,5,0
+2178,ACC-02177,2,Physician Office Lab,2,C,4,1
+2179,ACC-02178,1,IDN Core Lab,5,C,6,1
+2180,ACC-02179,1,Hospital Lab,1,B,10,1
+2181,ACC-02180,3,Neurology Practice,1,B,1,1
+2182,ACC-02181,1,Reference Lab,5,B,4,1
+2183,ACC-02182,2,Reference Lab,5,C,2,1
+2184,ACC-02183,3,Memory Clinic,3,B,8,1
+2185,ACC-02184,3,Geriatric Psychiatry,1,C,6,1
+2186,ACC-02185,3,Geriatric Psychiatry,1,C,2,1
+2187,ACC-02186,2,Physician Office Lab,5,B,8,1
+2188,ACC-02187,3,Neurology Practice,4,B,2,0
+2189,ACC-02188,1,IDN Core Lab,2,B,8,1
+2190,ACC-02189,1,Hospital Lab,1,B,10,1
+2191,ACC-02190,1,Hospital Lab,1,C,6,1
+2192,ACC-02191,2,IDN Core Lab,4,C,7,1
+2193,ACC-02192,1,Hospital Lab,3,C,1,1
+2194,ACC-02193,2,Reference Lab,2,B,7,1
+2195,ACC-02194,1,Hospital Lab,3,B,2,1
+2196,ACC-02195,2,Reference Lab,4,B,5,1
+2197,ACC-02196,1,Reference Lab,3,C,6,0
+2198,ACC-02197,2,Reference Lab,1,C,8,1
+2199,ACC-02198,3,Primary Care,5,A,8,0
+2200,ACC-02199,2,Hospital Lab,1,C,10,1
+2201,ACC-02200,3,Primary Care,3,B,8,1
+2202,ACC-02201,2,Reference Lab,1,C,1,1
+2203,ACC-02202,1,Physician Office Lab,4,C,7,1
+2204,ACC-02203,2,Hospital Lab,3,C,2,1
+2205,ACC-02204,2,Hospital Lab,1,C,10,1
+2206,ACC-02205,3,Primary Care,3,C,9,1
+2207,ACC-02206,1,Hospital Lab,3,A,4,0
+2208,ACC-02207,3,Primary Care,2,C,1,1
+2209,ACC-02208,3,Geriatric Psychiatry,1,C,10,0
+2210,ACC-02209,2,Physician Office Lab,1,B,4,1
+2211,ACC-02210,3,Geriatric Psychiatry,5,C,9,1
+2212,ACC-02211,1,Hospital Lab,1,C,1,1
+2213,ACC-02212,3,Primary Care,2,B,3,1
+2214,ACC-02213,1,Reference Lab,2,B,5,1
+2215,ACC-02214,2,Hospital Lab,4,B,2,1
+2216,ACC-02215,1,Physician Office Lab,3,B,5,1
+2217,ACC-02216,3,Primary Care,4,C,10,1
+2218,ACC-02217,2,Reference Lab,3,C,2,1
+2219,ACC-02218,3,Memory Clinic,3,A,5,0
+2220,ACC-02219,3,Geriatric Psychiatry,5,B,1,1
+2221,ACC-02220,1,Reference Lab,4,B,7,1
+2222,ACC-02221,3,Memory Clinic,4,C,5,0
+2223,ACC-02222,2,IDN Core Lab,4,C,6,1
+2224,ACC-02223,3,Primary Care,2,A,6,0
+2225,ACC-02224,2,Hospital Lab,3,B,7,1
+2226,ACC-02225,3,Memory Clinic,3,C,8,1
+2227,ACC-02226,3,Memory Clinic,5,B,10,1
+2228,ACC-02227,2,Reference Lab,5,C,8,1
+2229,ACC-02228,3,Primary Care,3,A,9,1
+2230,ACC-02229,3,Primary Care,3,B,1,1
+2231,ACC-02230,3,Primary Care,2,C,2,1
+2232,ACC-02231,3,Primary Care,5,B,5,1
+2233,ACC-02232,3,Memory Clinic,4,C,2,1
+2234,ACC-02233,2,Physician Office Lab,5,C,9,1
+2235,ACC-02234,3,Geriatric Psychiatry,3,B,9,1
+2236,ACC-02235,3,Neurology Practice,4,B,6,1
+2237,ACC-02236,1,Hospital Lab,1,C,5,1
+2238,ACC-02237,1,IDN Core Lab,3,C,9,0
+2239,ACC-02238,1,Physician Office Lab,2,A,6,1
+2240,ACC-02239,3,Memory Clinic,3,B,10,1
+2241,ACC-02240,3,Neurology Practice,2,B,9,1
+2242,ACC-02241,3,Memory Clinic,2,B,4,1
+2243,ACC-02242,1,Physician Office Lab,5,C,7,0
+2244,ACC-02243,1,Physician Office Lab,3,C,2,1
+2245,ACC-02244,1,IDN Core Lab,2,C,1,1
+2246,ACC-02245,3,Neurology Practice,4,C,1,1
+2247,ACC-02246,3,Geriatric Psychiatry,1,C,10,1
+2248,ACC-02247,3,Primary Care,2,B,2,1
+2249,ACC-02248,1,Physician Office Lab,2,A,3,1
+2250,ACC-02249,3,Geriatric Psychiatry,1,B,7,1
+2251,ACC-02250,3,Neurology Practice,5,B,2,1
+2252,ACC-02251,3,Neurology Practice,4,C,2,0
+2253,ACC-02252,3,Neurology Practice,4,C,7,1
+2254,ACC-02253,2,IDN Core Lab,3,B,10,1
+2255,ACC-02254,3,Primary Care,2,A,2,1
+2256,ACC-02255,2,Hospital Lab,3,B,7,0
+2257,ACC-02256,3,Neurology Practice,4,B,6,1
+2258,ACC-02257,3,Primary Care,3,C,10,0
+2259,ACC-02258,3,Memory Clinic,3,C,10,1
+2260,ACC-02259,1,Hospital Lab,1,B,6,0
+2261,ACC-02260,3,Neurology Practice,1,C,9,1
+2262,ACC-02261,1,Physician Office Lab,1,C,3,1
+2263,ACC-02262,3,Geriatric Psychiatry,4,B,6,1
+2264,ACC-02263,3,Memory Clinic,2,A,2,1
+2265,ACC-02264,1,Reference Lab,4,A,1,1
+2266,ACC-02265,3,Geriatric Psychiatry,3,C,8,1
+2267,ACC-02266,3,Geriatric Psychiatry,2,C,6,1
+2268,ACC-02267,3,Primary Care,3,C,1,1
+2269,ACC-02268,1,Reference Lab,1,C,9,0
+2270,ACC-02269,3,Geriatric Psychiatry,5,B,9,0
+2271,ACC-02270,3,Neurology Practice,2,B,4,1
+2272,ACC-02271,3,Geriatric Psychiatry,4,A,1,1
+2273,ACC-02272,2,IDN Core Lab,1,C,3,0
+2274,ACC-02273,3,Primary Care,2,B,7,1
+2275,ACC-02274,1,Reference Lab,3,C,1,1
+2276,ACC-02275,3,Neurology Practice,2,B,4,0
+2277,ACC-02276,1,Hospital Lab,2,B,3,1
+2278,ACC-02277,2,IDN Core Lab,2,C,7,1
+2279,ACC-02278,1,Reference Lab,5,C,3,1
+2280,ACC-02279,3,Geriatric Psychiatry,3,C,8,0
+2281,ACC-02280,3,Neurology Practice,1,A,4,0
+2282,ACC-02281,3,Neurology Practice,1,A,2,1
+2283,ACC-02282,1,Physician Office Lab,5,C,3,1
+2284,ACC-02283,2,Physician Office Lab,1,B,10,1
+2285,ACC-02284,2,IDN Core Lab,3,A,8,0
+2286,ACC-02285,3,Primary Care,1,B,6,0
+2287,ACC-02286,1,Physician Office Lab,2,C,3,0
+2288,ACC-02287,3,Geriatric Psychiatry,2,B,4,1
+2289,ACC-02288,2,Physician Office Lab,5,A,5,1
+2290,ACC-02289,3,Geriatric Psychiatry,3,C,10,1
+2291,ACC-02290,2,Hospital Lab,1,A,4,1
+2292,ACC-02291,1,IDN Core Lab,3,B,9,1
+2293,ACC-02292,1,Physician Office Lab,1,A,3,1
+2294,ACC-02293,1,Hospital Lab,5,B,2,1
+2295,ACC-02294,1,Hospital Lab,2,C,8,1
+2296,ACC-02295,3,Geriatric Psychiatry,5,A,1,0
+2297,ACC-02296,3,Geriatric Psychiatry,5,A,8,1
+2298,ACC-02297,1,IDN Core Lab,1,B,10,0
+2299,ACC-02298,3,Memory Clinic,5,A,2,1
+2300,ACC-02299,1,Physician Office Lab,5,B,6,0
+2301,ACC-02300,3,Geriatric Psychiatry,5,B,2,1
+2302,ACC-02301,1,Hospital Lab,2,B,5,1
+2303,ACC-02302,2,Reference Lab,4,C,5,1
+2304,ACC-02303,3,Memory Clinic,1,B,1,1
+2305,ACC-02304,1,Physician Office Lab,5,A,2,1
+2306,ACC-02305,1,Reference Lab,1,B,6,1
+2307,ACC-02306,3,Memory Clinic,4,A,9,1
+2308,ACC-02307,3,Neurology Practice,5,A,3,1
+2309,ACC-02308,3,Neurology Practice,5,B,9,1
+2310,ACC-02309,3,Geriatric Psychiatry,5,B,2,1
+2311,ACC-02310,1,Hospital Lab,5,A,1,1
+2312,ACC-02311,3,Neurology Practice,4,B,4,0
+2313,ACC-02312,3,Neurology Practice,3,B,1,1
+2314,ACC-02313,1,Reference Lab,1,B,1,1
+2315,ACC-02314,1,Reference Lab,5,A,4,1
+2316,ACC-02315,3,Primary Care,2,C,6,1
+2317,ACC-02316,3,Neurology Practice,4,C,10,0
+2318,ACC-02317,2,Hospital Lab,2,C,7,1
+2319,ACC-02318,3,Geriatric Psychiatry,2,B,7,1
+2320,ACC-02319,1,Reference Lab,2,C,7,1
+2321,ACC-02320,2,Physician Office Lab,5,C,6,1
+2322,ACC-02321,3,Neurology Practice,1,B,1,1
+2323,ACC-02322,1,IDN Core Lab,3,C,4,1
+2324,ACC-02323,2,Hospital Lab,1,C,2,1
+2325,ACC-02324,3,Neurology Practice,3,B,6,1
+2326,ACC-02325,2,Reference Lab,3,B,8,0
+2327,ACC-02326,3,Neurology Practice,1,A,5,1
+2328,ACC-02327,3,Memory Clinic,4,B,6,1
+2329,ACC-02328,3,Memory Clinic,5,C,7,1
+2330,ACC-02329,3,Memory Clinic,5,C,1,1
+2331,ACC-02330,3,Geriatric Psychiatry,4,B,8,1
+2332,ACC-02331,3,Neurology Practice,1,B,8,1
+2333,ACC-02332,3,Memory Clinic,3,C,10,0
+2334,ACC-02333,1,Reference Lab,4,B,5,1
+2335,ACC-02334,3,Memory Clinic,4,C,10,0
+2336,ACC-02335,1,Reference Lab,4,C,3,0
+2337,ACC-02336,1,IDN Core Lab,3,C,5,1
+2338,ACC-02337,3,Memory Clinic,4,C,8,1
+2339,ACC-02338,1,IDN Core Lab,5,C,5,1
+2340,ACC-02339,1,IDN Core Lab,3,C,4,1
+2341,ACC-02340,3,Memory Clinic,1,C,6,1
+2342,ACC-02341,1,Physician Office Lab,5,C,5,1
+2343,ACC-02342,3,Geriatric Psychiatry,4,B,1,1
+2344,ACC-02343,3,Primary Care,4,C,9,1
+2345,ACC-02344,3,Memory Clinic,2,C,8,1
+2346,ACC-02345,1,Hospital Lab,1,B,2,1
+2347,ACC-02346,3,Primary Care,4,C,3,1
+2348,ACC-02347,1,Reference Lab,1,C,6,1
+2349,ACC-02348,3,Primary Care,2,B,5,1
+2350,ACC-02349,1,IDN Core Lab,3,B,2,1
+2351,ACC-02350,2,Physician Office Lab,1,B,4,1
+2352,ACC-02351,1,Physician Office Lab,3,C,10,1
+2353,ACC-02352,3,Primary Care,1,C,3,1
+2354,ACC-02353,1,Hospital Lab,1,B,4,1
+2355,ACC-02354,2,Physician Office Lab,5,C,9,1
+2356,ACC-02355,1,Hospital Lab,3,C,10,1
+2357,ACC-02356,2,Reference Lab,5,C,2,0
+2358,ACC-02357,3,Neurology Practice,3,C,4,1
+2359,ACC-02358,1,Physician Office Lab,5,C,9,1
+2360,ACC-02359,1,Hospital Lab,1,B,9,1
+2361,ACC-02360,1,IDN Core Lab,2,A,5,1
+2362,ACC-02361,3,Neurology Practice,2,B,8,1
+2363,ACC-02362,3,Neurology Practice,1,B,4,1
+2364,ACC-02363,3,Geriatric Psychiatry,5,C,3,1
+2365,ACC-02364,3,Neurology Practice,3,C,10,1
+2366,ACC-02365,1,Reference Lab,3,A,7,1
+2367,ACC-02366,3,Memory Clinic,3,C,8,1
+2368,ACC-02367,3,Primary Care,1,A,3,1
+2369,ACC-02368,3,Neurology Practice,5,B,1,0
+2370,ACC-02369,2,Physician Office Lab,4,A,1,0
+2371,ACC-02370,3,Geriatric Psychiatry,1,B,7,0
+2372,ACC-02371,3,Memory Clinic,2,C,4,1
+2373,ACC-02372,2,IDN Core Lab,1,B,6,1
+2374,ACC-02373,1,Reference Lab,4,A,8,1
+2375,ACC-02374,3,Memory Clinic,3,A,8,1
+2376,ACC-02375,3,Memory Clinic,5,C,2,1
+2377,ACC-02376,1,Physician Office Lab,5,B,6,1
+2378,ACC-02377,3,Primary Care,1,C,7,0
+2379,ACC-02378,1,Hospital Lab,1,C,6,1
+2380,ACC-02379,1,IDN Core Lab,5,B,8,1
+2381,ACC-02380,2,Reference Lab,3,B,4,1
+2382,ACC-02381,3,Primary Care,2,C,4,1
+2383,ACC-02382,1,Physician Office Lab,3,C,4,1
+2384,ACC-02383,3,Primary Care,2,A,2,1
+2385,ACC-02384,2,Reference Lab,3,B,1,1
+2386,ACC-02385,1,IDN Core Lab,5,B,6,1
+2387,ACC-02386,1,Hospital Lab,3,C,10,1
+2388,ACC-02387,2,Reference Lab,2,C,2,1
+2389,ACC-02388,2,Hospital Lab,1,B,3,1
+2390,ACC-02389,1,IDN Core Lab,5,B,1,1
+2391,ACC-02390,2,Reference Lab,3,B,3,1
+2392,ACC-02391,2,Hospital Lab,3,C,2,1
+2393,ACC-02392,3,Neurology Practice,1,B,10,1
+2394,ACC-02393,3,Neurology Practice,5,A,3,1
+2395,ACC-02394,1,Physician Office Lab,2,C,10,1
+2396,ACC-02395,2,Hospital Lab,5,A,7,1
+2397,ACC-02396,1,Hospital Lab,1,C,4,1
+2398,ACC-02397,2,IDN Core Lab,2,B,4,1
+2399,ACC-02398,2,IDN Core Lab,1,C,1,1
+2400,ACC-02399,3,Geriatric Psychiatry,2,C,10,1
+2401,ACC-02400,2,Physician Office Lab,5,A,9,1
+2402,ACC-02401,3,Primary Care,2,C,8,1
+2403,ACC-02402,3,Primary Care,5,C,1,1
+2404,ACC-02403,2,Hospital Lab,4,B,10,1
+2405,ACC-02404,1,Hospital Lab,2,C,3,0
+2406,ACC-02405,1,Reference Lab,3,C,7,1
+2407,ACC-02406,3,Memory Clinic,5,B,6,1
+2408,ACC-02407,3,Primary Care,3,A,1,1
+2409,ACC-02408,2,IDN Core Lab,2,B,4,1
+2410,ACC-02409,2,Physician Office Lab,5,B,2,1
+2411,ACC-02410,1,Reference Lab,3,C,2,1
+2412,ACC-02411,2,IDN Core Lab,5,C,3,1
+2413,ACC-02412,3,Memory Clinic,3,A,1,1
+2414,ACC-02413,1,Hospital Lab,2,C,8,1
+2415,ACC-02414,1,Physician Office Lab,2,A,8,1
+2416,ACC-02415,3,Geriatric Psychiatry,5,A,7,1
+2417,ACC-02416,2,IDN Core Lab,5,A,5,1
+2418,ACC-02417,1,Physician Office Lab,2,B,3,0
+2419,ACC-02418,2,IDN Core Lab,1,C,7,1
+2420,ACC-02419,3,Primary Care,1,B,7,0
+2421,ACC-02420,3,Memory Clinic,2,C,3,1
+2422,ACC-02421,3,Primary Care,2,B,3,1
+2423,ACC-02422,3,Neurology Practice,2,A,9,1
+2424,ACC-02423,3,Primary Care,1,B,7,1
+2425,ACC-02424,3,Neurology Practice,3,C,5,1
+2426,ACC-02425,2,IDN Core Lab,5,B,4,1
+2427,ACC-02426,1,Hospital Lab,1,B,3,1
+2428,ACC-02427,1,Hospital Lab,4,A,3,1
+2429,ACC-02428,2,IDN Core Lab,1,C,9,1
+2430,ACC-02429,3,Neurology Practice,3,B,5,1
+2431,ACC-02430,3,Primary Care,5,C,6,1
+2432,ACC-02431,3,Geriatric Psychiatry,2,B,10,1
+2433,ACC-02432,1,Reference Lab,5,B,7,1
+2434,ACC-02433,1,Physician Office Lab,1,C,7,1
+2435,ACC-02434,3,Memory Clinic,2,B,3,1
+2436,ACC-02435,2,IDN Core Lab,1,A,4,1
+2437,ACC-02436,2,Reference Lab,2,C,1,1
+2438,ACC-02437,1,IDN Core Lab,2,B,6,0
+2439,ACC-02438,3,Geriatric Psychiatry,4,B,3,0
+2440,ACC-02439,1,Physician Office Lab,2,B,5,1
+2441,ACC-02440,3,Memory Clinic,5,C,5,1
+2442,ACC-02441,1,Reference Lab,2,C,1,1
+2443,ACC-02442,1,Hospital Lab,1,C,6,0
+2444,ACC-02443,3,Neurology Practice,3,C,7,1
+2445,ACC-02444,2,Hospital Lab,3,C,9,1
+2446,ACC-02445,1,Hospital Lab,5,B,3,1
+2447,ACC-02446,3,Primary Care,5,C,4,0
+2448,ACC-02447,1,Hospital Lab,3,C,6,1
+2449,ACC-02448,1,Physician Office Lab,5,B,9,1
+2450,ACC-02449,1,Reference Lab,2,C,1,1
+2451,ACC-02450,2,Hospital Lab,5,B,5,1
+2452,ACC-02451,1,Physician Office Lab,2,A,8,1
+2453,ACC-02452,3,Memory Clinic,2,C,1,0
+2454,ACC-02453,3,Primary Care,2,B,1,1
+2455,ACC-02454,1,IDN Core Lab,3,B,1,1
+2456,ACC-02455,2,Hospital Lab,3,B,4,1
+2457,ACC-02456,3,Neurology Practice,1,C,2,1
+2458,ACC-02457,3,Geriatric Psychiatry,2,C,4,1
+2459,ACC-02458,2,Physician Office Lab,3,C,3,0
+2460,ACC-02459,3,Memory Clinic,4,C,8,1
+2461,ACC-02460,1,IDN Core Lab,5,C,4,1
+2462,ACC-02461,2,IDN Core Lab,5,A,10,1
+2463,ACC-02462,1,Physician Office Lab,3,A,2,1
+2464,ACC-02463,3,Geriatric Psychiatry,3,C,2,1
+2465,ACC-02464,2,Physician Office Lab,4,C,9,1
+2466,ACC-02465,3,Primary Care,5,C,2,0
+2467,ACC-02466,2,Reference Lab,4,C,4,1
+2468,ACC-02467,1,Hospital Lab,4,A,7,1
+2469,ACC-02468,1,Reference Lab,2,C,9,1
+2470,ACC-02469,1,IDN Core Lab,5,B,3,1
+2471,ACC-02470,3,Primary Care,4,B,3,1
+2472,ACC-02471,3,Memory Clinic,1,C,1,1
+2473,ACC-02472,1,Reference Lab,3,C,5,1
+2474,ACC-02473,2,IDN Core Lab,2,B,3,1
+2475,ACC-02474,2,Hospital Lab,1,C,3,1
+2476,ACC-02475,3,Neurology Practice,3,C,3,1
+2477,ACC-02476,2,Reference Lab,3,B,10,1
+2478,ACC-02477,3,Memory Clinic,5,A,6,1
+2479,ACC-02478,2,Hospital Lab,5,A,6,0
+2480,ACC-02479,2,Physician Office Lab,2,B,5,1
+2481,ACC-02480,3,Neurology Practice,1,B,6,1
+2482,ACC-02481,3,Geriatric Psychiatry,1,B,4,1
+2483,ACC-02482,2,Hospital Lab,5,A,2,1
+2484,ACC-02483,1,Reference Lab,2,B,3,1
+2485,ACC-02484,1,Reference Lab,2,B,4,1
+2486,ACC-02485,2,Hospital Lab,3,C,3,1
+2487,ACC-02486,3,Neurology Practice,1,B,2,1
+2488,ACC-02487,3,Memory Clinic,3,A,9,0
+2489,ACC-02488,1,Reference Lab,5,B,5,1
+2490,ACC-02489,1,Hospital Lab,4,C,5,1
+2491,ACC-02490,3,Primary Care,2,B,9,0
+2492,ACC-02491,3,Geriatric Psychiatry,1,C,9,1
+2493,ACC-02492,3,Neurology Practice,1,B,3,1
+2494,ACC-02493,3,Geriatric Psychiatry,2,A,10,1
+2495,ACC-02494,1,IDN Core Lab,2,B,5,1
+2496,ACC-02495,3,Primary Care,1,C,5,1
+2497,ACC-02496,2,IDN Core Lab,3,C,10,0
+2498,ACC-02497,3,Primary Care,2,B,10,1
+2499,ACC-02498,2,Reference Lab,3,C,10,1
+2500,ACC-02499,3,Geriatric Psychiatry,2,B,2,1
+2501,ACC-02500,1,IDN Core Lab,2,B,1,1
+2502,ACC-02501,1,Hospital Lab,4,C,4,1
+2503,ACC-02502,1,Hospital Lab,1,B,3,1
+2504,ACC-02503,3,Memory Clinic,3,C,7,1
+2505,ACC-02504,3,Geriatric Psychiatry,3,C,2,1
+2506,ACC-02505,1,Hospital Lab,4,A,3,1
+2507,ACC-02506,1,IDN Core Lab,5,A,8,1
+2508,ACC-02507,1,IDN Core Lab,4,C,6,1
+2509,ACC-02508,3,Primary Care,4,C,8,0
+2510,ACC-02509,2,IDN Core Lab,5,C,9,1
+2511,ACC-02510,3,Geriatric Psychiatry,5,C,10,1
+2512,ACC-02511,3,Geriatric Psychiatry,5,C,10,1
+2513,ACC-02512,3,Primary Care,3,B,7,1
+2514,ACC-02513,2,Reference Lab,5,C,6,1
+2515,ACC-02514,3,Memory Clinic,2,B,7,1
+2516,ACC-02515,2,Hospital Lab,5,B,8,1
+2517,ACC-02516,3,Primary Care,1,C,9,1
+2518,ACC-02517,3,Primary Care,1,A,7,1
+2519,ACC-02518,3,Geriatric Psychiatry,1,B,6,0
+2520,ACC-02519,2,Physician Office Lab,4,C,5,0
+2521,ACC-02520,3,Neurology Practice,2,C,9,1
+2522,ACC-02521,3,Geriatric Psychiatry,4,B,4,1
+2523,ACC-02522,3,Memory Clinic,3,B,4,1
+2524,ACC-02523,1,Hospital Lab,2,C,7,1
+2525,ACC-02524,3,Primary Care,5,A,7,1
+2526,ACC-02525,1,Reference Lab,2,A,4,0
+2527,ACC-02526,3,Memory Clinic,3,C,1,0
+2528,ACC-02527,3,Neurology Practice,5,A,8,1
+2529,ACC-02528,3,Primary Care,1,B,1,1
+2530,ACC-02529,2,Hospital Lab,2,B,2,0
+2531,ACC-02530,3,Primary Care,1,C,2,1
+2532,ACC-02531,3,Memory Clinic,3,C,8,1
+2533,ACC-02532,1,Hospital Lab,4,C,8,0
+2534,ACC-02533,3,Primary Care,1,C,6,1
+2535,ACC-02534,2,Physician Office Lab,1,B,1,1
+2536,ACC-02535,1,Hospital Lab,4,B,1,1
+2537,ACC-02536,3,Neurology Practice,4,A,6,1
+2538,ACC-02537,1,Hospital Lab,2,B,9,1
+2539,ACC-02538,3,Geriatric Psychiatry,2,A,8,1
+2540,ACC-02539,2,Reference Lab,2,C,6,1
+2541,ACC-02540,3,Primary Care,1,A,6,1
+2542,ACC-02541,1,Reference Lab,3,B,8,1
+2543,ACC-02542,3,Neurology Practice,3,B,3,1
+2544,ACC-02543,3,Memory Clinic,5,B,2,1
+2545,ACC-02544,3,Memory Clinic,3,A,4,1
+2546,ACC-02545,2,IDN Core Lab,1,C,2,1
+2547,ACC-02546,3,Primary Care,2,B,3,1
+2548,ACC-02547,2,Reference Lab,4,C,9,1
+2549,ACC-02548,1,IDN Core Lab,3,C,5,1
+2550,ACC-02549,1,Hospital Lab,4,B,5,1
+2551,ACC-02550,2,Physician Office Lab,2,B,8,1
+2552,ACC-02551,3,Geriatric Psychiatry,1,B,3,0
+2553,ACC-02552,2,Hospital Lab,5,C,8,0
+2554,ACC-02553,3,Primary Care,2,C,6,0
+2555,ACC-02554,3,Geriatric Psychiatry,1,B,6,1
+2556,ACC-02555,2,IDN Core Lab,3,A,4,1
+2557,ACC-02556,1,Reference Lab,4,C,10,1
+2558,ACC-02557,2,Physician Office Lab,3,B,10,1
+2559,ACC-02558,2,Reference Lab,3,B,2,1
+2560,ACC-02559,1,Hospital Lab,2,C,2,1
+2561,ACC-02560,3,Geriatric Psychiatry,5,C,8,1
+2562,ACC-02561,3,Neurology Practice,4,C,6,1
+2563,ACC-02562,1,Reference Lab,4,C,8,1
+2564,ACC-02563,1,Reference Lab,1,C,4,1
+2565,ACC-02564,3,Geriatric Psychiatry,3,B,7,1
+2566,ACC-02565,3,Neurology Practice,4,A,2,0
+2567,ACC-02566,3,Primary Care,1,B,10,1
+2568,ACC-02567,3,Neurology Practice,2,C,7,0
+2569,ACC-02568,2,Hospital Lab,5,C,7,0
+2570,ACC-02569,3,Memory Clinic,5,C,2,0
+2571,ACC-02570,2,Physician Office Lab,5,B,9,1
+2572,ACC-02571,1,Reference Lab,3,B,3,1
+2573,ACC-02572,3,Memory Clinic,1,B,2,1
+2574,ACC-02573,3,Neurology Practice,1,C,5,1
+2575,ACC-02574,3,Memory Clinic,4,C,10,1
+2576,ACC-02575,3,Memory Clinic,5,C,5,1
+2577,ACC-02576,3,Memory Clinic,2,A,1,1
+2578,ACC-02577,2,Reference Lab,2,B,10,1
+2579,ACC-02578,1,Hospital Lab,5,A,7,1
+2580,ACC-02579,3,Geriatric Psychiatry,1,B,7,1
+2581,ACC-02580,2,Reference Lab,1,B,6,0
+2582,ACC-02581,1,IDN Core Lab,5,C,1,1
+2583,ACC-02582,2,Reference Lab,3,C,7,1
+2584,ACC-02583,3,Neurology Practice,4,C,2,1
+2585,ACC-02584,3,Memory Clinic,5,A,3,1
+2586,ACC-02585,3,Primary Care,5,B,6,1
+2587,ACC-02586,3,Memory Clinic,2,A,6,1
+2588,ACC-02587,3,Primary Care,3,A,3,1
+2589,ACC-02588,1,IDN Core Lab,3,B,1,0
+2590,ACC-02589,3,Neurology Practice,5,B,2,1
+2591,ACC-02590,3,Neurology Practice,1,C,1,1
+2592,ACC-02591,3,Geriatric Psychiatry,4,C,10,1
+2593,ACC-02592,1,Hospital Lab,5,C,1,1
+2594,ACC-02593,3,Memory Clinic,2,A,8,1
+2595,ACC-02594,3,Primary Care,4,B,4,1
+2596,ACC-02595,1,IDN Core Lab,1,A,4,1
+2597,ACC-02596,2,Physician Office Lab,1,C,1,1
+2598,ACC-02597,1,Physician Office Lab,1,B,1,1
+2599,ACC-02598,3,Memory Clinic,3,B,10,1
+2600,ACC-02599,2,IDN Core Lab,1,A,8,1
+2601,ACC-02600,3,Memory Clinic,3,A,3,0
+2602,ACC-02601,3,Neurology Practice,2,B,6,1
+2603,ACC-02602,3,Memory Clinic,1,B,9,1
+2604,ACC-02603,2,IDN Core Lab,1,A,4,1
+2605,ACC-02604,3,Memory Clinic,4,C,10,1
+2606,ACC-02605,3,Neurology Practice,2,A,6,0
+2607,ACC-02606,3,Geriatric Psychiatry,4,B,5,0
+2608,ACC-02607,1,Physician Office Lab,5,C,9,1
+2609,ACC-02608,3,Memory Clinic,4,C,5,1
+2610,ACC-02609,3,Memory Clinic,4,B,1,1
+2611,ACC-02610,3,Memory Clinic,4,C,2,1
+2612,ACC-02611,1,Physician Office Lab,3,A,8,1
+2613,ACC-02612,3,Geriatric Psychiatry,2,C,7,1
+2614,ACC-02613,1,Reference Lab,1,C,9,1
+2615,ACC-02614,2,Physician Office Lab,5,B,2,1
+2616,ACC-02615,3,Primary Care,5,A,6,0
+2617,ACC-02616,2,Physician Office Lab,4,C,4,1
+2618,ACC-02617,1,Physician Office Lab,3,C,10,1
+2619,ACC-02618,2,Reference Lab,3,C,8,1
+2620,ACC-02619,1,Physician Office Lab,1,B,3,1
+2621,ACC-02620,3,Geriatric Psychiatry,2,B,8,1
+2622,ACC-02621,1,Physician Office Lab,2,C,8,1
+2623,ACC-02622,2,Hospital Lab,4,B,4,1
+2624,ACC-02623,3,Memory Clinic,3,B,5,1
+2625,ACC-02624,3,Geriatric Psychiatry,2,A,3,1
+2626,ACC-02625,2,Reference Lab,2,B,4,1
+2627,ACC-02626,2,Physician Office Lab,5,B,2,1
+2628,ACC-02627,3,Neurology Practice,4,C,7,0
+2629,ACC-02628,3,Primary Care,5,A,6,0
+2630,ACC-02629,3,Neurology Practice,2,B,7,1
+2631,ACC-02630,2,Hospital Lab,3,C,10,1
+2632,ACC-02631,1,Reference Lab,3,B,4,1
+2633,ACC-02632,3,Geriatric Psychiatry,1,C,2,1
+2634,ACC-02633,3,Memory Clinic,2,C,4,0
+2635,ACC-02634,3,Neurology Practice,3,B,4,1
+2636,ACC-02635,1,Hospital Lab,4,C,5,1
+2637,ACC-02636,1,Physician Office Lab,2,C,9,1
+2638,ACC-02637,3,Geriatric Psychiatry,1,B,10,1
+2639,ACC-02638,3,Memory Clinic,2,C,7,1
+2640,ACC-02639,3,Memory Clinic,3,B,8,1
+2641,ACC-02640,1,Reference Lab,3,C,3,1
+2642,ACC-02641,3,Geriatric Psychiatry,5,C,4,1
+2643,ACC-02642,2,Hospital Lab,1,C,9,0
+2644,ACC-02643,2,IDN Core Lab,3,B,4,1
+2645,ACC-02644,1,Physician Office Lab,2,C,4,1
+2646,ACC-02645,2,Physician Office Lab,4,A,9,1
+2647,ACC-02646,2,IDN Core Lab,5,C,9,1
+2648,ACC-02647,1,Physician Office Lab,3,A,8,1
+2649,ACC-02648,2,Reference Lab,5,B,8,0
+2650,ACC-02649,1,Reference Lab,1,C,7,1
+2651,ACC-02650,2,Hospital Lab,5,B,6,0
+2652,ACC-02651,3,Geriatric Psychiatry,4,C,8,1
+2653,ACC-02652,3,Memory Clinic,1,B,1,1
+2654,ACC-02653,1,Reference Lab,4,C,1,0
+2655,ACC-02654,3,Memory Clinic,3,C,9,0
+2656,ACC-02655,1,Physician Office Lab,5,C,1,1
+2657,ACC-02656,2,Hospital Lab,2,B,7,0
+2658,ACC-02657,1,Physician Office Lab,3,C,4,1
+2659,ACC-02658,3,Memory Clinic,3,B,8,1
+2660,ACC-02659,1,Hospital Lab,1,C,5,1
+2661,ACC-02660,3,Geriatric Psychiatry,5,C,4,1
+2662,ACC-02661,3,Memory Clinic,4,B,8,0
+2663,ACC-02662,2,IDN Core Lab,3,B,10,1
+2664,ACC-02663,3,Neurology Practice,5,A,8,1
+2665,ACC-02664,2,Hospital Lab,5,C,3,1
+2666,ACC-02665,3,Primary Care,5,B,9,1
+2667,ACC-02666,3,Neurology Practice,1,A,10,1
+2668,ACC-02667,1,Hospital Lab,5,B,3,0
+2669,ACC-02668,1,IDN Core Lab,2,C,7,0
+2670,ACC-02669,3,Geriatric Psychiatry,3,C,8,1
+2671,ACC-02670,1,Hospital Lab,5,B,7,1
+2672,ACC-02671,3,Neurology Practice,1,B,10,1
+2673,ACC-02672,2,Physician Office Lab,1,B,3,1
+2674,ACC-02673,2,IDN Core Lab,5,C,3,1
+2675,ACC-02674,2,Physician Office Lab,1,C,9,1
+2676,ACC-02675,2,IDN Core Lab,1,C,1,1
+2677,ACC-02676,3,Geriatric Psychiatry,2,B,1,1
+2678,ACC-02677,1,IDN Core Lab,4,B,9,0
+2679,ACC-02678,3,Memory Clinic,3,B,9,1
+2680,ACC-02679,1,Reference Lab,2,C,2,1
+2681,ACC-02680,1,Hospital Lab,5,C,9,1
+2682,ACC-02681,1,Physician Office Lab,4,A,8,0
+2683,ACC-02682,3,Memory Clinic,3,A,10,1
+2684,ACC-02683,3,Geriatric Psychiatry,2,B,4,1
+2685,ACC-02684,1,Hospital Lab,5,B,4,1
+2686,ACC-02685,3,Primary Care,2,C,4,1
+2687,ACC-02686,2,Physician Office Lab,5,A,7,1
+2688,ACC-02687,3,Neurology Practice,2,C,10,0
+2689,ACC-02688,1,Reference Lab,5,C,10,1
+2690,ACC-02689,3,Neurology Practice,5,B,4,1
+2691,ACC-02690,2,Reference Lab,1,A,1,0
+2692,ACC-02691,2,Hospital Lab,1,B,5,1
+2693,ACC-02692,3,Geriatric Psychiatry,1,C,5,1
+2694,ACC-02693,3,Geriatric Psychiatry,2,A,1,1
+2695,ACC-02694,2,IDN Core Lab,3,C,10,0
+2696,ACC-02695,3,Primary Care,1,C,2,1
+2697,ACC-02696,2,IDN Core Lab,1,C,6,0
+2698,ACC-02697,1,Physician Office Lab,2,C,4,1
+2699,ACC-02698,3,Neurology Practice,1,A,8,1
+2700,ACC-02699,3,Memory Clinic,4,C,7,1
+2701,ACC-02700,1,Reference Lab,2,C,10,1
+2702,ACC-02701,3,Neurology Practice,1,A,1,0
+2703,ACC-02702,3,Geriatric Psychiatry,1,B,3,0
+2704,ACC-02703,3,Primary Care,2,B,4,1
+2705,ACC-02704,2,Reference Lab,1,B,9,1
+2706,ACC-02705,1,Physician Office Lab,1,A,4,1
+2707,ACC-02706,1,Reference Lab,1,B,6,1
+2708,ACC-02707,2,Reference Lab,2,C,8,1
+2709,ACC-02708,3,Geriatric Psychiatry,3,B,10,1
+2710,ACC-02709,2,Physician Office Lab,3,A,3,1
+2711,ACC-02710,2,Hospital Lab,5,B,7,1
+2712,ACC-02711,3,Geriatric Psychiatry,4,B,9,1
+2713,ACC-02712,1,IDN Core Lab,1,C,3,1
+2714,ACC-02713,3,Neurology Practice,2,B,10,1
+2715,ACC-02714,3,Geriatric Psychiatry,4,B,4,1
+2716,ACC-02715,3,Memory Clinic,3,B,3,1
+2717,ACC-02716,2,Reference Lab,1,A,8,1
+2718,ACC-02717,2,Physician Office Lab,4,C,4,1
+2719,ACC-02718,2,Reference Lab,1,B,5,1
+2720,ACC-02719,3,Neurology Practice,2,C,8,1
+2721,ACC-02720,3,Primary Care,4,C,3,1
+2722,ACC-02721,3,Memory Clinic,5,C,3,0
+2723,ACC-02722,1,Physician Office Lab,5,B,8,1
+2724,ACC-02723,3,Neurology Practice,5,A,9,0
+2725,ACC-02724,2,Reference Lab,2,B,2,0
+2726,ACC-02725,1,Hospital Lab,2,B,10,0
+2727,ACC-02726,1,Reference Lab,1,B,1,0
+2728,ACC-02727,3,Geriatric Psychiatry,3,C,7,1
+2729,ACC-02728,3,Geriatric Psychiatry,4,C,5,1
+2730,ACC-02729,3,Memory Clinic,1,C,2,1
+2731,ACC-02730,3,Primary Care,2,B,8,1
+2732,ACC-02731,3,Primary Care,5,B,1,1
+2733,ACC-02732,3,Geriatric Psychiatry,1,C,3,1
+2734,ACC-02733,3,Neurology Practice,2,B,5,1
+2735,ACC-02734,1,IDN Core Lab,5,A,7,1
+2736,ACC-02735,3,Primary Care,2,C,3,1
+2737,ACC-02736,3,Memory Clinic,5,A,1,1
+2738,ACC-02737,1,IDN Core Lab,2,C,8,1
+2739,ACC-02738,1,Physician Office Lab,2,A,1,1
+2740,ACC-02739,2,Reference Lab,1,C,5,0
+2741,ACC-02740,1,IDN Core Lab,1,A,7,0
+2742,ACC-02741,3,Neurology Practice,2,C,7,1
+2743,ACC-02742,2,Hospital Lab,4,A,2,1
+2744,ACC-02743,3,Primary Care,3,B,7,1
+2745,ACC-02744,2,IDN Core Lab,2,C,1,1
+2746,ACC-02745,3,Geriatric Psychiatry,1,C,1,1
+2747,ACC-02746,3,Geriatric Psychiatry,4,B,3,1
+2748,ACC-02747,3,Neurology Practice,2,B,8,1
+2749,ACC-02748,2,Hospital Lab,1,B,3,1
+2750,ACC-02749,2,IDN Core Lab,5,C,9,1
+2751,ACC-02750,1,IDN Core Lab,5,C,2,1
+2752,ACC-02751,3,Memory Clinic,1,B,5,1
+2753,ACC-02752,2,Hospital Lab,1,B,5,1
+2754,ACC-02753,2,Hospital Lab,3,B,6,0
+2755,ACC-02754,3,Memory Clinic,2,C,4,1
+2756,ACC-02755,3,Neurology Practice,5,B,2,0
+2757,ACC-02756,1,Hospital Lab,2,B,8,1
+2758,ACC-02757,2,Hospital Lab,1,A,7,1
+2759,ACC-02758,3,Geriatric Psychiatry,3,C,7,1
+2760,ACC-02759,3,Geriatric Psychiatry,1,C,10,1
+2761,ACC-02760,3,Geriatric Psychiatry,2,C,9,1
+2762,ACC-02761,2,Physician Office Lab,3,C,8,0
+2763,ACC-02762,3,Primary Care,5,C,5,1
+2764,ACC-02763,1,Hospital Lab,2,C,1,1
+2765,ACC-02764,1,IDN Core Lab,3,B,3,1
+2766,ACC-02765,1,Reference Lab,1,A,4,1
+2767,ACC-02766,2,Reference Lab,5,B,3,1
+2768,ACC-02767,2,IDN Core Lab,2,C,10,1
+2769,ACC-02768,1,Physician Office Lab,1,B,1,1
+2770,ACC-02769,1,Reference Lab,1,B,7,1
+2771,ACC-02770,1,IDN Core Lab,4,C,5,1
+2772,ACC-02771,3,Neurology Practice,1,A,4,1
+2773,ACC-02772,3,Geriatric Psychiatry,3,C,8,1
+2774,ACC-02773,3,Primary Care,2,C,7,1
+2775,ACC-02774,3,Memory Clinic,4,C,9,1
+2776,ACC-02775,3,Primary Care,5,C,2,1
+2777,ACC-02776,1,Reference Lab,2,A,3,0
+2778,ACC-02777,3,Neurology Practice,3,B,10,1
+2779,ACC-02778,2,IDN Core Lab,2,B,9,1
+2780,ACC-02779,2,IDN Core Lab,3,B,4,1
+2781,ACC-02780,3,Geriatric Psychiatry,1,C,5,1
+2782,ACC-02781,1,IDN Core Lab,1,C,2,1
+2783,ACC-02782,2,Physician Office Lab,4,C,1,1
+2784,ACC-02783,3,Memory Clinic,2,C,1,0
+2785,ACC-02784,2,Hospital Lab,1,C,1,1
+2786,ACC-02785,2,IDN Core Lab,2,C,1,1
+2787,ACC-02786,3,Memory Clinic,4,B,4,1
+2788,ACC-02787,3,Geriatric Psychiatry,5,A,7,1
+2789,ACC-02788,3,Geriatric Psychiatry,5,A,7,1
+2790,ACC-02789,1,IDN Core Lab,4,C,7,1
+2791,ACC-02790,3,Geriatric Psychiatry,5,C,7,1
+2792,ACC-02791,3,Primary Care,3,C,7,0
+2793,ACC-02792,3,Geriatric Psychiatry,3,A,4,1
+2794,ACC-02793,1,Reference Lab,3,C,4,1
+2795,ACC-02794,3,Neurology Practice,5,C,5,1
+2796,ACC-02795,1,Physician Office Lab,1,A,8,0
+2797,ACC-02796,3,Memory Clinic,3,C,6,1
+2798,ACC-02797,3,Geriatric Psychiatry,4,C,9,1
+2799,ACC-02798,3,Neurology Practice,1,B,4,1
+2800,ACC-02799,1,Reference Lab,5,C,7,1
+2801,ACC-02800,2,Reference Lab,5,B,7,1
+2802,ACC-02801,2,Reference Lab,3,B,7,1
+2803,ACC-02802,3,Memory Clinic,5,A,2,1
+2804,ACC-02803,3,Neurology Practice,1,A,2,1
+2805,ACC-02804,1,Reference Lab,5,C,7,1
+2806,ACC-02805,2,Physician Office Lab,1,B,9,1
+2807,ACC-02806,1,IDN Core Lab,1,B,5,1
+2808,ACC-02807,2,IDN Core Lab,3,C,1,0
+2809,ACC-02808,2,Reference Lab,4,A,9,0
+2810,ACC-02809,1,Hospital Lab,4,B,9,1
+2811,ACC-02810,1,Reference Lab,3,C,9,1
+2812,ACC-02811,3,Primary Care,4,C,5,1
+2813,ACC-02812,2,Reference Lab,3,C,7,1
+2814,ACC-02813,1,Hospital Lab,5,B,1,1
+2815,ACC-02814,3,Neurology Practice,1,A,1,1
+2816,ACC-02815,2,IDN Core Lab,5,C,1,1
+2817,ACC-02816,1,Physician Office Lab,5,C,5,1
+2818,ACC-02817,1,Physician Office Lab,5,C,10,1
+2819,ACC-02818,2,IDN Core Lab,2,B,1,1
+2820,ACC-02819,3,Primary Care,5,C,6,0
+2821,ACC-02820,1,IDN Core Lab,1,C,8,1
+2822,ACC-02821,3,Neurology Practice,1,C,5,1
+2823,ACC-02822,2,Reference Lab,2,A,1,1
+2824,ACC-02823,3,Neurology Practice,5,B,10,1
+2825,ACC-02824,3,Neurology Practice,5,B,9,1
+2826,ACC-02825,1,Reference Lab,3,C,5,1
+2827,ACC-02826,3,Neurology Practice,4,C,9,1
+2828,ACC-02827,2,IDN Core Lab,3,B,9,0
+2829,ACC-02828,1,Physician Office Lab,1,B,7,1
+2830,ACC-02829,3,Primary Care,3,C,9,0
+2831,ACC-02830,1,Hospital Lab,1,A,7,0
+2832,ACC-02831,3,Neurology Practice,3,C,8,0
+2833,ACC-02832,3,Geriatric Psychiatry,1,B,2,1
+2834,ACC-02833,3,Neurology Practice,2,C,1,1
+2835,ACC-02834,3,Geriatric Psychiatry,4,B,2,1
+2836,ACC-02835,3,Memory Clinic,2,C,10,1
+2837,ACC-02836,1,Physician Office Lab,5,A,5,0
+2838,ACC-02837,3,Geriatric Psychiatry,4,B,7,1
+2839,ACC-02838,1,Hospital Lab,2,B,6,0
+2840,ACC-02839,1,IDN Core Lab,4,A,5,0
+2841,ACC-02840,2,Reference Lab,1,C,8,0
+2842,ACC-02841,2,Hospital Lab,4,C,8,1
+2843,ACC-02842,1,Physician Office Lab,2,B,10,0
+2844,ACC-02843,3,Geriatric Psychiatry,2,C,1,1
+2845,ACC-02844,3,Neurology Practice,3,B,4,1
+2846,ACC-02845,3,Geriatric Psychiatry,5,B,2,1
+2847,ACC-02846,3,Memory Clinic,2,A,6,1
+2848,ACC-02847,3,Primary Care,5,C,7,1
+2849,ACC-02848,3,Neurology Practice,3,A,2,1
+2850,ACC-02849,3,Memory Clinic,2,A,7,1
+2851,ACC-02850,1,Reference Lab,4,A,1,1
+2852,ACC-02851,1,Physician Office Lab,4,B,6,1
+2853,ACC-02852,2,IDN Core Lab,3,B,10,1
+2854,ACC-02853,2,Physician Office Lab,1,B,7,1
+2855,ACC-02854,3,Primary Care,5,C,8,1
+2856,ACC-02855,2,IDN Core Lab,5,B,10,1
+2857,ACC-02856,3,Neurology Practice,4,A,6,1
+2858,ACC-02857,2,Reference Lab,4,C,2,0
+2859,ACC-02858,3,Memory Clinic,2,A,6,0
+2860,ACC-02859,1,Hospital Lab,3,A,4,1
+2861,ACC-02860,2,Reference Lab,4,C,10,1
+2862,ACC-02861,3,Neurology Practice,1,B,3,1
+2863,ACC-02862,2,IDN Core Lab,3,C,6,1
+2864,ACC-02863,3,Memory Clinic,1,C,10,1
+2865,ACC-02864,2,Reference Lab,5,C,8,1
+2866,ACC-02865,3,Memory Clinic,1,B,2,1
+2867,ACC-02866,3,Primary Care,4,C,9,1
+2868,ACC-02867,3,Memory Clinic,1,C,4,1
+2869,ACC-02868,2,Hospital Lab,5,C,8,1
+2870,ACC-02869,3,Neurology Practice,3,B,10,1
+2871,ACC-02870,2,Reference Lab,2,C,10,1
+2872,ACC-02871,3,Memory Clinic,1,B,7,1
+2873,ACC-02872,3,Neurology Practice,3,A,8,1
+2874,ACC-02873,1,IDN Core Lab,2,A,1,1
+2875,ACC-02874,3,Neurology Practice,4,C,10,1
+2876,ACC-02875,2,IDN Core Lab,4,C,10,1
+2877,ACC-02876,1,Hospital Lab,4,C,3,1
+2878,ACC-02877,3,Primary Care,2,C,1,1
+2879,ACC-02878,3,Geriatric Psychiatry,1,A,10,1
+2880,ACC-02879,3,Primary Care,3,B,6,1
+2881,ACC-02880,3,Neurology Practice,2,C,2,1
+2882,ACC-02881,2,Reference Lab,4,C,3,0
+2883,ACC-02882,3,Geriatric Psychiatry,3,C,7,0
+2884,ACC-02883,3,Primary Care,3,B,7,0
+2885,ACC-02884,2,Reference Lab,3,C,7,1
+2886,ACC-02885,3,Memory Clinic,3,C,3,1
+2887,ACC-02886,1,Hospital Lab,5,B,8,1
+2888,ACC-02887,3,Memory Clinic,1,C,9,1
+2889,ACC-02888,2,Reference Lab,1,A,1,1
+2890,ACC-02889,1,Reference Lab,1,A,6,1
+2891,ACC-02890,3,Memory Clinic,2,C,7,1
+2892,ACC-02891,1,Hospital Lab,3,B,4,0
+2893,ACC-02892,1,Reference Lab,5,C,7,0
+2894,ACC-02893,1,IDN Core Lab,4,C,9,1
+2895,ACC-02894,3,Geriatric Psychiatry,5,B,9,1
+2896,ACC-02895,1,Reference Lab,1,C,8,1
+2897,ACC-02896,2,Physician Office Lab,1,A,8,1
+2898,ACC-02897,2,Reference Lab,1,A,5,1
+2899,ACC-02898,3,Geriatric Psychiatry,4,B,1,1
+2900,ACC-02899,3,Primary Care,2,C,5,0
+2901,ACC-02900,3,Neurology Practice,2,B,8,1
+2902,ACC-02901,2,Reference Lab,2,B,5,1
+2903,ACC-02902,2,Physician Office Lab,5,C,10,1
+2904,ACC-02903,3,Primary Care,1,C,6,1
+2905,ACC-02904,1,Hospital Lab,2,C,1,1
+2906,ACC-02905,1,Hospital Lab,3,A,9,1
+2907,ACC-02906,3,Memory Clinic,2,C,5,1
+2908,ACC-02907,1,Reference Lab,4,C,1,1
+2909,ACC-02908,2,IDN Core Lab,3,B,7,1
+2910,ACC-02909,1,Physician Office Lab,5,B,4,1
+2911,ACC-02910,1,Hospital Lab,5,A,8,0
+2912,ACC-02911,3,Memory Clinic,2,C,8,1
+2913,ACC-02912,1,Physician Office Lab,5,C,10,1
+2914,ACC-02913,2,Reference Lab,3,A,10,1
+2915,ACC-02914,1,Hospital Lab,5,B,8,1
+2916,ACC-02915,2,Physician Office Lab,2,C,2,1
+2917,ACC-02916,3,Geriatric Psychiatry,1,C,9,1
+2918,ACC-02917,3,Geriatric Psychiatry,3,C,1,1
+2919,ACC-02918,3,Neurology Practice,5,A,5,1
+2920,ACC-02919,2,Physician Office Lab,5,C,9,1
+2921,ACC-02920,1,Reference Lab,1,B,10,1
+2922,ACC-02921,2,Physician Office Lab,3,B,10,1
+2923,ACC-02922,3,Geriatric Psychiatry,5,C,2,1
+2924,ACC-02923,3,Memory Clinic,2,B,8,1
+2925,ACC-02924,1,IDN Core Lab,3,C,1,1
+2926,ACC-02925,3,Primary Care,5,B,6,1
+2927,ACC-02926,3,Primary Care,3,C,4,0
+2928,ACC-02927,3,Primary Care,1,B,3,0
+2929,ACC-02928,3,Neurology Practice,1,B,8,1
+2930,ACC-02929,3,Primary Care,2,A,10,0
+2931,ACC-02930,1,Reference Lab,3,C,4,1
+2932,ACC-02931,2,Hospital Lab,5,C,8,0
+2933,ACC-02932,3,Memory Clinic,4,C,8,0
+2934,ACC-02933,3,Neurology Practice,1,C,7,1
+2935,ACC-02934,3,Neurology Practice,5,C,4,1
+2936,ACC-02935,2,Reference Lab,1,A,9,1
+2937,ACC-02936,1,IDN Core Lab,1,A,8,0
+2938,ACC-02937,3,Primary Care,3,C,9,1
+2939,ACC-02938,2,Physician Office Lab,3,B,3,1
+2940,ACC-02939,3,Primary Care,2,B,1,1
+2941,ACC-02940,1,Hospital Lab,2,A,7,1
+2942,ACC-02941,3,Neurology Practice,5,C,1,0
+2943,ACC-02942,1,Reference Lab,4,A,2,1
+2944,ACC-02943,3,Memory Clinic,2,B,3,1
+2945,ACC-02944,1,IDN Core Lab,5,C,2,1
+2946,ACC-02945,3,Primary Care,1,C,10,0
+2947,ACC-02946,2,Reference Lab,1,A,9,1
+2948,ACC-02947,3,Neurology Practice,1,C,6,0
+2949,ACC-02948,3,Neurology Practice,1,B,7,1
+2950,ACC-02949,1,IDN Core Lab,1,A,7,1
+2951,ACC-02950,1,Reference Lab,2,C,9,1
+2952,ACC-02951,3,Memory Clinic,3,C,4,1
+2953,ACC-02952,3,Neurology Practice,1,C,8,0
+2954,ACC-02953,2,Reference Lab,1,A,5,1
+2955,ACC-02954,1,IDN Core Lab,3,A,6,1
+2956,ACC-02955,3,Memory Clinic,2,B,4,0
+2957,ACC-02956,3,Geriatric Psychiatry,3,A,8,1
+2958,ACC-02957,3,Memory Clinic,1,A,10,0
+2959,ACC-02958,2,Hospital Lab,4,B,10,1
+2960,ACC-02959,2,Reference Lab,5,A,5,1
+2961,ACC-02960,2,Hospital Lab,2,B,1,1
+2962,ACC-02961,1,IDN Core Lab,3,A,9,0
+2963,ACC-02962,3,Geriatric Psychiatry,4,B,1,1
+2964,ACC-02963,2,Reference Lab,3,A,2,1
+2965,ACC-02964,2,Reference Lab,2,B,9,1
+2966,ACC-02965,2,IDN Core Lab,1,B,4,1
+2967,ACC-02966,2,IDN Core Lab,3,A,6,0
+2968,ACC-02967,3,Memory Clinic,3,B,2,1
+2969,ACC-02968,3,Geriatric Psychiatry,5,A,3,1
+2970,ACC-02969,3,Primary Care,1,C,3,1
+2971,ACC-02970,1,Physician Office Lab,1,B,3,0
+2972,ACC-02971,3,Neurology Practice,2,C,7,1
+2973,ACC-02972,3,Neurology Practice,3,C,7,1
+2974,ACC-02973,3,Geriatric Psychiatry,3,C,2,0
+2975,ACC-02974,1,Physician Office Lab,1,C,10,1
+2976,ACC-02975,2,Physician Office Lab,3,B,6,1
+2977,ACC-02976,3,Neurology Practice,5,B,8,1
+2978,ACC-02977,3,Memory Clinic,5,B,1,1
+2979,ACC-02978,1,Hospital Lab,5,A,4,1
+2980,ACC-02979,3,Neurology Practice,3,B,10,1
+2981,ACC-02980,3,Neurology Practice,5,B,9,1
+2982,ACC-02981,3,Primary Care,3,A,1,1
+2983,ACC-02982,2,IDN Core Lab,1,C,7,1
+2984,ACC-02983,3,Neurology Practice,5,A,8,1
+2985,ACC-02984,3,Geriatric Psychiatry,1,B,2,0
+2986,ACC-02985,2,Physician Office Lab,2,C,9,1
+2987,ACC-02986,3,Primary Care,1,C,2,1
+2988,ACC-02987,1,Reference Lab,3,B,10,1
+2989,ACC-02988,1,Hospital Lab,3,C,1,1
+2990,ACC-02989,3,Neurology Practice,3,B,7,1
+2991,ACC-02990,2,Physician Office Lab,1,C,3,1
+2992,ACC-02991,1,Physician Office Lab,1,C,7,1
+2993,ACC-02992,3,Primary Care,2,A,8,1
+2994,ACC-02993,3,Primary Care,1,C,6,1
+2995,ACC-02994,3,Primary Care,1,A,8,1
+2996,ACC-02995,2,Reference Lab,2,B,8,1
+2997,ACC-02996,3,Memory Clinic,5,B,4,1
+2998,ACC-02997,1,Reference Lab,5,C,9,1
+2999,ACC-02998,1,Hospital Lab,2,C,1,1
+3000,ACC-02999,1,Reference Lab,2,B,6,1
+3001,ACC-03000,2,Reference Lab,5,C,8,1
+3002,ACC-03001,3,Memory Clinic,4,C,8,1
+3003,ACC-03002,1,Physician Office Lab,5,A,4,1
+3004,ACC-03003,3,Geriatric Psychiatry,5,C,10,1
+3005,ACC-03004,3,Neurology Practice,1,C,10,1
+3006,ACC-03005,1,Physician Office Lab,1,C,2,1
+3007,ACC-03006,3,Primary Care,2,B,1,1
+3008,ACC-03007,3,Memory Clinic,3,C,6,1
+3009,ACC-03008,2,Physician Office Lab,5,C,2,1
+3010,ACC-03009,2,Reference Lab,2,B,1,1
+3011,ACC-03010,3,Geriatric Psychiatry,5,A,9,1
+3012,ACC-03011,1,Hospital Lab,4,C,5,1
+3013,ACC-03012,3,Primary Care,3,A,9,1
+3014,ACC-03013,1,IDN Core Lab,4,C,8,1
+3015,ACC-03014,1,Hospital Lab,3,B,7,1
+3016,ACC-03015,3,Primary Care,4,A,4,1
+3017,ACC-03016,1,Physician Office Lab,4,C,8,0
+3018,ACC-03017,3,Memory Clinic,3,B,2,1
+3019,ACC-03018,3,Neurology Practice,1,B,4,1
+3020,ACC-03019,1,IDN Core Lab,3,B,9,1
+3021,ACC-03020,3,Primary Care,3,C,7,1
+3022,ACC-03021,2,IDN Core Lab,5,B,3,0
+3023,ACC-03022,3,Primary Care,1,C,9,1
+3024,ACC-03023,1,Reference Lab,1,C,6,1
+3025,ACC-03024,1,Reference Lab,2,C,8,0
+3026,ACC-03025,3,Neurology Practice,5,A,2,1
+3027,ACC-03026,3,Neurology Practice,3,B,2,1
+3028,ACC-03027,2,Reference Lab,2,B,10,0
+3029,ACC-03028,2,Hospital Lab,4,B,10,0
+3030,ACC-03029,3,Geriatric Psychiatry,3,B,4,1
+3031,ACC-03030,1,Hospital Lab,3,B,10,1
+3032,ACC-03031,3,Neurology Practice,2,C,9,1
+3033,ACC-03032,1,Hospital Lab,4,C,3,1
+3034,ACC-03033,1,Hospital Lab,1,C,4,1
+3035,ACC-03034,1,Reference Lab,1,B,6,1
+3036,ACC-03035,2,IDN Core Lab,4,B,4,0
+3037,ACC-03036,3,Memory Clinic,1,C,3,1
+3038,ACC-03037,3,Geriatric Psychiatry,2,C,3,0
+3039,ACC-03038,1,Reference Lab,2,A,7,1
+3040,ACC-03039,1,Hospital Lab,3,A,5,1
+3041,ACC-03040,1,Reference Lab,4,C,10,0
+3042,ACC-03041,3,Geriatric Psychiatry,5,B,9,0
+3043,ACC-03042,3,Memory Clinic,2,B,1,0
+3044,ACC-03043,1,Reference Lab,1,A,7,0
+3045,ACC-03044,3,Geriatric Psychiatry,5,B,7,1
+3046,ACC-03045,3,Primary Care,1,A,1,1
+3047,ACC-03046,3,Memory Clinic,5,A,8,1
+3048,ACC-03047,3,Primary Care,1,B,6,1
+3049,ACC-03048,2,Hospital Lab,3,C,9,0
+3050,ACC-03049,1,Reference Lab,3,C,5,1
+3051,ACC-03050,3,Primary Care,3,B,5,1
+3052,ACC-03051,1,Reference Lab,3,B,7,1
+3053,ACC-03052,2,Reference Lab,1,A,8,1
+3054,ACC-03053,2,Physician Office Lab,1,C,8,1
+3055,ACC-03054,3,Geriatric Psychiatry,3,A,5,0
+3056,ACC-03055,3,Geriatric Psychiatry,5,C,6,1
+3057,ACC-03056,3,Memory Clinic,3,C,10,1
+3058,ACC-03057,1,IDN Core Lab,3,C,9,1
+3059,ACC-03058,3,Memory Clinic,5,B,4,1
+3060,ACC-03059,3,Primary Care,2,C,7,1
+3061,ACC-03060,1,IDN Core Lab,2,A,2,1
+3062,ACC-03061,1,Reference Lab,1,C,4,1
+3063,ACC-03062,3,Geriatric Psychiatry,4,C,6,1
+3064,ACC-03063,2,Hospital Lab,1,C,4,1
+3065,ACC-03064,2,IDN Core Lab,1,C,10,0
+3066,ACC-03065,2,Physician Office Lab,1,C,9,1
+3067,ACC-03066,3,Geriatric Psychiatry,1,B,1,1
+3068,ACC-03067,3,Geriatric Psychiatry,2,C,3,1
+3069,ACC-03068,3,Primary Care,1,A,2,0
+3070,ACC-03069,2,Reference Lab,2,A,2,1
+3071,ACC-03070,1,Hospital Lab,3,A,6,0
+3072,ACC-03071,2,Reference Lab,1,A,8,0
+3073,ACC-03072,2,Hospital Lab,1,A,8,0
+3074,ACC-03073,3,Geriatric Psychiatry,2,B,5,1
+3075,ACC-03074,3,Primary Care,3,B,5,1
+3076,ACC-03075,3,Neurology Practice,3,C,3,1
+3077,ACC-03076,1,Physician Office Lab,1,B,9,0
+3078,ACC-03077,1,Physician Office Lab,1,C,9,0
+3079,ACC-03078,3,Geriatric Psychiatry,1,B,4,1
+3080,ACC-03079,3,Primary Care,5,A,2,1
+3081,ACC-03080,1,IDN Core Lab,5,C,5,1
+3082,ACC-03081,3,Neurology Practice,3,C,8,0
+3083,ACC-03082,3,Geriatric Psychiatry,5,B,3,1
+3084,ACC-03083,2,Physician Office Lab,1,A,4,1
+3085,ACC-03084,3,Neurology Practice,3,C,2,1
+3086,ACC-03085,3,Primary Care,3,C,8,1
+3087,ACC-03086,2,Reference Lab,2,C,9,0
+3088,ACC-03087,1,IDN Core Lab,4,B,8,1
+3089,ACC-03088,2,Hospital Lab,3,A,9,1
+3090,ACC-03089,2,IDN Core Lab,5,B,2,1
+3091,ACC-03090,3,Memory Clinic,1,C,9,1
+3092,ACC-03091,2,Physician Office Lab,1,A,9,1
+3093,ACC-03092,1,Reference Lab,2,B,4,1
+3094,ACC-03093,3,Primary Care,1,C,7,1
+3095,ACC-03094,1,Hospital Lab,1,A,1,1
+3096,ACC-03095,3,Memory Clinic,1,A,9,0
+3097,ACC-03096,3,Primary Care,2,C,1,1
+3098,ACC-03097,3,Neurology Practice,4,C,1,1
+3099,ACC-03098,2,Physician Office Lab,3,C,7,0
+3100,ACC-03099,1,Hospital Lab,2,B,8,1
+3101,ACC-03100,3,Primary Care,1,C,9,1
+3102,ACC-03101,1,Hospital Lab,3,C,10,1
+3103,ACC-03102,3,Geriatric Psychiatry,2,C,1,1
+3104,ACC-03103,1,Reference Lab,1,B,8,1
+3105,ACC-03104,3,Memory Clinic,2,C,4,1
+3106,ACC-03105,1,IDN Core Lab,1,B,10,1
+3107,ACC-03106,1,Physician Office Lab,2,B,3,0
+3108,ACC-03107,2,IDN Core Lab,5,B,5,1
+3109,ACC-03108,3,Neurology Practice,3,A,3,0
+3110,ACC-03109,1,Physician Office Lab,5,C,8,0
+3111,ACC-03110,2,Reference Lab,3,B,10,1
+3112,ACC-03111,3,Memory Clinic,1,A,6,1
+3113,ACC-03112,2,Physician Office Lab,4,B,4,1
+3114,ACC-03113,3,Primary Care,5,C,4,1
+3115,ACC-03114,1,IDN Core Lab,5,C,7,1
+3116,ACC-03115,1,IDN Core Lab,3,C,7,1
+3117,ACC-03116,1,IDN Core Lab,1,C,3,1
+3118,ACC-03117,3,Memory Clinic,3,C,4,1
+3119,ACC-03118,1,IDN Core Lab,1,C,10,1
+3120,ACC-03119,1,Physician Office Lab,1,C,10,0
+3121,ACC-03120,1,Physician Office Lab,1,B,4,1
+3122,ACC-03121,3,Primary Care,1,B,8,1
+3123,ACC-03122,2,Hospital Lab,2,B,1,1
+3124,ACC-03123,3,Memory Clinic,5,C,9,0
+3125,ACC-03124,2,IDN Core Lab,4,C,4,1
+3126,ACC-03125,3,Geriatric Psychiatry,4,A,7,1
+3127,ACC-03126,3,Primary Care,5,C,7,0
+3128,ACC-03127,2,IDN Core Lab,1,C,9,1
+3129,ACC-03128,3,Geriatric Psychiatry,3,B,10,1
+3130,ACC-03129,3,Neurology Practice,4,C,4,0
+3131,ACC-03130,1,Reference Lab,2,B,6,1
+3132,ACC-03131,3,Neurology Practice,2,B,7,1
+3133,ACC-03132,3,Primary Care,4,C,6,0
+3134,ACC-03133,3,Geriatric Psychiatry,5,A,4,0
+3135,ACC-03134,3,Primary Care,2,C,4,0
+3136,ACC-03135,3,Memory Clinic,3,C,6,1
+3137,ACC-03136,1,Hospital Lab,4,B,10,1
+3138,ACC-03137,3,Primary Care,5,B,1,1
+3139,ACC-03138,1,Hospital Lab,4,B,3,1
+3140,ACC-03139,3,Neurology Practice,1,B,8,1
+3141,ACC-03140,1,IDN Core Lab,3,C,6,1
+3142,ACC-03141,3,Memory Clinic,5,C,5,1
+3143,ACC-03142,3,Primary Care,2,C,4,1
+3144,ACC-03143,1,Reference Lab,4,B,10,1
+3145,ACC-03144,3,Neurology Practice,3,B,9,0
+3146,ACC-03145,3,Neurology Practice,2,B,9,0
+3147,ACC-03146,1,IDN Core Lab,3,C,3,1
+3148,ACC-03147,2,Hospital Lab,2,A,7,1
+3149,ACC-03148,1,Hospital Lab,2,B,10,0
+3150,ACC-03149,1,Reference Lab,4,B,3,1
+3151,ACC-03150,3,Neurology Practice,3,C,3,1
+3152,ACC-03151,1,Reference Lab,5,A,7,1
+3153,ACC-03152,3,Primary Care,1,B,2,0
+3154,ACC-03153,1,IDN Core Lab,4,C,8,1
+3155,ACC-03154,1,Reference Lab,1,C,9,1
+3156,ACC-03155,3,Primary Care,4,B,5,1
+3157,ACC-03156,2,Hospital Lab,5,C,10,1
+3158,ACC-03157,3,Neurology Practice,4,C,6,1
+3159,ACC-03158,1,Physician Office Lab,3,C,5,1
+3160,ACC-03159,3,Memory Clinic,1,C,9,0
+3161,ACC-03160,3,Primary Care,5,C,7,1
+3162,ACC-03161,3,Memory Clinic,2,C,2,1
+3163,ACC-03162,3,Neurology Practice,1,A,9,0
+3164,ACC-03163,1,Reference Lab,1,B,5,1
+3165,ACC-03164,3,Neurology Practice,4,C,4,1
+3166,ACC-03165,3,Primary Care,5,A,9,1
+3167,ACC-03166,3,Neurology Practice,5,A,8,1
+3168,ACC-03167,1,IDN Core Lab,3,B,4,0
+3169,ACC-03168,1,Physician Office Lab,3,C,10,1
+3170,ACC-03169,2,Hospital Lab,5,C,9,1
+3171,ACC-03170,2,Physician Office Lab,4,C,2,1
+3172,ACC-03171,1,Reference Lab,2,B,6,1
+3173,ACC-03172,1,Hospital Lab,5,C,7,1
+3174,ACC-03173,1,Reference Lab,5,B,5,1
+3175,ACC-03174,1,Hospital Lab,3,C,6,1
+3176,ACC-03175,1,Reference Lab,3,B,10,0
+3177,ACC-03176,3,Memory Clinic,5,A,6,1
+3178,ACC-03177,3,Memory Clinic,4,B,2,0
+3179,ACC-03178,2,Reference Lab,1,C,9,1
+3180,ACC-03179,1,IDN Core Lab,5,C,4,1
+3181,ACC-03180,2,Hospital Lab,4,C,2,1
+3182,ACC-03181,3,Geriatric Psychiatry,4,C,3,0
+3183,ACC-03182,3,Memory Clinic,2,B,9,1
+3184,ACC-03183,1,IDN Core Lab,1,B,10,0
+3185,ACC-03184,1,Physician Office Lab,2,B,2,0
+3186,ACC-03185,2,Physician Office Lab,2,C,2,1
+3187,ACC-03186,2,Hospital Lab,2,A,10,1
+3188,ACC-03187,1,Physician Office Lab,4,A,2,0
+3189,ACC-03188,3,Geriatric Psychiatry,2,C,6,1
+3190,ACC-03189,1,Hospital Lab,2,B,3,0
+3191,ACC-03190,1,Hospital Lab,1,C,2,1
+3192,ACC-03191,3,Neurology Practice,4,B,7,1
+3193,ACC-03192,3,Geriatric Psychiatry,4,B,2,1
+3194,ACC-03193,1,Hospital Lab,2,B,3,1
+3195,ACC-03194,3,Primary Care,1,C,7,0
+3196,ACC-03195,1,Reference Lab,1,A,4,1
+3197,ACC-03196,2,Hospital Lab,4,B,10,0
+3198,ACC-03197,1,Reference Lab,4,A,6,1
+3199,ACC-03198,1,Physician Office Lab,4,C,2,1
+3200,ACC-03199,1,Reference Lab,5,A,7,1
+3201,ACC-03200,3,Memory Clinic,4,C,7,1
+3202,ACC-03201,3,Geriatric Psychiatry,3,B,6,1
+3203,ACC-03202,1,Physician Office Lab,2,C,10,1
+3204,ACC-03203,1,Hospital Lab,2,B,7,0
+3205,ACC-03204,2,Reference Lab,2,B,8,1
+3206,ACC-03205,2,IDN Core Lab,1,C,7,1
+3207,ACC-03206,3,Memory Clinic,1,A,3,0
+3208,ACC-03207,1,IDN Core Lab,1,C,9,1
+3209,ACC-03208,3,Primary Care,1,C,7,1
+3210,ACC-03209,2,IDN Core Lab,5,A,7,1
+3211,ACC-03210,3,Geriatric Psychiatry,3,C,1,1
+3212,ACC-03211,2,IDN Core Lab,2,B,8,1
+3213,ACC-03212,1,Physician Office Lab,1,B,1,1
+3214,ACC-03213,1,Hospital Lab,3,A,4,0
+3215,ACC-03214,3,Primary Care,5,C,6,0
+3216,ACC-03215,2,IDN Core Lab,2,A,10,0
+3217,ACC-03216,3,Memory Clinic,5,B,2,1
+3218,ACC-03217,1,IDN Core Lab,5,C,9,1
+3219,ACC-03218,1,IDN Core Lab,4,A,6,1
+3220,ACC-03219,3,Memory Clinic,3,B,6,0
+3221,ACC-03220,1,IDN Core Lab,2,A,10,1
+3222,ACC-03221,3,Neurology Practice,1,A,5,1
+3223,ACC-03222,3,Geriatric Psychiatry,4,B,2,0
+3224,ACC-03223,1,IDN Core Lab,5,B,1,1
+3225,ACC-03224,3,Primary Care,4,C,4,1
+3226,ACC-03225,1,IDN Core Lab,1,C,10,1
+3227,ACC-03226,3,Primary Care,1,C,3,1
+3228,ACC-03227,3,Neurology Practice,2,C,2,1
+3229,ACC-03228,2,Hospital Lab,5,C,1,1
+3230,ACC-03229,3,Memory Clinic,1,B,6,1
+3231,ACC-03230,1,IDN Core Lab,2,A,4,0
+3232,ACC-03231,1,IDN Core Lab,3,B,4,0
+3233,ACC-03232,1,Hospital Lab,1,B,6,1
+3234,ACC-03233,2,Physician Office Lab,1,C,4,1
+3235,ACC-03234,1,Hospital Lab,1,B,1,1
+3236,ACC-03235,3,Geriatric Psychiatry,3,C,5,1
+3237,ACC-03236,2,Reference Lab,2,B,8,0
+3238,ACC-03237,3,Neurology Practice,1,C,6,1
+3239,ACC-03238,1,Reference Lab,3,C,10,1
+3240,ACC-03239,3,Primary Care,4,A,1,1
+3241,ACC-03240,3,Memory Clinic,4,C,1,0
+3242,ACC-03241,3,Primary Care,4,C,2,1
+3243,ACC-03242,3,Memory Clinic,3,A,1,1
+3244,ACC-03243,2,Reference Lab,4,B,7,0
+3245,ACC-03244,3,Neurology Practice,1,C,7,1
+3246,ACC-03245,3,Memory Clinic,1,C,8,1
+3247,ACC-03246,1,IDN Core Lab,4,B,3,1
+3248,ACC-03247,1,Hospital Lab,2,C,7,1
+3249,ACC-03248,3,Geriatric Psychiatry,1,B,2,1
+3250,ACC-03249,3,Primary Care,1,B,10,1
+3251,ACC-03250,2,Hospital Lab,5,A,3,1
+3252,ACC-03251,3,Primary Care,5,B,1,1
+3253,ACC-03252,3,Geriatric Psychiatry,1,A,2,1
+3254,ACC-03253,2,IDN Core Lab,2,C,6,1
+3255,ACC-03254,1,Reference Lab,1,C,8,1
+3256,ACC-03255,2,Hospital Lab,1,C,5,1
+3257,ACC-03256,2,Reference Lab,2,B,4,1
+3258,ACC-03257,1,Physician Office Lab,2,C,2,1
+3259,ACC-03258,3,Geriatric Psychiatry,4,C,2,1
+3260,ACC-03259,3,Neurology Practice,5,B,9,1
+3261,ACC-03260,3,Neurology Practice,1,B,8,1
+3262,ACC-03261,3,Primary Care,2,A,2,1
+3263,ACC-03262,1,IDN Core Lab,4,A,2,1
+3264,ACC-03263,3,Memory Clinic,2,C,6,1
+3265,ACC-03264,3,Memory Clinic,1,B,4,1
+3266,ACC-03265,3,Neurology Practice,1,B,2,1
+3267,ACC-03266,1,Hospital Lab,3,C,5,0
+3268,ACC-03267,3,Primary Care,1,C,5,1
+3269,ACC-03268,1,Physician Office Lab,1,B,6,1
+3270,ACC-03269,2,Physician Office Lab,4,C,8,1
+3271,ACC-03270,3,Neurology Practice,2,B,3,1
+3272,ACC-03271,3,Neurology Practice,5,B,8,1
+3273,ACC-03272,2,Hospital Lab,3,B,8,1
+3274,ACC-03273,1,IDN Core Lab,1,C,8,1
+3275,ACC-03274,3,Primary Care,1,A,10,1
+3276,ACC-03275,3,Geriatric Psychiatry,5,A,3,1
+3277,ACC-03276,1,Physician Office Lab,1,C,8,1
+3278,ACC-03277,3,Primary Care,2,C,1,1
+3279,ACC-03278,3,Geriatric Psychiatry,2,B,4,1
+3280,ACC-03279,1,Hospital Lab,5,A,8,1
+3281,ACC-03280,3,Neurology Practice,5,A,10,0
+3282,ACC-03281,1,IDN Core Lab,4,A,2,1
+3283,ACC-03282,3,Neurology Practice,1,B,8,1
+3284,ACC-03283,1,Physician Office Lab,1,C,4,1
+3285,ACC-03284,3,Geriatric Psychiatry,1,A,6,1
+3286,ACC-03285,3,Neurology Practice,1,A,9,1
+3287,ACC-03286,1,Physician Office Lab,5,C,9,1
+3288,ACC-03287,3,Neurology Practice,3,B,5,1
+3289,ACC-03288,1,Physician Office Lab,1,B,9,0
+3290,ACC-03289,1,IDN Core Lab,4,C,5,0
+3291,ACC-03290,3,Memory Clinic,1,A,3,1
+3292,ACC-03291,3,Primary Care,3,C,10,1
+3293,ACC-03292,3,Primary Care,1,A,4,1
+3294,ACC-03293,3,Geriatric Psychiatry,2,B,10,1
+3295,ACC-03294,1,IDN Core Lab,1,B,10,1
+3296,ACC-03295,2,Physician Office Lab,1,C,1,1
+3297,ACC-03296,3,Memory Clinic,5,B,8,1
+3298,ACC-03297,3,Primary Care,5,C,9,1
+3299,ACC-03298,2,Hospital Lab,3,C,3,1
+3300,ACC-03299,2,IDN Core Lab,4,B,5,0
+3301,ACC-03300,3,Neurology Practice,1,B,10,1
+3302,ACC-03301,1,IDN Core Lab,2,A,8,1
+3303,ACC-03302,3,Primary Care,1,C,4,1
+3304,ACC-03303,1,IDN Core Lab,1,A,4,1
+3305,ACC-03304,2,Reference Lab,2,B,2,1
+3306,ACC-03305,1,Hospital Lab,4,B,10,1
+3307,ACC-03306,3,Geriatric Psychiatry,4,B,9,1
+3308,ACC-03307,3,Neurology Practice,2,A,8,1
+3309,ACC-03308,2,Hospital Lab,2,B,5,1
+3310,ACC-03309,3,Neurology Practice,3,C,5,1
+3311,ACC-03310,2,Reference Lab,5,B,4,1
+3312,ACC-03311,1,Reference Lab,1,C,4,1
+3313,ACC-03312,3,Neurology Practice,2,B,1,0
+3314,ACC-03313,1,Hospital Lab,5,A,3,1
+3315,ACC-03314,1,Reference Lab,3,C,7,1
+3316,ACC-03315,3,Neurology Practice,4,C,3,1
+3317,ACC-03316,1,Reference Lab,2,C,2,1
+3318,ACC-03317,3,Memory Clinic,5,A,5,1
+3319,ACC-03318,2,Reference Lab,5,C,9,1
+3320,ACC-03319,1,Physician Office Lab,2,C,4,1
+3321,ACC-03320,2,Reference Lab,1,C,8,0
+3322,ACC-03321,1,Physician Office Lab,3,C,7,1
+3323,ACC-03322,3,Primary Care,1,B,4,0
+3324,ACC-03323,1,Reference Lab,1,C,7,1
+3325,ACC-03324,3,Memory Clinic,2,A,6,1
+3326,ACC-03325,1,Reference Lab,2,B,2,1
+3327,ACC-03326,1,IDN Core Lab,5,C,5,1
+3328,ACC-03327,3,Geriatric Psychiatry,1,B,3,1
+3329,ACC-03328,2,Physician Office Lab,2,A,6,1
+3330,ACC-03329,2,Physician Office Lab,3,A,1,1
+3331,ACC-03330,3,Geriatric Psychiatry,3,A,1,1
+3332,ACC-03331,1,Reference Lab,2,C,4,0
+3333,ACC-03332,2,Reference Lab,1,C,6,1
+3334,ACC-03333,3,Geriatric Psychiatry,2,C,5,1
+3335,ACC-03334,1,Reference Lab,5,C,1,1
+3336,ACC-03335,3,Memory Clinic,2,B,2,1
+3337,ACC-03336,2,Hospital Lab,3,C,2,1
+3338,ACC-03337,3,Memory Clinic,5,B,1,1
+3339,ACC-03338,1,Reference Lab,1,C,9,1
+3340,ACC-03339,1,Reference Lab,5,C,3,1
+3341,ACC-03340,2,Reference Lab,4,C,8,1
+3342,ACC-03341,3,Geriatric Psychiatry,3,C,5,1
+3343,ACC-03342,1,Physician Office Lab,5,A,10,0
+3344,ACC-03343,3,Geriatric Psychiatry,1,C,10,0
+3345,ACC-03344,2,Hospital Lab,5,A,7,1
+3346,ACC-03345,3,Primary Care,1,B,10,0
+3347,ACC-03346,3,Memory Clinic,2,A,5,1
+3348,ACC-03347,3,Memory Clinic,1,B,4,1
+3349,ACC-03348,3,Geriatric Psychiatry,3,C,2,1
+3350,ACC-03349,3,Memory Clinic,1,B,6,1
+3351,ACC-03350,3,Memory Clinic,2,A,7,0
+3352,ACC-03351,1,IDN Core Lab,1,B,6,0
+3353,ACC-03352,3,Memory Clinic,2,A,3,1
+3354,ACC-03353,3,Memory Clinic,1,A,4,1
+3355,ACC-03354,3,Neurology Practice,4,C,3,1
+3356,ACC-03355,2,Reference Lab,3,C,9,1
+3357,ACC-03356,3,Geriatric Psychiatry,4,B,2,1
+3358,ACC-03357,2,IDN Core Lab,4,B,3,1
+3359,ACC-03358,2,Physician Office Lab,1,B,4,1
+3360,ACC-03359,2,Reference Lab,1,C,5,1
+3361,ACC-03360,3,Primary Care,4,B,4,1
+3362,ACC-03361,1,IDN Core Lab,3,B,10,0
+3363,ACC-03362,3,Neurology Practice,3,B,6,1
+3364,ACC-03363,3,Neurology Practice,1,A,4,1
+3365,ACC-03364,3,Geriatric Psychiatry,2,B,4,1
+3366,ACC-03365,3,Neurology Practice,2,C,6,1
+3367,ACC-03366,2,Physician Office Lab,4,A,4,1
+3368,ACC-03367,3,Memory Clinic,5,C,9,0
+3369,ACC-03368,2,IDN Core Lab,3,B,2,1
+3370,ACC-03369,1,IDN Core Lab,4,B,4,1
+3371,ACC-03370,1,Hospital Lab,3,B,5,1
+3372,ACC-03371,1,Hospital Lab,5,B,10,1
+3373,ACC-03372,1,Physician Office Lab,5,B,3,1
+3374,ACC-03373,2,Physician Office Lab,1,B,3,1
+3375,ACC-03374,3,Geriatric Psychiatry,1,C,4,1
+3376,ACC-03375,1,Hospital Lab,5,C,7,0
+3377,ACC-03376,3,Geriatric Psychiatry,3,C,10,0
+3378,ACC-03377,3,Geriatric Psychiatry,2,B,1,1
+3379,ACC-03378,3,Memory Clinic,4,A,7,1
+3380,ACC-03379,3,Memory Clinic,2,A,6,1
+3381,ACC-03380,3,Geriatric Psychiatry,5,A,4,1
+3382,ACC-03381,1,Reference Lab,3,A,2,1
+3383,ACC-03382,2,Reference Lab,5,A,7,1
+3384,ACC-03383,2,Reference Lab,3,C,7,1
+3385,ACC-03384,1,Hospital Lab,2,B,2,1
+3386,ACC-03385,2,Reference Lab,5,A,7,1
+3387,ACC-03386,2,Physician Office Lab,2,C,6,1
+3388,ACC-03387,3,Neurology Practice,4,C,5,0
+3389,ACC-03388,1,Reference Lab,2,A,6,1
+3390,ACC-03389,3,Neurology Practice,2,A,10,0
+3391,ACC-03390,1,Reference Lab,4,B,5,1
+3392,ACC-03391,3,Memory Clinic,4,A,9,1
+3393,ACC-03392,2,Reference Lab,5,A,1,1
+3394,ACC-03393,3,Geriatric Psychiatry,4,C,8,1
+3395,ACC-03394,3,Memory Clinic,2,C,8,0
+3396,ACC-03395,1,Physician Office Lab,5,C,8,1
+3397,ACC-03396,3,Neurology Practice,5,A,4,1
+3398,ACC-03397,1,Hospital Lab,5,C,1,1
+3399,ACC-03398,3,Geriatric Psychiatry,5,A,1,1
+3400,ACC-03399,1,Physician Office Lab,4,B,4,1
+3401,ACC-03400,1,IDN Core Lab,4,A,2,1
+3402,ACC-03401,1,IDN Core Lab,3,B,3,1
+3403,ACC-03402,3,Geriatric Psychiatry,2,C,1,1
+3404,ACC-03403,3,Memory Clinic,5,A,4,0
+3405,ACC-03404,3,Memory Clinic,1,B,10,1
+3406,ACC-03405,1,Physician Office Lab,2,C,2,0
+3407,ACC-03406,2,Physician Office Lab,2,A,4,1
+3408,ACC-03407,2,Physician Office Lab,1,C,4,1
+3409,ACC-03408,2,Reference Lab,4,C,5,1
+3410,ACC-03409,2,Physician Office Lab,3,A,6,1
+3411,ACC-03410,2,Physician Office Lab,3,A,10,1
+3412,ACC-03411,3,Neurology Practice,3,B,2,1
+3413,ACC-03412,3,Primary Care,4,C,4,1
+3414,ACC-03413,1,Physician Office Lab,1,C,2,1
+3415,ACC-03414,3,Primary Care,3,C,1,1
+3416,ACC-03415,3,Geriatric Psychiatry,2,C,8,1
+3417,ACC-03416,3,Neurology Practice,5,B,3,1
+3418,ACC-03417,3,Memory Clinic,1,C,3,1
+3419,ACC-03418,2,Physician Office Lab,5,C,5,1
+3420,ACC-03419,3,Geriatric Psychiatry,1,A,5,0
+3421,ACC-03420,2,IDN Core Lab,1,C,5,0
+3422,ACC-03421,2,Physician Office Lab,5,C,9,1
+3423,ACC-03422,3,Memory Clinic,3,C,7,1
+3424,ACC-03423,3,Primary Care,2,C,4,0
+3425,ACC-03424,2,Physician Office Lab,3,C,2,1
+3426,ACC-03425,3,Primary Care,1,C,1,1
+3427,ACC-03426,3,Primary Care,1,A,8,0
+3428,ACC-03427,2,Hospital Lab,1,C,8,0
+3429,ACC-03428,3,Geriatric Psychiatry,2,C,7,1
+3430,ACC-03429,2,Reference Lab,1,C,8,0
+3431,ACC-03430,3,Geriatric Psychiatry,2,C,7,1
+3432,ACC-03431,3,Memory Clinic,5,A,7,0
+3433,ACC-03432,1,Physician Office Lab,2,B,10,1
+3434,ACC-03433,3,Geriatric Psychiatry,2,B,6,1
+3435,ACC-03434,1,IDN Core Lab,1,A,10,1
+3436,ACC-03435,3,Neurology Practice,5,C,8,1
+3437,ACC-03436,3,Memory Clinic,1,B,5,1
+3438,ACC-03437,3,Memory Clinic,2,B,4,1
+3439,ACC-03438,3,Primary Care,5,C,2,1
+3440,ACC-03439,3,Memory Clinic,2,C,4,0
+3441,ACC-03440,2,Physician Office Lab,2,A,6,1
+3442,ACC-03441,3,Primary Care,4,B,7,0
+3443,ACC-03442,3,Geriatric Psychiatry,1,C,9,1
+3444,ACC-03443,2,Reference Lab,2,A,2,1
+3445,ACC-03444,1,IDN Core Lab,3,C,2,0
+3446,ACC-03445,2,Hospital Lab,5,C,7,1
+3447,ACC-03446,3,Primary Care,5,C,1,1
+3448,ACC-03447,3,Memory Clinic,3,B,9,1
+3449,ACC-03448,3,Geriatric Psychiatry,2,C,3,1
+3450,ACC-03449,2,Hospital Lab,3,A,6,0
+3451,ACC-03450,3,Geriatric Psychiatry,5,C,1,1
+3452,ACC-03451,3,Geriatric Psychiatry,4,B,1,1
+3453,ACC-03452,2,Hospital Lab,1,B,9,0
+3454,ACC-03453,2,Physician Office Lab,5,C,7,1
+3455,ACC-03454,3,Neurology Practice,5,B,10,1
+3456,ACC-03455,3,Neurology Practice,1,B,9,1
+3457,ACC-03456,2,Physician Office Lab,3,A,10,1
+3458,ACC-03457,3,Geriatric Psychiatry,5,C,2,1
+3459,ACC-03458,3,Geriatric Psychiatry,1,B,8,1
+3460,ACC-03459,1,IDN Core Lab,5,B,7,1
+3461,ACC-03460,2,Physician Office Lab,1,B,3,1
+3462,ACC-03461,3,Memory Clinic,2,C,2,0
+3463,ACC-03462,1,Hospital Lab,5,C,4,1
+3464,ACC-03463,3,Primary Care,5,A,9,1
+3465,ACC-03464,1,Hospital Lab,1,A,5,1
+3466,ACC-03465,2,Hospital Lab,5,C,3,1
+3467,ACC-03466,2,Physician Office Lab,4,B,6,1
+3468,ACC-03467,3,Neurology Practice,5,C,7,1
+3469,ACC-03468,1,IDN Core Lab,2,B,7,1
+3470,ACC-03469,2,Reference Lab,5,A,6,1
+3471,ACC-03470,1,Reference Lab,4,A,4,1
+3472,ACC-03471,1,Physician Office Lab,4,C,4,1
+3473,ACC-03472,3,Neurology Practice,2,B,4,1
+3474,ACC-03473,1,Hospital Lab,2,B,10,1
+3475,ACC-03474,1,Hospital Lab,1,A,5,1
+3476,ACC-03475,1,Physician Office Lab,1,A,10,1
+3477,ACC-03476,2,Physician Office Lab,5,B,4,1
+3478,ACC-03477,1,IDN Core Lab,3,B,4,0
+3479,ACC-03478,3,Memory Clinic,3,C,4,1
+3480,ACC-03479,3,Neurology Practice,2,A,4,1
+3481,ACC-03480,1,IDN Core Lab,4,B,4,1
+3482,ACC-03481,1,IDN Core Lab,2,C,7,1
+3483,ACC-03482,2,Hospital Lab,5,C,10,1
+3484,ACC-03483,3,Geriatric Psychiatry,1,C,3,1
+3485,ACC-03484,1,Physician Office Lab,1,A,4,1
+3486,ACC-03485,3,Primary Care,2,B,4,1
+3487,ACC-03486,3,Geriatric Psychiatry,1,B,3,1
+3488,ACC-03487,1,Hospital Lab,4,C,1,1
+3489,ACC-03488,2,Reference Lab,4,C,1,1
+3490,ACC-03489,3,Memory Clinic,2,C,1,1
+3491,ACC-03490,3,Neurology Practice,4,B,2,1
+3492,ACC-03491,1,Hospital Lab,5,B,7,1
+3493,ACC-03492,3,Memory Clinic,4,C,2,1
+3494,ACC-03493,3,Primary Care,4,C,4,1
+3495,ACC-03494,2,IDN Core Lab,2,C,5,0
+3496,ACC-03495,3,Primary Care,3,C,1,0
+3497,ACC-03496,2,IDN Core Lab,2,A,5,1
+3498,ACC-03497,3,Memory Clinic,1,C,10,1
+3499,ACC-03498,2,IDN Core Lab,1,B,1,0
+3500,ACC-03499,2,Hospital Lab,3,C,3,0
+3501,ACC-03500,3,Primary Care,1,B,1,1
+3502,ACC-03501,1,Physician Office Lab,2,C,3,1
+3503,ACC-03502,2,IDN Core Lab,5,B,9,1
+3504,ACC-03503,1,Physician Office Lab,2,A,6,1
+3505,ACC-03504,3,Neurology Practice,2,C,4,0
+3506,ACC-03505,2,Reference Lab,2,C,9,1
+3507,ACC-03506,3,Primary Care,3,C,10,1
+3508,ACC-03507,3,Neurology Practice,2,C,9,0
+3509,ACC-03508,2,Physician Office Lab,3,A,6,0
+3510,ACC-03509,3,Neurology Practice,1,A,4,1
+3511,ACC-03510,2,Hospital Lab,3,B,6,0
+3512,ACC-03511,2,Hospital Lab,3,B,8,1
+3513,ACC-03512,1,Physician Office Lab,2,B,5,1
+3514,ACC-03513,1,Reference Lab,5,B,6,1
+3515,ACC-03514,3,Memory Clinic,1,C,8,1
+3516,ACC-03515,3,Geriatric Psychiatry,2,A,6,1
+3517,ACC-03516,2,Reference Lab,2,C,8,0
+3518,ACC-03517,1,Hospital Lab,5,C,5,1
+3519,ACC-03518,1,Hospital Lab,1,C,9,0
+3520,ACC-03519,1,IDN Core Lab,3,C,2,1
+3521,ACC-03520,3,Geriatric Psychiatry,2,C,7,1
+3522,ACC-03521,2,Hospital Lab,5,C,9,1
+3523,ACC-03522,3,Memory Clinic,3,B,5,1
+3524,ACC-03523,2,Reference Lab,2,B,6,0
+3525,ACC-03524,3,Neurology Practice,3,C,7,1
+3526,ACC-03525,3,Primary Care,4,B,5,1
+3527,ACC-03526,1,Reference Lab,1,C,5,0
+3528,ACC-03527,3,Memory Clinic,1,B,7,1
+3529,ACC-03528,3,Neurology Practice,1,C,8,1
+3530,ACC-03529,1,Reference Lab,2,B,5,1
+3531,ACC-03530,1,Hospital Lab,3,B,9,1
+3532,ACC-03531,2,Hospital Lab,5,C,9,1
+3533,ACC-03532,3,Memory Clinic,3,B,8,1
+3534,ACC-03533,3,Primary Care,1,B,2,1
+3535,ACC-03534,1,Hospital Lab,3,B,4,1
+3536,ACC-03535,3,Geriatric Psychiatry,2,A,1,1
+3537,ACC-03536,3,Memory Clinic,3,B,10,0
+3538,ACC-03537,3,Geriatric Psychiatry,3,C,6,1
+3539,ACC-03538,1,IDN Core Lab,4,A,4,1
+3540,ACC-03539,3,Neurology Practice,5,B,3,1
+3541,ACC-03540,3,Neurology Practice,1,C,7,1
+3542,ACC-03541,3,Memory Clinic,4,B,2,1
+3543,ACC-03542,1,Hospital Lab,5,B,4,0
+3544,ACC-03543,1,Physician Office Lab,1,C,1,1
+3545,ACC-03544,2,Hospital Lab,4,C,8,1
+3546,ACC-03545,3,Primary Care,1,B,8,1
+3547,ACC-03546,3,Geriatric Psychiatry,3,B,8,0
+3548,ACC-03547,3,Primary Care,2,C,10,1
+3549,ACC-03548,2,Hospital Lab,1,C,5,1
+3550,ACC-03549,3,Memory Clinic,3,C,7,0
+3551,ACC-03550,3,Primary Care,2,A,9,1
+3552,ACC-03551,1,Physician Office Lab,1,C,8,1
+3553,ACC-03552,1,IDN Core Lab,3,C,5,0
+3554,ACC-03553,3,Geriatric Psychiatry,3,B,9,1
+3555,ACC-03554,3,Memory Clinic,1,C,8,1
+3556,ACC-03555,1,Hospital Lab,5,A,9,1
+3557,ACC-03556,3,Geriatric Psychiatry,5,B,5,1
+3558,ACC-03557,2,IDN Core Lab,2,C,4,1
+3559,ACC-03558,3,Neurology Practice,5,A,8,0
+3560,ACC-03559,3,Neurology Practice,5,C,1,1
+3561,ACC-03560,1,Physician Office Lab,2,C,9,1
+3562,ACC-03561,1,Reference Lab,5,C,7,1
+3563,ACC-03562,3,Geriatric Psychiatry,4,A,9,1
+3564,ACC-03563,3,Memory Clinic,5,C,10,1
+3565,ACC-03564,2,Physician Office Lab,1,C,8,1
+3566,ACC-03565,2,Reference Lab,4,A,9,1
+3567,ACC-03566,2,Reference Lab,1,C,7,1
+3568,ACC-03567,3,Neurology Practice,4,B,1,1
+3569,ACC-03568,3,Memory Clinic,1,C,4,1
+3570,ACC-03569,1,IDN Core Lab,4,C,10,1
+3571,ACC-03570,1,Physician Office Lab,5,C,3,0
+3572,ACC-03571,2,Hospital Lab,3,B,1,1
+3573,ACC-03572,1,IDN Core Lab,2,C,5,1
+3574,ACC-03573,1,Physician Office Lab,1,A,6,1
+3575,ACC-03574,3,Memory Clinic,1,C,5,1
+3576,ACC-03575,3,Primary Care,5,C,9,1
+3577,ACC-03576,1,Hospital Lab,4,C,2,0
+3578,ACC-03577,3,Primary Care,4,C,5,1
+3579,ACC-03578,3,Geriatric Psychiatry,5,C,6,0
+3580,ACC-03579,3,Primary Care,3,C,7,1
+3581,ACC-03580,3,Geriatric Psychiatry,2,C,9,1
+3582,ACC-03581,2,Hospital Lab,2,B,3,1
+3583,ACC-03582,3,Primary Care,1,C,9,1
+3584,ACC-03583,2,IDN Core Lab,5,C,10,0
+3585,ACC-03584,3,Memory Clinic,5,C,10,0
+3586,ACC-03585,1,Physician Office Lab,2,B,1,0
+3587,ACC-03586,3,Geriatric Psychiatry,3,B,4,1
+3588,ACC-03587,1,Reference Lab,3,A,7,1
+3589,ACC-03588,2,Physician Office Lab,3,C,3,0
+3590,ACC-03589,2,Reference Lab,3,B,1,1
+3591,ACC-03590,3,Geriatric Psychiatry,1,C,3,1
+3592,ACC-03591,1,Physician Office Lab,4,A,1,1
+3593,ACC-03592,2,Physician Office Lab,4,C,8,1
+3594,ACC-03593,1,Reference Lab,1,B,3,1
+3595,ACC-03594,2,Physician Office Lab,3,C,7,1
+3596,ACC-03595,1,Physician Office Lab,2,C,1,1
+3597,ACC-03596,2,Physician Office Lab,5,C,8,1
+3598,ACC-03597,2,IDN Core Lab,5,A,3,1
+3599,ACC-03598,3,Memory Clinic,3,C,3,0
+3600,ACC-03599,2,IDN Core Lab,2,C,2,1
+3601,ACC-03600,1,Hospital Lab,5,B,1,1
+3602,ACC-03601,3,Neurology Practice,2,B,10,1
+3603,ACC-03602,1,Physician Office Lab,3,C,10,1
+3604,ACC-03603,3,Primary Care,2,C,1,1
+3605,ACC-03604,2,Hospital Lab,1,C,3,0
+3606,ACC-03605,1,Physician Office Lab,5,C,7,1
+3607,ACC-03606,3,Memory Clinic,2,B,6,1
+3608,ACC-03607,2,IDN Core Lab,4,B,7,1
+3609,ACC-03608,3,Geriatric Psychiatry,4,C,10,1
+3610,ACC-03609,2,Reference Lab,4,B,9,1
+3611,ACC-03610,2,IDN Core Lab,1,C,4,1
+3612,ACC-03611,2,IDN Core Lab,2,C,4,1
+3613,ACC-03612,2,Reference Lab,5,A,4,0
+3614,ACC-03613,3,Memory Clinic,2,B,2,1
+3615,ACC-03614,1,Hospital Lab,1,B,6,1
+3616,ACC-03615,2,Physician Office Lab,4,A,2,1
+3617,ACC-03616,1,Physician Office Lab,4,B,2,1
+3618,ACC-03617,3,Neurology Practice,3,A,2,1
+3619,ACC-03618,1,Reference Lab,2,A,8,1
+3620,ACC-03619,2,Reference Lab,2,B,6,0
+3621,ACC-03620,2,Hospital Lab,1,C,4,1
+3622,ACC-03621,3,Memory Clinic,3,C,6,0
+3623,ACC-03622,3,Geriatric Psychiatry,5,B,8,1
+3624,ACC-03623,1,IDN Core Lab,4,C,8,0
+3625,ACC-03624,2,Physician Office Lab,3,C,5,1
+3626,ACC-03625,2,Reference Lab,3,C,9,1
+3627,ACC-03626,3,Memory Clinic,4,C,4,1
+3628,ACC-03627,2,Physician Office Lab,3,C,9,1
+3629,ACC-03628,1,IDN Core Lab,5,B,2,0
+3630,ACC-03629,3,Memory Clinic,3,C,2,0
+3631,ACC-03630,1,Hospital Lab,1,C,8,1
+3632,ACC-03631,1,Physician Office Lab,3,B,8,1
+3633,ACC-03632,3,Primary Care,1,C,9,1
+3634,ACC-03633,3,Primary Care,3,B,1,1
+3635,ACC-03634,3,Memory Clinic,5,C,10,1
+3636,ACC-03635,1,Reference Lab,4,C,9,1
+3637,ACC-03636,2,Reference Lab,2,C,6,1
+3638,ACC-03637,2,Physician Office Lab,4,A,6,1
+3639,ACC-03638,3,Primary Care,1,B,2,0
+3640,ACC-03639,3,Memory Clinic,3,C,7,1
+3641,ACC-03640,2,Physician Office Lab,2,B,8,1
+3642,ACC-03641,2,Physician Office Lab,3,C,7,1
+3643,ACC-03642,1,Reference Lab,5,A,3,1
+3644,ACC-03643,3,Geriatric Psychiatry,1,C,6,1
+3645,ACC-03644,2,Physician Office Lab,4,B,2,1
+3646,ACC-03645,3,Neurology Practice,4,C,6,1
+3647,ACC-03646,3,Geriatric Psychiatry,4,C,9,1
+3648,ACC-03647,1,Physician Office Lab,5,C,10,1
+3649,ACC-03648,3,Primary Care,3,B,8,0
+3650,ACC-03649,3,Geriatric Psychiatry,1,C,4,1
+3651,ACC-03650,3,Geriatric Psychiatry,4,B,4,1
+3652,ACC-03651,1,Physician Office Lab,3,C,8,1
+3653,ACC-03652,1,Hospital Lab,5,B,1,1
+3654,ACC-03653,1,Hospital Lab,4,B,4,1
+3655,ACC-03654,2,Reference Lab,4,C,6,1
+3656,ACC-03655,1,Reference Lab,2,B,1,1
+3657,ACC-03656,3,Neurology Practice,3,B,9,0
+3658,ACC-03657,2,Reference Lab,5,A,4,1
+3659,ACC-03658,2,Physician Office Lab,2,B,9,1
+3660,ACC-03659,3,Primary Care,3,C,2,1
+3661,ACC-03660,3,Primary Care,4,C,1,1
+3662,ACC-03661,2,Reference Lab,1,C,5,1
+3663,ACC-03662,3,Geriatric Psychiatry,4,C,10,1
+3664,ACC-03663,2,Hospital Lab,1,A,1,1
+3665,ACC-03664,3,Primary Care,5,C,2,0
+3666,ACC-03665,2,Reference Lab,3,B,8,1
+3667,ACC-03666,3,Memory Clinic,1,A,2,1
+3668,ACC-03667,3,Neurology Practice,4,B,6,1
+3669,ACC-03668,3,Primary Care,5,B,1,1
+3670,ACC-03669,1,Physician Office Lab,1,C,1,1
+3671,ACC-03670,3,Neurology Practice,1,A,4,1
+3672,ACC-03671,2,Physician Office Lab,3,B,7,1
+3673,ACC-03672,3,Memory Clinic,3,C,6,1
+3674,ACC-03673,1,Hospital Lab,1,C,10,0
+3675,ACC-03674,2,Hospital Lab,3,B,1,1
+3676,ACC-03675,3,Geriatric Psychiatry,3,B,1,1
+3677,ACC-03676,3,Memory Clinic,5,C,8,1
+3678,ACC-03677,1,Reference Lab,5,C,4,0
+3679,ACC-03678,3,Memory Clinic,1,B,3,1
+3680,ACC-03679,1,IDN Core Lab,4,B,9,1
+3681,ACC-03680,2,Reference Lab,3,B,4,1
+3682,ACC-03681,1,Physician Office Lab,2,B,1,1
+3683,ACC-03682,1,Reference Lab,1,C,1,1
+3684,ACC-03683,1,Reference Lab,4,C,10,1
+3685,ACC-03684,3,Neurology Practice,5,C,2,1
+3686,ACC-03685,3,Memory Clinic,1,B,10,1
+3687,ACC-03686,1,Reference Lab,1,C,2,1
+3688,ACC-03687,3,Memory Clinic,3,A,4,1
+3689,ACC-03688,2,Reference Lab,5,C,1,1
+3690,ACC-03689,3,Neurology Practice,4,C,5,1
+3691,ACC-03690,3,Memory Clinic,2,C,10,0
+3692,ACC-03691,3,Neurology Practice,5,B,10,1
+3693,ACC-03692,3,Neurology Practice,3,B,4,1
+3694,ACC-03693,3,Memory Clinic,3,B,1,1
+3695,ACC-03694,1,Hospital Lab,1,A,7,1
+3696,ACC-03695,3,Neurology Practice,1,B,4,1
+3697,ACC-03696,3,Geriatric Psychiatry,3,B,9,1
+3698,ACC-03697,1,Reference Lab,5,B,1,0
+3699,ACC-03698,1,IDN Core Lab,4,C,1,1
+3700,ACC-03699,2,IDN Core Lab,5,A,8,0
+3701,ACC-03700,1,IDN Core Lab,3,C,7,1
+3702,ACC-03701,3,Geriatric Psychiatry,3,B,7,1
+3703,ACC-03702,1,Physician Office Lab,3,C,6,1
+3704,ACC-03703,1,Physician Office Lab,2,C,9,1
+3705,ACC-03704,1,Reference Lab,1,C,7,1
+3706,ACC-03705,3,Memory Clinic,5,A,2,1
+3707,ACC-03706,3,Geriatric Psychiatry,1,A,9,1
+3708,ACC-03707,3,Memory Clinic,5,A,6,0
+3709,ACC-03708,1,Reference Lab,5,C,2,1
+3710,ACC-03709,3,Neurology Practice,1,B,8,1
+3711,ACC-03710,2,IDN Core Lab,1,C,7,0
+3712,ACC-03711,1,Reference Lab,4,B,3,1
+3713,ACC-03712,1,Reference Lab,3,B,2,1
+3714,ACC-03713,2,Physician Office Lab,3,B,9,1
+3715,ACC-03714,2,Physician Office Lab,2,A,9,1
+3716,ACC-03715,3,Memory Clinic,5,B,2,1
+3717,ACC-03716,1,IDN Core Lab,3,A,7,1
+3718,ACC-03717,3,Geriatric Psychiatry,3,B,2,1
+3719,ACC-03718,2,Physician Office Lab,5,B,10,0
+3720,ACC-03719,1,Hospital Lab,4,C,3,1
+3721,ACC-03720,3,Neurology Practice,4,A,2,0
+3722,ACC-03721,3,Geriatric Psychiatry,5,A,8,1
+3723,ACC-03722,3,Geriatric Psychiatry,5,B,10,1
+3724,ACC-03723,2,Reference Lab,5,C,8,1
+3725,ACC-03724,1,Hospital Lab,5,B,9,1
+3726,ACC-03725,3,Geriatric Psychiatry,1,C,9,1
+3727,ACC-03726,2,IDN Core Lab,5,B,3,1
+3728,ACC-03727,3,Geriatric Psychiatry,5,B,7,1
+3729,ACC-03728,1,Physician Office Lab,3,B,7,0
+3730,ACC-03729,2,Hospital Lab,3,B,10,1
+3731,ACC-03730,3,Geriatric Psychiatry,3,B,6,1
+3732,ACC-03731,3,Primary Care,3,B,6,1
+3733,ACC-03732,3,Memory Clinic,1,C,9,1
+3734,ACC-03733,3,Neurology Practice,3,C,10,1
+3735,ACC-03734,2,Reference Lab,2,C,1,1
+3736,ACC-03735,3,Geriatric Psychiatry,3,C,9,1
+3737,ACC-03736,1,Hospital Lab,5,B,4,1
+3738,ACC-03737,3,Memory Clinic,1,C,5,1
+3739,ACC-03738,3,Geriatric Psychiatry,5,B,5,1
+3740,ACC-03739,3,Geriatric Psychiatry,3,C,1,1
+3741,ACC-03740,2,Physician Office Lab,5,C,6,1
+3742,ACC-03741,1,IDN Core Lab,1,C,10,1
+3743,ACC-03742,3,Geriatric Psychiatry,1,B,8,1
+3744,ACC-03743,3,Memory Clinic,3,A,5,0
+3745,ACC-03744,2,IDN Core Lab,3,C,1,0
+3746,ACC-03745,1,IDN Core Lab,4,A,8,1
+3747,ACC-03746,3,Neurology Practice,3,A,7,1
+3748,ACC-03747,3,Primary Care,3,A,5,1
+3749,ACC-03748,3,Neurology Practice,5,C,4,1
+3750,ACC-03749,3,Memory Clinic,2,B,4,1
+3751,ACC-03750,3,Neurology Practice,2,C,3,1
+3752,ACC-03751,3,Memory Clinic,5,C,4,0
+3753,ACC-03752,3,Neurology Practice,2,C,2,1
+3754,ACC-03753,2,Hospital Lab,3,A,4,1
+3755,ACC-03754,1,IDN Core Lab,3,B,10,1
+3756,ACC-03755,1,Hospital Lab,2,C,6,1
+3757,ACC-03756,3,Geriatric Psychiatry,2,A,6,1
+3758,ACC-03757,1,Physician Office Lab,1,B,9,1
+3759,ACC-03758,3,Primary Care,2,C,9,1
+3760,ACC-03759,2,IDN Core Lab,2,C,6,1
+3761,ACC-03760,3,Memory Clinic,1,C,4,1
+3762,ACC-03761,1,Reference Lab,5,C,6,1
+3763,ACC-03762,2,Hospital Lab,5,B,9,1
+3764,ACC-03763,2,IDN Core Lab,1,C,4,1
+3765,ACC-03764,3,Primary Care,3,C,10,1
+3766,ACC-03765,1,Reference Lab,2,B,5,1
+3767,ACC-03766,2,Hospital Lab,1,A,8,1
+3768,ACC-03767,3,Memory Clinic,1,B,2,0
+3769,ACC-03768,3,Geriatric Psychiatry,4,C,10,1
+3770,ACC-03769,3,Memory Clinic,1,A,8,1
+3771,ACC-03770,3,Primary Care,5,B,9,1
+3772,ACC-03771,3,Geriatric Psychiatry,4,B,8,1
+3773,ACC-03772,2,Physician Office Lab,4,C,5,1
+3774,ACC-03773,2,IDN Core Lab,5,B,3,0
+3775,ACC-03774,1,IDN Core Lab,1,B,9,1
+3776,ACC-03775,1,Reference Lab,3,C,6,0
+3777,ACC-03776,3,Memory Clinic,1,C,3,1
+3778,ACC-03777,3,Geriatric Psychiatry,3,B,3,1
+3779,ACC-03778,3,Primary Care,2,A,2,1
+3780,ACC-03779,2,Reference Lab,1,A,10,1
+3781,ACC-03780,3,Memory Clinic,4,A,8,0
+3782,ACC-03781,2,Physician Office Lab,2,A,3,0
+3783,ACC-03782,1,Physician Office Lab,1,B,3,1
+3784,ACC-03783,1,IDN Core Lab,5,A,9,1
+3785,ACC-03784,3,Memory Clinic,1,C,8,1
+3786,ACC-03785,3,Neurology Practice,1,A,8,1
+3787,ACC-03786,3,Memory Clinic,1,C,1,1
+3788,ACC-03787,3,Geriatric Psychiatry,3,A,10,0
+3789,ACC-03788,3,Neurology Practice,5,B,5,1
+3790,ACC-03789,2,Reference Lab,5,C,8,1
+3791,ACC-03790,3,Memory Clinic,4,C,2,1
+3792,ACC-03791,1,Physician Office Lab,3,A,7,1
+3793,ACC-03792,1,Hospital Lab,5,C,1,1
+3794,ACC-03793,2,Hospital Lab,4,C,5,1
+3795,ACC-03794,1,IDN Core Lab,5,B,3,1
+3796,ACC-03795,3,Memory Clinic,1,C,5,1
+3797,ACC-03796,1,Hospital Lab,3,B,9,1
+3798,ACC-03797,2,IDN Core Lab,1,B,1,0
+3799,ACC-03798,2,Reference Lab,3,A,5,1
+3800,ACC-03799,3,Memory Clinic,5,A,10,1
+3801,ACC-03800,1,Physician Office Lab,4,B,10,0
+3802,ACC-03801,3,Primary Care,4,A,6,1
+3803,ACC-03802,2,Hospital Lab,2,A,7,1
+3804,ACC-03803,1,Reference Lab,2,A,6,1
+3805,ACC-03804,1,Hospital Lab,5,C,5,0
+3806,ACC-03805,3,Memory Clinic,2,C,2,1
+3807,ACC-03806,2,Hospital Lab,1,C,9,1
+3808,ACC-03807,2,Physician Office Lab,2,C,5,1
+3809,ACC-03808,1,IDN Core Lab,4,C,9,1
+3810,ACC-03809,2,Hospital Lab,3,B,3,1
+3811,ACC-03810,2,IDN Core Lab,1,B,2,1
+3812,ACC-03811,1,IDN Core Lab,4,C,3,1
+3813,ACC-03812,3,Geriatric Psychiatry,4,A,7,1
+3814,ACC-03813,3,Neurology Practice,3,A,6,1
+3815,ACC-03814,2,IDN Core Lab,1,C,7,1
+3816,ACC-03815,1,Physician Office Lab,1,B,3,1
+3817,ACC-03816,2,Reference Lab,2,B,4,1
+3818,ACC-03817,3,Primary Care,2,C,7,0
+3819,ACC-03818,3,Geriatric Psychiatry,1,C,6,1
+3820,ACC-03819,1,Physician Office Lab,5,C,4,1
+3821,ACC-03820,3,Primary Care,5,C,4,1
+3822,ACC-03821,2,Reference Lab,1,B,4,1
+3823,ACC-03822,1,IDN Core Lab,3,C,3,1
+3824,ACC-03823,3,Memory Clinic,2,A,8,0
+3825,ACC-03824,1,Reference Lab,2,C,2,1
+3826,ACC-03825,2,IDN Core Lab,3,B,7,1
+3827,ACC-03826,3,Neurology Practice,2,B,1,1
+3828,ACC-03827,3,Neurology Practice,2,C,5,1
+3829,ACC-03828,1,Physician Office Lab,1,C,5,0
+3830,ACC-03829,3,Primary Care,4,B,10,1
+3831,ACC-03830,3,Geriatric Psychiatry,3,A,7,1
+3832,ACC-03831,3,Memory Clinic,1,B,4,1
+3833,ACC-03832,1,Hospital Lab,2,C,4,1
+3834,ACC-03833,1,Reference Lab,1,C,8,1
+3835,ACC-03834,3,Primary Care,2,A,9,0
+3836,ACC-03835,3,Neurology Practice,1,C,8,1
+3837,ACC-03836,2,Physician Office Lab,3,B,10,0
+3838,ACC-03837,3,Geriatric Psychiatry,3,C,3,1
+3839,ACC-03838,1,Physician Office Lab,3,C,5,0
+3840,ACC-03839,3,Neurology Practice,2,C,5,1
+3841,ACC-03840,3,Geriatric Psychiatry,4,A,5,1
+3842,ACC-03841,3,Neurology Practice,5,C,1,1
+3843,ACC-03842,3,Memory Clinic,2,C,3,1
+3844,ACC-03843,3,Memory Clinic,2,B,4,0
+3845,ACC-03844,2,Hospital Lab,5,C,5,1
+3846,ACC-03845,1,Physician Office Lab,3,C,3,1
+3847,ACC-03846,2,Reference Lab,3,C,4,1
+3848,ACC-03847,3,Geriatric Psychiatry,4,C,8,1
+3849,ACC-03848,3,Geriatric Psychiatry,2,C,4,1
+3850,ACC-03849,2,Hospital Lab,1,A,3,1
+3851,ACC-03850,1,Physician Office Lab,4,A,5,1
+3852,ACC-03851,3,Primary Care,3,B,1,1
+3853,ACC-03852,3,Memory Clinic,2,C,3,0
+3854,ACC-03853,2,Physician Office Lab,1,B,1,1
+3855,ACC-03854,3,Primary Care,5,B,1,1
+3856,ACC-03855,1,IDN Core Lab,4,A,8,1
+3857,ACC-03856,2,Hospital Lab,2,C,1,1
+3858,ACC-03857,2,Reference Lab,1,C,2,1
+3859,ACC-03858,1,IDN Core Lab,3,A,2,0
+3860,ACC-03859,2,Physician Office Lab,1,A,7,0
+3861,ACC-03860,3,Neurology Practice,2,C,4,0
+3862,ACC-03861,1,Hospital Lab,5,B,3,1
+3863,ACC-03862,1,Physician Office Lab,4,C,8,1
+3864,ACC-03863,2,IDN Core Lab,5,C,3,1
+3865,ACC-03864,2,IDN Core Lab,2,C,10,0
+3866,ACC-03865,3,Geriatric Psychiatry,1,A,9,1
+3867,ACC-03866,3,Primary Care,5,C,9,1
+3868,ACC-03867,3,Primary Care,5,C,7,1
+3869,ACC-03868,1,IDN Core Lab,3,A,3,0
+3870,ACC-03869,1,Reference Lab,1,C,7,1
+3871,ACC-03870,2,Reference Lab,4,C,8,1
+3872,ACC-03871,3,Geriatric Psychiatry,1,A,10,1
+3873,ACC-03872,1,Reference Lab,5,B,1,1
+3874,ACC-03873,3,Memory Clinic,4,B,9,1
+3875,ACC-03874,3,Geriatric Psychiatry,1,A,9,0
+3876,ACC-03875,3,Memory Clinic,1,A,9,1
+3877,ACC-03876,2,Reference Lab,1,B,3,1
+3878,ACC-03877,3,Primary Care,4,C,2,0
+3879,ACC-03878,1,IDN Core Lab,1,C,7,1
+3880,ACC-03879,3,Primary Care,3,C,2,1
+3881,ACC-03880,2,Reference Lab,2,C,2,1
+3882,ACC-03881,3,Geriatric Psychiatry,3,C,10,1
+3883,ACC-03882,1,Reference Lab,4,A,10,1
+3884,ACC-03883,3,Primary Care,1,B,6,1
+3885,ACC-03884,1,Hospital Lab,1,C,7,0
+3886,ACC-03885,1,Reference Lab,2,C,6,1
+3887,ACC-03886,2,Hospital Lab,5,B,8,1
+3888,ACC-03887,1,Reference Lab,2,C,6,1
+3889,ACC-03888,1,Hospital Lab,2,C,7,0
+3890,ACC-03889,3,Geriatric Psychiatry,3,C,8,0
+3891,ACC-03890,1,Reference Lab,1,C,8,1
+3892,ACC-03891,3,Neurology Practice,4,C,6,1
+3893,ACC-03892,1,Hospital Lab,2,C,8,1
+3894,ACC-03893,3,Neurology Practice,5,A,2,1
+3895,ACC-03894,3,Memory Clinic,3,C,1,0
+3896,ACC-03895,2,Hospital Lab,3,C,2,1
+3897,ACC-03896,3,Geriatric Psychiatry,2,B,8,1
+3898,ACC-03897,3,Primary Care,1,C,4,1
+3899,ACC-03898,3,Memory Clinic,1,A,8,1
+3900,ACC-03899,1,Physician Office Lab,5,C,9,0
+3901,ACC-03900,3,Memory Clinic,5,C,8,1
+3902,ACC-03901,3,Neurology Practice,1,B,5,1
+3903,ACC-03902,1,Hospital Lab,5,C,2,1
+3904,ACC-03903,1,Hospital Lab,3,A,9,1
+3905,ACC-03904,2,Physician Office Lab,4,C,4,1
+3906,ACC-03905,1,Hospital Lab,5,C,6,1
+3907,ACC-03906,2,Hospital Lab,5,B,8,1
+3908,ACC-03907,3,Memory Clinic,3,C,10,1
+3909,ACC-03908,3,Neurology Practice,3,A,6,0
+3910,ACC-03909,2,Reference Lab,4,B,9,1
+3911,ACC-03910,1,Reference Lab,1,C,8,1
+3912,ACC-03911,3,Geriatric Psychiatry,2,A,4,1
+3913,ACC-03912,3,Neurology Practice,5,A,4,1
+3914,ACC-03913,3,Primary Care,1,C,6,1
+3915,ACC-03914,3,Memory Clinic,2,B,8,1
+3916,ACC-03915,3,Memory Clinic,2,B,8,1
+3917,ACC-03916,2,Hospital Lab,3,C,8,1
+3918,ACC-03917,1,IDN Core Lab,1,B,1,0
+3919,ACC-03918,3,Neurology Practice,5,B,5,1
+3920,ACC-03919,3,Geriatric Psychiatry,4,B,2,0
+3921,ACC-03920,3,Memory Clinic,1,A,1,1
+3922,ACC-03921,3,Memory Clinic,2,C,8,1
+3923,ACC-03922,1,Physician Office Lab,1,A,10,1
+3924,ACC-03923,1,IDN Core Lab,1,C,10,1
+3925,ACC-03924,3,Memory Clinic,2,A,9,0
+3926,ACC-03925,2,Hospital Lab,2,B,4,1
+3927,ACC-03926,1,Hospital Lab,3,C,2,1
+3928,ACC-03927,3,Primary Care,2,A,4,1
+3929,ACC-03928,1,Hospital Lab,2,C,5,1
+3930,ACC-03929,3,Geriatric Psychiatry,5,B,9,1
+3931,ACC-03930,3,Primary Care,5,C,4,1
+3932,ACC-03931,3,Neurology Practice,1,B,3,1
+3933,ACC-03932,3,Neurology Practice,3,A,10,1
+3934,ACC-03933,1,Reference Lab,1,C,10,1
+3935,ACC-03934,3,Memory Clinic,4,B,8,0
+3936,ACC-03935,3,Neurology Practice,5,C,2,1
+3937,ACC-03936,3,Primary Care,4,C,6,1
+3938,ACC-03937,3,Primary Care,4,C,3,1
+3939,ACC-03938,1,Reference Lab,5,A,2,1
+3940,ACC-03939,2,IDN Core Lab,1,C,1,1
+3941,ACC-03940,1,IDN Core Lab,4,A,4,1
+3942,ACC-03941,3,Geriatric Psychiatry,1,A,1,1
+3943,ACC-03942,1,Hospital Lab,1,A,1,0
+3944,ACC-03943,1,Hospital Lab,3,B,3,1
+3945,ACC-03944,3,Primary Care,2,B,5,1
+3946,ACC-03945,3,Memory Clinic,1,C,7,1
+3947,ACC-03946,3,Neurology Practice,1,B,9,1
+3948,ACC-03947,2,IDN Core Lab,5,B,3,1
+3949,ACC-03948,3,Primary Care,1,A,8,1
+3950,ACC-03949,3,Geriatric Psychiatry,2,C,10,1
+3951,ACC-03950,1,IDN Core Lab,2,C,8,0
+3952,ACC-03951,1,IDN Core Lab,5,B,4,1
+3953,ACC-03952,3,Geriatric Psychiatry,1,C,4,1
+3954,ACC-03953,1,IDN Core Lab,3,C,6,1
+3955,ACC-03954,3,Neurology Practice,3,B,9,1
+3956,ACC-03955,3,Neurology Practice,4,C,7,0
+3957,ACC-03956,2,IDN Core Lab,5,C,5,1
+3958,ACC-03957,1,IDN Core Lab,1,C,2,0
+3959,ACC-03958,3,Geriatric Psychiatry,1,A,7,1
+3960,ACC-03959,3,Neurology Practice,2,A,7,1
+3961,ACC-03960,3,Memory Clinic,2,C,6,1
+3962,ACC-03961,2,Physician Office Lab,5,B,2,1
+3963,ACC-03962,3,Neurology Practice,2,A,5,1
+3964,ACC-03963,1,Reference Lab,5,B,9,1
+3965,ACC-03964,1,IDN Core Lab,1,B,10,1
+3966,ACC-03965,3,Geriatric Psychiatry,1,A,5,1
+3967,ACC-03966,1,Reference Lab,4,A,9,1
+3968,ACC-03967,1,Hospital Lab,4,C,1,1
+3969,ACC-03968,1,Physician Office Lab,1,B,1,1
+3970,ACC-03969,3,Primary Care,5,B,8,1
+3971,ACC-03970,3,Memory Clinic,1,C,10,1
+3972,ACC-03971,3,Primary Care,5,C,1,1
+3973,ACC-03972,1,Physician Office Lab,1,B,2,1
+3974,ACC-03973,2,Physician Office Lab,1,B,10,1
+3975,ACC-03974,2,Reference Lab,5,C,10,1
+3976,ACC-03975,3,Neurology Practice,1,C,5,1
+3977,ACC-03976,3,Memory Clinic,3,C,1,1
+3978,ACC-03977,2,IDN Core Lab,5,A,4,0
+3979,ACC-03978,1,Physician Office Lab,1,C,7,1
+3980,ACC-03979,2,Reference Lab,4,B,4,1
+3981,ACC-03980,3,Primary Care,3,C,4,1
+3982,ACC-03981,2,Reference Lab,2,A,5,1
+3983,ACC-03982,3,Geriatric Psychiatry,1,B,5,1
+3984,ACC-03983,2,Physician Office Lab,2,C,8,1
+3985,ACC-03984,1,IDN Core Lab,2,C,5,1
+3986,ACC-03985,3,Geriatric Psychiatry,2,C,6,1
+3987,ACC-03986,3,Primary Care,4,B,5,1
+3988,ACC-03987,1,Hospital Lab,2,C,7,1
+3989,ACC-03988,3,Memory Clinic,2,C,7,1
+3990,ACC-03989,3,Neurology Practice,5,B,1,1
+3991,ACC-03990,3,Memory Clinic,2,C,1,1
+3992,ACC-03991,3,Geriatric Psychiatry,5,B,9,1
+3993,ACC-03992,3,Memory Clinic,3,C,1,1
+3994,ACC-03993,2,Reference Lab,5,B,6,1
+3995,ACC-03994,1,Hospital Lab,5,B,9,0
+3996,ACC-03995,2,IDN Core Lab,2,B,6,1
+3997,ACC-03996,1,Hospital Lab,3,B,1,0
+3998,ACC-03997,3,Geriatric Psychiatry,1,A,3,0
+3999,ACC-03998,3,Primary Care,3,B,2,1
+4000,ACC-03999,1,Hospital Lab,2,C,1,1

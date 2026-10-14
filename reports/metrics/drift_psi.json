@@ -1,0 +1,24 @@
+{
+  "psi": {
+    "tenure_months": 0.001,
+    "log_test_volume": 0.0012,
+    "service_pain_index": 0.0022,
+    "support_tickets_90d": 0.2444,
+    "avg_resolution_hrs": 0.1589,
+    "nps_score": 0.0011,
+    "email_open_rate": 0.4235,
+    "portal_logins_90d": 0.0005,
+    "rep_visits_90d": 0.0012,
+    "webinars_attended_12m": 0.0006,
+    "digital_engagement_score": 0.0013,
+    "days_since_last_order": 0.0004,
+    "order_trend_qoq": 0.0018,
+    "contract_days_to_renewal": 0.001,
+    "price_increase_pct": 0.0004,
+    "MODEL SCORE (churn risk)": 0.0495
+  },
+  "features_over_0_25": [
+    "email_open_rate"
+  ],
+  "action": "Open retraining ticket; validate on fresh labels; champion/challenger before swap"
+}

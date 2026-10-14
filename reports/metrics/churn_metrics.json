@@ -1,0 +1,29 @@
+{
+  "champion": "Logistic regression",
+  "models": {
+    "Logistic regression": {
+      "cv_auc_mean": 0.889097907811759,
+      "cv_auc_sd": 0.008370812134735502,
+      "test_auc": 0.8905123641907742,
+      "test_pr_auc": 0.6885857894636648,
+      "brier": 0.08329205626425007,
+      "lift_top10": 4.636441402908468,
+      "recall_top10": 0.4636441402908469
+    },
+    "Gradient boosting": {
+      "cv_auc_mean": 0.8828764420654778,
+      "cv_auc_sd": 0.008267647513945342,
+      "test_auc": 0.8851451702559303,
+      "test_pr_auc": 0.6721258683307246,
+      "brier": 0.08553172243867813,
+      "lift_top10": 4.542343883661249,
+      "recall_top10": 0.4542343883661249
+    }
+  },
+  "capacity": 0.1,
+  "subgroup_auc_min": 0.8765892259506083,
+  "subgroup_auc_max": 0.9132823969037769,
+  "n_train": 16800,
+  "n_test": 7200,
+  "base_rate": 0.162375
+}
